@@ -41,7 +41,8 @@ Una buona alberatura aiuta gli utenti a trovare facilmente le informazioni di cu
 
 Una buona alberatura aiuta gli utenti a trovare facilmente le informazioni di cui hanno bisogno, riducendo il numero di clic necessari per raggiungere una pagina specifica. 
 
-La posizione di una pagina in alberatura influenzerà alcuni elementi chiave, come le breadcrumbs e le URL. Ad esempio, se nel sito di un Comune, la pagina dell’Ufficio Anagrafe è posizionata nella sezione “Amministrazione”, sotto la voce “Uffici””: 
+La posizione di una pagina in alberatura influenzerà alcuni elementi chiave, come le breadcrumbs e le URL. Ad esempio, se nel sito di un Comune, la pagina dell’Ufficio Anagrafe è posizionata nella sezione “Amministrazione”, sotto la voce “Uffici””:
+
 - le breadcrumbs della pagina saranno Home / Amministrazione / Uffici / Ufficio Anagarafe;
 - l'URL della pagina sarà https://www.nomecomune.provincia.it/amministrazione/uffici/ufficio-anagrafe.
 
