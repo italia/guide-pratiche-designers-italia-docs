@@ -59,7 +59,7 @@ Sono importanti perché:
    .. role:: admonition-internal-title
       :class: admonition-internal-title
 
-   `Esempio di job story e user story`:admonition-internal-title:
+   `Esempio di criteri di accettazione`:admonition-internal-title:
 
    Per la user story *“Come utente nuovo, voglio trovare rapidamente informazioni di contatto, in modo da poter chiedere assistenza"* usata prima come esempio, i criteri di accettazione potrebbero essere:
    
