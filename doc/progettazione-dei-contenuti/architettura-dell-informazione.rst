@@ -4,7 +4,7 @@ L’architettura dell’informazione consiste nell’**organizzazione dei conten
 
 Una buona architettura dell’informazione aiuta le persone a comprendere ciò che le circonda e a trovare ciò che cercano, sia online che offline. Lavorare su questo ambito implica fare delle riflessioni sulla struttura dell’informazione, sulla gerarchia dei contenuti e sul linguaggio. L’architettura dell’informazione è efficace se progettata sulla base dei bisogni delle persone, tenendo conto del contesto in cui il servizio si va a inserire e considerando l’organizzazione logica dei contenuti.
 
-.. figure:: doc/content-design/images/schema-ai.png
+.. figure:: images/schema-ai.png
    :height: 370px
    :width: 400 px
    :alt: Architettura dell’informazione
