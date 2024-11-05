@@ -206,9 +206,7 @@ Le URL ottimali sono:
    Esempio della URL di una pagina del sito di un Comune che segue l’alberatura del modello Comuni di Designers Italia
 
 
-È buona pratica l’utilizzo del `file robots.txt <#file-robots-txt>`__ per
-   bloccare la scansione da parte dei *crawler* dei motori di ricerca
-   delle URL con parametri dinamici (*referral*, ordinamenti, calendari…)
+È buona pratica l’utilizzo del `file robots.txt <#file-robots-txt>`__ per bloccare la scansione da parte dei *crawler* dei motori di ricerca delle URL con parametri dinamici (*referral*, ordinamenti, calendari…)
 
 `Ulteriori informazioni sulla struttura delle URL
 <https://support.google.com/webmasters/answer/76329?hl=it&ref_topic=4617741>`__
