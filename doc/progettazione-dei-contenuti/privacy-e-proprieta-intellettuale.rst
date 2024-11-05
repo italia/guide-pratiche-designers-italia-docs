@@ -1,5 +1,17 @@
-Privacy e proprietà intellettuale
+Proprietà intellettuale e privacy
 ======================================
+
+Quando si pubblicano contenuti online, ci sono una serie di disposizioni sul diritto d'autore e normative sulla privacy da rispettare.
+
+La Pubblica Amministrazione, attraverso la normativa vigente, è tenuta a:
+
+- rendere i contenuti di sua produzione disponibili al pubblico con licenze open source, incentivando così la diffusione e il riutilizzo dei dati;
+- assicurarsi di avere il diritto di pubblicare contenuti prodotti da terzi e che potrebbero essere protetti da copyright;
+- rispettare privacy e tutela dei dati personali, con particolare riferimento all'uso di immagini e video che ritraggono soggetti identificabili.
+
+
+Pubblicazione di contenuti prodotti dalla Pubblica Amministrazione
+--------------------------------------------------------------------------
 
 Tutti i contenuti pubblicati dalla Pubblica Amministrazione `sono
 rilasciati per legge con una licenza open
@@ -197,3 +209,5 @@ sito deve essere sempre autorizzata dai soggetti ritratti con una
 **liberatoria** (qui trovi `un modello pronto per
 l’utilizzo <https://docs.google.com/document/d/1HHyrk8L86XHuC0NOCAnSDY68Bjbjpp0vxvk5cL330vo/edit?usp=sharing>`__)
 in cui puoi specificare la destinazione del contenuto.
+
+Il **kit Privacy di Designers Italia** ti aiuta a trattare correttamente i dati personali riferiti ai principali casi d'uso che dovrai gestire progettando e realizzando un servizio digitale. `Vai al kit Privacy <https://designers.italia.it/risorse-per-progettare/organizzare/privacy/>`_
