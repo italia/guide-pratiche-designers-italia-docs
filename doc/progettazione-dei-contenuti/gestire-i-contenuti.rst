@@ -43,11 +43,8 @@ specifico è il processo di migrazione dei contenuti da un'infrastruttura tecnol
 Revisionare i contenuti
 --------------------------
 L’attività più frequente per la gestione dei contenuti è il monitoraggio
-e l’ottimizzazione dei contenuti già esistenti. All’interno del `kit Contenuti e linguaggio <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un
-`modello di analisi di
-contenuti <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit?usp=sharing>`__
-da cui puoi prendere spunto per gestire la tua attività di **revisione e
-monitoraggio dei contenuti**.
+e l’ottimizzazione dei contenuti già esistenti. All’interno del `kit Contenuti e linguaggio <https://designers.italia.it/risorse-per-progettare/progettare/contenuti-e-linguaggio/>`__ puoi trovare un
+`modello di analisi contenuti <https://designers.italia.it/risorse-per-progettare/progettare/contenuti-e-linguaggio/analizza-i-contenuti-esistenti/>`_ da cui puoi prendere spunto per gestire la tua attività di **revisione e monitoraggio dei contenuti**.
 
 L’analisi serve a:
 
