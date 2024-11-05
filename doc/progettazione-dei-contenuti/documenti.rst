@@ -67,9 +67,7 @@ cui vengono presentate le informazioni determinano l’efficacia o meno
 del contenuto.
 
 Per alcuni tipi di documento, è possibile individuare degli schemi fissi
-che è possibile sfruttare per creare nuovi testi. Il `Content kit di
-Designers Italia <https://designers.italia.it/kit/content-kit/>`__
-individua alcuni modelli che sono spesso usati dalla Pubblica
+che è possibile sfruttare per creare nuovi testi. Ecco alcuni modelli che sono spesso usati dalla Pubblica
 Amministrazione:
 
 +-----------------------+-----------------------+-----------------------+
