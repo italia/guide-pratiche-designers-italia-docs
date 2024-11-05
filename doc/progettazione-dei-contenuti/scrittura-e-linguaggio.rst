@@ -30,7 +30,7 @@ Può essere difficile per una sola persona scrivere contenuti che sono sia corre
 
    **Strumenti di editing collaborativo**
 
-   All’interno del `kit Contenuti e linguaggio <https://designers.italia.it/kit/content-kit/>`_ puoi trovare un esercizio di `editing collaborativo “Prima e dopo <https://designers.italia.it/risorse-per-progettare/progettare/contenuti-e-linguaggio/crea-il-linguaggio-del-touchpoint-digitale/>`_ che ti mostra in che modo utilizzare:
+   All’interno del `kit Contenuti e linguaggio <https://designers.italia.it/kit/content-kit/>`_ puoi trovare un `esercizio di editing collaborativo <https://designers.italia.it/risorse-per-progettare/progettare/contenuti-e-linguaggio/crea-il-linguaggio-del-touchpoint-digitale/>`_ che ti mostra in che modo utilizzare:
 
     -  degli strumenti come `InVision <https://www.invisionapp.com/>`__ e `Hypothes.is <https://web.hypothes.is/>`__, che ti permettono di fare una revisione dei contenuti direttamente nel loro contesto d’uso, online (nel caso di contenuti già pubblicati) oppure in un prototipo (nel caso di nuovi contenuti). Questo approccio è particolarmente utile per analizzare e migliorare *label*, voci di menu e testi che accompagnanano le interfacce grafiche attraverso cui si fruisce un servizio;
 
@@ -61,6 +61,7 @@ Le content critique sono molto utili, perché:
    3. **Fornire il contesto**: Prima di iniziare, spiega il contesto del contenuto: il pubblico target, l’obiettivo del pezzo, il tono desiderato ed eventuali vincoli specifici. Questo aiuta i partecipanti a dare un feedback più mirato.
    4. **Strutturare la critica**: Il focus deve essere sulla costruzione e sul miglioramento, non sulla critica fine a sé stessa. I partecipanti dovrebbero indicare cosa funziona e cosa non funziona, offrendo soluzioni o suggerimenti concreti. Puoi stimolare questi tipi di riflessione tramite domande aperte, come “Pensi che questo tono sia adatto per l’utente finale?” o “C'è un modo più semplice per comunicare questo concetto?” 
    5. **Ascolto attivo e rispetto**: Sii aperto al feedback e non prendere le critiche in modo personale. Mantieni un tono rispettoso e orientato al miglioramento. 
-   6. **Documentare i feedback**: Prendi appunti durante la sessione o utilizzare strumenti collaborativi come Google Docs o software di project management per raccogliere e organizzare il feedback.    7. **Follow-up**: Dopo la sessione, rivedi il contenuto alla luce del feedback ricevuto e, se necessario, programma una nuova sessione per verificare i miglioramenti apportati. 
+   6. **Documentare i feedback**: Prendi appunti durante la sessione o utilizzare strumenti collaborativi come Google Docs o software di project management per raccogliere e organizzare il feedback.
+   7. **Follow-up**: Dopo la sessione, rivedi il contenuto alla luce del feedback ricevuto e, se necessario, programma una nuova sessione per verificare i miglioramenti apportati. 
 
 
