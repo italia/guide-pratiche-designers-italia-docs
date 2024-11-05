@@ -187,18 +187,26 @@ profondità.
 
 URL delle pagine
 ^^^^^^^^^^^^^^^^
-
 La URL di una pagina web appare come
 seconda linea testuale del risultato di ricerca (fra *title* e
-*description*). È buona regola semplificare il più possibile la
-struttura:
+*description*).
 
--  impostare le URL in modo che contengano parole salienti e pertinenti
-   rispetto ai contenuti della pagina che ospitano
--  utilizzare i trattini (-) invece che gli *underscore* (\_) per la
-   punteggiatura
--  cercare di ridurre il più possibile la lunghezza delle URL
--  valutare l’utilizzo del `file robots.txt <#file-robots-txt>`__ per
+Le URL delle pagine sono un elemento fondamentale nell'esperienza utente del sito. Le URL ottimali vengono dette "parlanti": brevi, descrittive e che rispecchiano la struttura dei vari livelli del sito. Una buona URL, infatti, permette agli utenti e ai motori di ricerca di capire di cosa parla una pagina e dove si trova nel sito.  
+
+Le URL ottimali sono: 
+
+- **brevi** – ogni elemento dell'URL ha tra i 50 e i 60 caratteri, non più di 115; 
+- **descrittive** – danno un'idea del contenuto su pagina (contengono le parole chiave individuate); 
+- **leggibili** – scritti in minuscolo e separati da trattini (-); 
+- **aderenti alla struttura del sito** – presentano la posizione della pagina nel sito rispecchiando i livelli di alberatura. 
+
+.. figure:: images/struttura-url.png
+   :alt: struttura url
+
+   Esempio della URL di una pagina del sito di un Comune che segue l’alberatura del modello Comuni di Designers Italia
+
+
+È buona pratica l’utilizzo del `file robots.txt <#file-robots-txt>`__ per
    bloccare la scansione da parte dei *crawler* dei motori di ricerca
    delle URL con parametri dinamici (*referral*, ordinamenti, calendari…)
 
