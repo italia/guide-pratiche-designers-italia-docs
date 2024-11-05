@@ -15,6 +15,6 @@ Questa sezione affronta tematiche chiave come la **ricerca per i contenuti**, fo
    progettazione-dei-contenuti/scrittura-e-linguaggio.rst
    progettazione-dei-contenuti/documenti.rst
    progettazione-dei-contenuti/immagini-e-video.rst
-   progettazione-dei-contenuti/privacy-e-proprieta-intellettuale.rst
+   progettazione-dei-contenuti/proprieta-intellettuale-e-privacy.rst
    progettazione-dei-contenuti/ottimizzazione-per-i-motori-di-ricerca-seo.rst
    progettazione-dei-contenuti/gestire-i-contenuti.rst
