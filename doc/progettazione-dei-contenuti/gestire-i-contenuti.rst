@@ -108,4 +108,64 @@ interfacce utente (comprensive di `label <https://guida-linguaggio-pubblica-ammi
 
 Infine, è utile avere sul proprio sito o servizio digitale un **modulo di feedback** sui contenuti, poiché fornisce un canale diretto per capire come vengono percepiti e quali miglioramenti possono essere apportati. Il feedback aiuta a identificare eventuali punti di debolezza, come informazioni poco chiare o contenuti non pertinenti, e a misurare la soddisfazione degli utenti, permettendo di adattare meglio i contenuti alle loro esigenze. Inoltre, coinvolgere gli utenti nel processo di miglioramento crea un senso di partecipazione e fiducia, rendendo il sito più efficace e user-friendly. 
 
+Pubblicare i contenuti
+----------------------------
+Il più delle volte la gestione dei contenuti avviene tramite sistemi di
+pubblicazione basati su **Content management system** (CMS), come ad
+esempio `Wordpress <https://it.wordpress.org/>`__ o
+`Drupal <https://www.drupal.org/home>`__. Ma è possibile utilizzare
+altre modalità di pubblicazione e gestione dei contenuti: ad esempio, la
+piattaforma dove è ospitato questo manuale operativo utilizza GitHub come
+*content management system* e beneficia del suo *version control system* (versionamento).
+
+È bene conoscere in modo approfondito gli strumenti di gestione dei
+contenuti, in modo da governare i processi di aggiornamento,
+classificazione e riclassificazione dei contenuti, e seguire le regole
+per una buona indicizzazione dei contenuti sui motori di ricerca.
+
+.. admonition:: deepening
+   :class: admonition-deepening display-page
+
+   Molti CMS hanno delle funzioni in comune, il cui utilizzo va definito
+   in fase di progettazione (o riprogettazione) del sito, per creare un sistema
+   coerente e funzionale. Ad esempio:
+
+   -  **Gli articoli**: sono generalmente utilizzati per produrre news o
+      blog post, precisando la data di pubblicazione e in alcuni casi
+      l’autore. Essendo spesso organizzati attraverso delle categorie,
+      possono essere adatti anche per la pubblicazione e la gestione di
+      schede servizio. Anche quando il CMS non lo prevede, è bene
+      prevedere un sommario oltre al titolo, che spieghi il contenuto
+      della pagina, mentre è sempre necessario curare i metadati per
+      l’indicizzazione;
+
+   -  **Le pagine**: strumenti più versatili, possono contenere
+      informazioni testuali, *gallery*, liste, *wizard* e moduli, e quindi
+      sono adatte a qualsiasi tipo di *content type*. Per ogni pagina
+      valuta con attenzione il titolo, che deve essere pertinente,
+      indicizzato e può divenire un link di navigazione. In base
+      all’utilizzo delle pagine per i *content type*, definisci quando
+      prevedere anche un sommario e/o un testo introduttivo, per
+      indicare all’utente che contenuti trova nella pagina.
+
+   -  I **tag** e le **categorie**: sono due “modi” per catalogare e
+      correlare i contenuti all’interno dei CMS. È opportuno pianificare
+      in un file condiviso **quali tag** e **quali categorie**
+      utilizzare, in base alle scelte di correlazione dei contenuti
+      all’interno del sito. Pianifica in che modo le categorie e i tag
+      saranno utilizzati dagli utenti durante la navigazione (potrai
+      mostrare contenuti correlati, oppure creare dei menu partendo
+      dalle categorie, ecc.).
+
+   -  I **menu**: quando crei un menu con un CMS, ricorda che tutte le
+      voci sono di fatto delle etichette di navigazione che vanno
+      trattate coerentemente alla strategia adottata per il *labeling
+      system*.
+
+   -  Gli **oggetti** (chiamati comunemente anche *widget*) sono elementi molto versatili, attivabili e replicabili
+      all’interno delle pagine o di sezioni del sito (footer,
+      sidebar) per inserire contenuti multimediali, funzionalità ecc. Anche nel gestire questi elementi ricorda di
+      rispettare la corretta gestione delle etichette di navigazione,
+      del *microcopy*, dei metadati, dei tag e delle categorie.
+
 
