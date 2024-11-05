@@ -93,8 +93,8 @@ Attiribution <https://creativecommons.org/licenses/by/3.0/it/>`__ e
 `Creative Commons
 Attiribution-ShareAlike <https://creativecommons.org/licenses/by-sa/3.0/it/>`__.
 
-**Pubblicazione di contenuti non prodotti dalla Pubblica Amministrazione**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pubblicazione di contenuti non prodotti dalla Pubblica Amministrazione
+--------------------------------------------------------------------------
 
 Quando pubblichi qualsiasi tipo di contenuto su un sito, un canale
 social, una newsletter, **devi accertarti di averne il diritto**. Per
@@ -163,11 +163,10 @@ Commons? <http://www.creativecommons.it/faq#32>`__
       anche su `SoundCloud <https://soundcloud.com/>`__.
 
 Consenso dei soggetti ritratti
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------
 
-Un altro tema da tenere in considerazione quando si pubblicano immagini
-o video all’interno di un sito o di un canale social è il diritto a
-pubblicare immagini che raffigurano dei **soggetti riconoscibili**.
+Un altro tema da tenere in considerazione è quando pubblichi immagini
+o video all’interno di un sito o di un canale social che raffigurano dei **soggetti riconoscibili**.
 Queste immagini sono considerate **dati personali** e quindi regolate
 dalla `normativa sulla
 privacy <https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/1311248>`__,
