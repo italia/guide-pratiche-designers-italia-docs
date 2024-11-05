@@ -1,5 +1,5 @@
-SEO
-======
+Ottimizzazione per i motori di ricerca (SEO)
+===============================================
 
 Questa guida pratica ha lo scopo di aiutare chi si occupa del sito web di una Pubblica Amministrazione a capire come ottimizzare i contenuti pubblicati e la
 struttura del sito nel suo complesso in ottica SEO (*Search Engine Optimization*), con l’obiettivo finale di rendere informazioni e servizi più idonei a soddisfare i bisogni degli utenti e più visibili sui motori di ricerca. 
