@@ -65,11 +65,6 @@ Puoi annotare queste metriche nel `Modello di analisi dei contenuti <https://des
 
 Approfondisci come ottimizzare l’usabilità di siti e servizi sulla base di dati con il `kit Web Analytics <https://designers.italia.it/risorse-per-progettare/validare/web-analytics/>`_ di Designers Italia.
 
-.. topic:: Risorse disponibili
-   :class: useful-docs
-
-   Approfondisci come ottimizzare l’usabilità di siti e servizi sulla base di dati con il `kit Web Analytics <https://designers.italia.it/risorse-per-progettare/validare/web-analytics/>`_ di Designers Italia.
-
 
 Ricerca sui forum 
 --------------------------
@@ -90,3 +85,22 @@ In questo modo, otterrai:
 - una lista di vocaboli da usare per scrivere i contenuti; 
 - una lista dei contenuti più importanti per gli utenti, che inciderà anche sull’organizzazione dei contenuti del sito o servizio e sulla visibilità; 
 - un’indicazione del tono di voce e dello stile da usare.
+
+
+.. topic:: Titolo del Q&A fra utente e amministrazione
+   :class: question-and-answers
+
+   Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit
+   sed quia consequuntur magni dolores eos qui ratione voluptatem
+   nesciunt.
+
+   .. pull-quote:: utente
+
+      Quote di domanda dell’utente. Lorem ipsum dolor sit amet,
+      sed aiusmod tempo soiu incidunt labore et aliqua sumen fortes.
+
+     - :term:`Keyword 1`
+     - :term:`Keyword 2`
+     - :term:`Keyword 3`
+     - :term:`Keyword 4`
+
