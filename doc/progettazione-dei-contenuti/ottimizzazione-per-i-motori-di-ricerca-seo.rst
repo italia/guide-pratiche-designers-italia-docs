@@ -452,7 +452,9 @@ Con Search Console è possibile:
 
 `Come configurare un sito web in Search Console
 <https://support.google.com/webmasters/answer/34592?hl=it&ref_topic=3309469>`__
+
 `Centro assistenza Search Console
 <https://support.google.com/webmasters#topic=3309469>`__
+
 `Come collegare Search Console a Google Analytics
 <https://support.google.com/analytics/answer/1308621?hl=it>`__
