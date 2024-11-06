@@ -72,7 +72,7 @@ Una volta completato il card sorting, i dati vengono raccolti e analizzati per i
 
 .. admonition:: Risorse disponibili
 
-   Nel kit Architettura dell'informazione di Designers Italia trovi strumenti utili a `svolgere un'attività di card sorting <https://designers.italia.it/risorse-per-progettare/progettare/architettura-dell-informazione/organizza-i-contenuti/>`_ e a `rappresentare graficamente un'alberatura <<https://designers.italia.it/risorse-per-progettare/progettare/architettura-dell-informazione/definisci-alberatura-content-type-e-tassonomie/>`_.
+   Nel kit Architettura dell'informazione di Designers Italia trovi strumenti utili a `svolgere un'attività di card sorting <https://designers.italia.it/risorse-per-progettare/progettare/architettura-dell-informazione/organizza-i-contenuti/>`_ e a `rappresentare graficamente un'alberatura <https://designers.italia.it/risorse-per-progettare/progettare/architettura-dell-informazione/definisci-alberatura-content-type-e-tassonomie/>`_.
 
 
 
