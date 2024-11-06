@@ -19,6 +19,10 @@ L’architettura dell’informazione può comprendere:
 - le **ontologie**, ovvero le rappresentazioni formali di un dominio di conoscenza attraverso cui si può garantire l’interoperabilità e interscambio dei dati tra diversi ambienti digitali; 
 - i **vocabolari controllati**, ovvero liste di vocaboli per facilitare la trovabilità delle informazioni da parte degli utenti.
 
+.. admonition:: Risorse disponibili
+
+   Il `kit Architettura dell'informazione <https://designers.italia.it/risorse-per-progettare/progettare/architettura-dell-informazione/>`_ di Designers Italia ti guida passo per passo nelle attività pratiche utili a progettare un'architettura efficace e intuitiva.
+
 Definire l'architettura dell'informazione
 =============================================
 
@@ -26,7 +30,11 @@ Uno dei principi dell’architettura dell’informazione è tenere conto del con
 
 In pratica, l’organizzazione della conoscenza all’interno della Pubblica Amministrazione ha alcune regole generali che è bene conoscere e che devono essere utilizzate in ogni ambito; e alcune regole (standard) che si possono applicare all’interno di ambiti specifici. 
 
-Per fare un esempio, è possibile definire uno standard per l’architettura dell’informazione dei Comuni italiani, senza che sia necessario affrontare il problema per ciascuno dei migliaia dei siti web dei Comuni italiani. Su Designers Italia sono presenti `Modelli di sito e servizi per la Pubblica Amministrazione <https://designers.italia.it/modelli/>`_ da cui è possibile partire per progettare siti e servizi per enti specifici.
+Per fare un esempio, è possibile definire uno standard per l’architettura dell’informazione dei Comuni italiani, senza che sia necessario affrontare il problema per ciascuno dei migliaia dei siti web dei Comuni italiani. 
+
+.. admonition:: Risorse disponibili
+
+   Se stai progettando un sito informativo per un **Comune**, una **scuola**, una **ASL** o un **museo civico**, sono già disponibili all'uso i `modelli di sito e servizi <https://designers.italia.it/modelli/>`_ di Designers Italia con alberature, content type e tassonomie. Puoi partire da questi modelli anche per progettare siti e servizi per altre tipologie di enti.
 
 Alberatura
 ================
@@ -43,8 +51,9 @@ Una buona alberatura aiuta gli utenti a trovare facilmente le informazioni di cu
 
 La posizione di una pagina in alberatura influenzerà alcuni elementi chiave, come le breadcrumbs e le URL. Ad esempio, se nel sito di un Comune, la pagina dell’Ufficio Anagrafe è posizionata nella sezione “Amministrazione”, sotto la voce “Uffici””:
 
-- le breadcrumbs della pagina saranno Home / Amministrazione / Uffici / Ufficio Anagarafe;
-- l'URL della pagina sarà https://www.nomecomune.provincia.it/amministrazione/uffici/ufficio-anagrafe.
+- le breadcrumbs della pagina saranno **Home / Amministrazione / Uffici / Ufficio Anagarafe**;
+- l'URL della pagina sarà **https://www.nomecomune.provincia.it/amministrazione/uffici/ufficio-anagrafe**.
+
 
 Progettare l'alberatura con il card sorting
 ---------------------------------------------
@@ -59,9 +68,13 @@ Nel **card sorting aperto**, ai partecipanti viene chiesto di raggruppare le sch
 
 Nel **card sorting chiuso**, ai partecipanti viene fornito un set di categorie predefinite e viene chiesto di classificare le schede all'interno di queste categorie. Questo è utile quando si vuole validare una struttura di contenuti esistente. 
 
-Una volta completato il card sorting, i dati vengono raccolti e analizzati per identificare modelli di raggruppamento comuni. Le analisi possono rivelare categorie naturali, suggerire miglioramenti per i nomi delle categorie e mettere in luce eventuali discrepanze nell'organizzazione proposta. 
+Una volta completato il card sorting, i dati vengono raccolti e analizzati per identificare modelli di raggruppamento comuni. Le analisi possono rivelare categorie naturali, suggerire miglioramenti per i nomi delle categorie e mettere in luce eventuali discrepanze nell'organizzazione proposta.
 
-Nel kit Architettura dell'informazione di Designers Italia puoi trovare strumenti utili a svolgere un'attività di card sorting in presenza o da remoto. `Vai agli strumenti di card sorting <https://designers.italia.it/risorse-per-progettare/progettare/architettura-dell-informazione/organizza-i-contenuti/>`_
+.. admonition:: Risorse disponibili
+
+   Nel kit Architettura dell'informazione di Designers Italia trovi strumenti utili a `svolgere un'attività di card sorting <https://designers.italia.it/risorse-per-progettare/progettare/architettura-dell-informazione/organizza-i-contenuti/>`_ e a `rappresentare graficamente un'alberatura <<https://designers.italia.it/risorse-per-progettare/progettare/architettura-dell-informazione/definisci-alberatura-content-type-e-tassonomie/>`_.
+
+
 
 Flussi di servizio
 ====================
@@ -77,7 +90,11 @@ Ogni passaggio presenterà i contenuti e le informazioni necessarie per poter an
 
 Per progettare i contenuti di un flusso di servizio in modo efficace, è fondamentale condurre una ricerca utente specifica che aiuti a comprendere i bisogni, i comportamenti e le aspettative degli utenti durante l'interazione con il servizio. Alcune attività di ricerca utili sono le interviste, sondaggi e questionari, mappatura dell’user journey e i test di usabilità. 
 
-Una volta raccolte le necessità informative degli utenti, è utile schematizzare i risultati usando i content wireframe. I content wireframe sono rappresentazioni schematiche, semplificate e visive di una pagina web o di un'interfaccia digitale, focalizzate sull'organizzazione e disposizione dei contenuti piuttosto che sul design grafico o sull'estetica. 
+Una volta raccolte le necessità informative degli utenti, è utile schematizzare i risultati usando i content wireframe. I content wireframe sono rappresentazioni schematiche, semplificate e visive di una pagina web o di un'interfaccia digitale, focalizzate sull'organizzazione e disposizione dei contenuti piuttosto che sul design grafico o sull'estetica.
+
+.. admonition:: Risorse disponibili
+
+   Il `kit Processi e servizi <https://designers.italia.it/risorse-per-progettare/progettare/processi-e-servizi/>`_ di Designers Italia ti aiuta a progettare e rappresentare i flussi di servizio di processi sequenziali. Se stai progettando servizi digitali per un Comune, sono già disponibili all'uso i flussi di servizio e le interfacce per i `principali servizi comunali <https://designers.italia.it/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/>`_ nel modello Comuni di Designers Italia.
 
 Sistemi di navigazione
 =============================
@@ -183,6 +200,6 @@ Anche le tassonomie sono vocabolari controllati. Una tassonomia è un vocabolari
 
 I vocabolari controllati sono molto utili per i siti web della Pubblica Amministrazione, poiché permettono di scegliere nomenclature adatte per categorizzare i contenuti, creare filtri di selezione e di ricerca e offrono un ottimo spunto per riflettere su voci di menu e di navigazione. 
 
-Ad esempio, i modelli di Designers Italia presentano vocabolari controllati come i luoghi della cultura, gli eventi culturali, i servizi pubblici. 
+Ad esempio, i `modelli di Designers Italia <https://designers.italia.it/modelli/>`_ presentano vocabolari controllati come i luoghi della cultura, gli eventi culturali, i servizi pubblici. 
 
 `Vai ai vocabolari controllati su Schema <https://schema.gov.it/search?type=CONTROLLED_VOCABULARY&sortBy=TITLE&direction=ASC>`_
