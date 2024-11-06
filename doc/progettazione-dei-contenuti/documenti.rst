@@ -289,8 +289,7 @@ dei Pdf.
 
    I metadati sono informazioni aggiuntive che vengono associate al documento automaticamente in fase di creazione, oppure manualmente.Aggiungi dei metadati al documento Pdf per aiutare gli utenti a **trovare più facilmente il documento**.
 
-   I principali metadati che possono essere associati a un documento
-      sono:
+   I principali metadati che possono essere associati a un documento sono:
 
    -  titolo;
 
