@@ -17,6 +17,10 @@ Le regole per un linguaggio semplice
 ----------------------------------------
 Il linguaggio, il tono di voce e la formattazione dei contenuti sono quindi elementi cruciali dell’esperienza utente di un sito o servizio digitale. Una Pubblica Amministrazione che mette le persone al centro sa parlare in modo semplice, chiaro ed empatico. 
 
+.. admonition:: Risorse disponibili
+
+   Nei **fondamenti `Linguaggio <https://designers.italia.it/design-system/fondamenti/linguaggio/>`_, `Microtesti <https://designers.italia.it/design-system/fondamenti/microtesti/>`_ e `Tono di voce <https://designers.italia.it/design-system/fondamenti/tono-di-voce/>`_** del design system .italia e nella **`Guida al linguaggio della Pubblica Amministrazione <https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/index.html>`_** trovi tutte le indicazioni pratiche per scrivere testi semplici e accessibili. 
+
 
 
 Scrittura collaborativa 
