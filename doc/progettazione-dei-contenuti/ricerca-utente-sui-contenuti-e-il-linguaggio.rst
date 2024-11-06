@@ -87,20 +87,6 @@ In questo modo, otterrai:
 - un’indicazione del tono di voce e dello stile da usare.
 
 
-.. topic:: Titolo del Q&A fra utente e amministrazione
-   :class: question-and-answers
+.. admonition:: Risorse disponibili
 
-   Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit
-   sed quia consequuntur magni dolores eos qui ratione voluptatem
-   nesciunt.
-
-   .. pull-quote:: utente
-
-      Quote di domanda dell’utente. Lorem ipsum dolor sit amet,
-      sed aiusmod tempo soiu incidunt labore et aliqua sumen fortes.
-
-     - :term:`Keyword 1`
-     - :term:`Keyword 2`
-     - :term:`Keyword 3`
-     - :term:`Keyword 4`
-
+   Approfondisci come ottimizzare l’usabilità di siti e servizi sulla base di dati con il `kit Web Analytics <https://designers.italia.it/risorse-per-progettare/validare/web-analytics/>`_ di Designers Italia.
