@@ -25,16 +25,14 @@ L’altra persona, in base alle esigenze del progetto e la natura del contenuto 
 Può essere difficile per una sola persona scrivere contenuti che sono sia corretti e sia facili da leggere. In ogni istituzione ci sono esperti di determinati argomenti che possono scrivere in maniera accurata. Tuttavia, non sono sempre in grado di spiegare un argomento in maniera semplice e chiara, proprio perché ne sanno troppo e la loro mente si focalizza sui dettagli. La scrittura collaborativa serve quindi a scrivere testi corretti, ma anche semplici da comprendere.
 
 
-.. admonition:: deepening
-   :class: admonition-deepening display-page
-
-   **Strumenti di editing collaborativo**
+.. admonition:: Risorse disponibili
 
    All’interno del `kit Contenuti e linguaggio <https://designers.italia.it/kit/content-kit/>`_ puoi trovare un `esercizio di editing collaborativo <https://designers.italia.it/risorse-per-progettare/progettare/contenuti-e-linguaggio/crea-il-linguaggio-del-touchpoint-digitale/>`_ che ti mostra in che modo utilizzare:
 
     -  degli strumenti come `InVision <https://www.invisionapp.com/>`__ e `Hypothes.is <https://web.hypothes.is/>`__, che ti permettono di fare una revisione dei contenuti direttamente nel loro contesto d’uso, online (nel caso di contenuti già pubblicati) oppure in un prototipo (nel caso di nuovi contenuti). Questo approccio è particolarmente utile per analizzare e migliorare *label*, voci di menu e testi che accompagnanano le interfacce grafiche attraverso cui si fruisce un servizio;
 
     -  degli strumenti di scrittura collaborativa come `Google Docs <https://docs.google.com/document/u/0/>`__, che ti permettono di fare interventi condivisi sulle parti testuali del tuo contenuto.
+
 
 
 Content critique
