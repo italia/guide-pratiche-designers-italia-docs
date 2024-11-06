@@ -63,7 +63,9 @@ Alcune metriche che puoi prendere in considerazione, in base agli scopi della ri
 
 Puoi annotare queste metriche nel `Modello di analisi dei contenuti <https://designers.italia.it/risorse-per-progettare/progettare/contenuti-e-linguaggio/analizza-i-contenuti-esistenti/>`_ di Designers Italia, particolarmente utile per svolgere una revisione dei contenuti.
 
-Approfondisci come ottimizzare l’usabilità di siti e servizi sulla base di dati con il `kit Web Analytics <https://designers.italia.it/risorse-per-progettare/validare/web-analytics/>`_ di Designers Italia.
+.. admonition:: Risorse disponibili
+
+   Approfondisci come ottimizzare l’usabilità di siti e servizi sulla base di dati con il `kit Web Analytics <https://designers.italia.it/risorse-per-progettare/validare/web-analytics/>`_ di Designers Italia.
 
 
 Ricerca sui forum 
@@ -86,7 +88,3 @@ In questo modo, otterrai:
 - una lista dei contenuti più importanti per gli utenti, che inciderà anche sull’organizzazione dei contenuti del sito o servizio e sulla visibilità; 
 - un’indicazione del tono di voce e dello stile da usare.
 
-
-.. admonition:: Risorse disponibili
-
-   Approfondisci come ottimizzare l’usabilità di siti e servizi sulla base di dati con il `kit Web Analytics <https://designers.italia.it/risorse-per-progettare/validare/web-analytics/>`_ di Designers Italia.
