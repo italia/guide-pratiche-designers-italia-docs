@@ -11,6 +11,12 @@ Secondo studi sull'usabilità, come quelli condotti da Jakob Nielsen, l'utente l
 
 Uno dei modelli di lettura più comuni sul web è l'**F-Pattern**, così chiamato perché il movimento degli occhi segue una forma simile alla lettera "F". Le persone iniziano a leggere dall'alto a sinistra, scansionano una riga orizzontale, poi si spostano in basso, leggono un'altra breve sezione orizzontale e infine scendono lungo il margine sinistro, scansionando verticalmente.
 
+.. figure:: images/f-pattern.png
+   :alt: flusso di lettura dei contenuti sul web
+   :align: center
+
+   *Rappresentazione dell'F-Pattern, il flusso di lettura più comune dei contenuti sul web.*
+
 Gli utenti dedicano pochi secondi a una pagina per decidere se proseguire la lettura o abbandonarla. I contenuti devono essere chiari e immediatamente comprensibili, con le informazioni principali ben visibili. Le persone cercano informazioni specifiche, ignorando parti del contenuto che non ritengono rilevanti. Questo le porta a saltare interi paragrafi o sezioni se non rispondono immediatamente alle loro domande o esigenze.
 
 Le regole per un linguaggio semplice
