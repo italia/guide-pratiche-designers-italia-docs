@@ -1,27 +1,29 @@
-Content discovery e ricerca
-******************************
+Ricerca utente sui contenuti e il linguaggio
+============================================
 
-La fase di content discovery e ricerca è fondamentale per la progettazione dei contenuti. Lo scopo è di arrivare a comprendere lo stato dell’arte e la natura del problema che si vuole risolvere – e non di iniziare a progettare soluzioni. 
+La fase di ricerca è fondamentale per la progettazione dei contenuti. Lo scopo è di arrivare a **comprendere lo stato dell’arte e la natura del problema** che si vuole risolvere – e non di iniziare a progettare soluzioni. 
 
 Prima di creare un contenuto, infatti, devi avere ben chiaro: 
 
-- chi sono gli utenti a cui ti rivolgi; 
-- qual è lo scopo della loro visita, ovvero qual è il bisogno a cui il tuo contenuto deve rispondere. 
+- **chi sono gli utenti** a cui ti rivolgi; 
+- qual è lo scopo della loro visita, ovvero **qual è il bisogno a cui il tuo contenuto deve rispondere**. 
 
-La content discovery e la ricerca ti aiutano a capire: 
+La fase di ricerca ti aiuta a capire: 
 
 - chi sono i tuoi utenti, quali sono le loro necessità e quale linguaggio usano; 
 - quali sono le necessità dell’organizzazione; 
 - quali contenuti pubblicare e quando; 
 - quali canali di comunicazione usare. 
 
-Puoi fare content discovery e ricerca per intere sezioni di contenuti o anche pezzi di contenuti singoli. 
+Puoi fare ricerca per intere sezioni di contenuti o anche pezzi di contenuti singoli. 
 
 Puoi anche usare questa fase per aiutare le altre persone nella tua organizzazione a capire cosa stai facendo e perché.
 
-Come fare una sessione di content discovery
-============================================
-Lo scopo della sessione è di coinvolgere tutte le persone che lavorano con i contenuti che stai progettando o che potrebbero avere un interesse (ad esempio, le persone che lavorano nell’ufficio che offre un determinato servizio ai cittadini, o le persone che lavorano direttamente in supporto ai cittadini – come le helpline), in modo da raccogliere il maggior numero di informazioni possibile.  
+Oltre a tutte le attività di ricerca utente (**LINK A CAPITOLO**) svolte dagli user researcher, esistono una serie di attività di desk research complementari che ti aiutano a capire i tuoi utenti, i contenuti che cercano e il linguaggio che usano.
+
+Content discovery
+---------------------
+Organizzare una sessione di content discovery è il primo passo della progettazione dei contenuti. Lo scopo della sessione è di coinvolgere tutte le persone che lavorano con i contenuti che stai progettando o che potrebbero avere un interesse (ad esempio, le persone che lavorano nell’ufficio che offre un determinato servizio ai cittadini, o le persone che lavorano direttamente in supporto ai cittadini – come le helpline), in modo da raccogliere il maggior numero di informazioni possibile.  
 
 Prenota una sala riunioni o organizza una riunione online per un paio d’ore. Successivamente potrai decidere se le informazioni raccolte sono sufficienti o se è necessario organizzare altre sessioni. Assicurati di avere gli strumenti adatti per prendere note, come penne e post-it per le sessioni in presenza o lavagne collaborative per sessioni online. Fai più domande possibili per capire di più sull’argomento, gli utenti, quello che vogliono sapere e quali sono anche i loro comportamenti offline. 
 
@@ -34,10 +36,6 @@ Alla fine della content discovery, avrai raccolto:
 - il punto di vista e le conoscenze dell’organizzazione in senso più ampio; 
 - un'idea delle informazioni che mancano ed è necessario approfondire. 
 
-Ricerca utente sui contenuti e il linguaggio
-=================================================
-
-Oltre alle attività di ricerca utente svolte dagli user researcher, esistono una serie di attività di desk research che si focalizzano sullo scoprire i contenuti che gli utenti cercano e il linguaggio che usano.
 
 Dati di ricerca (search keywords)
 ------------------------------------
