@@ -84,3 +84,16 @@ In questo modo, otterrai:
 - una lista di vocaboli da usare per scrivere i contenuti; 
 - una lista dei contenuti più importanti per gli utenti, che inciderà anche sull’organizzazione dei contenuti del sito o servizio e sulla visibilità; 
 - un’indicazione del tono di voce e dello stile da usare.
+
+.. topic:: Documenti utili
+   :class: useful-docs
+
+   - :mimetype:`application/pdf` `Predisposizione e invio del file
+      di pre-subentro [204kb] <https://www.example.com>`_
+
+   - :mimetype:`application/pdf` `Guida rapida per il censimento
+     degli utenti e delle postazioni per i Comuni [82kb]
+     <https://www.example.com>`_
+
+   - :mimetype:`text/html` `Piano dei test di integrazione (Apertura
+     nuova finestra) <https://www.example.com>`_
