@@ -101,28 +101,22 @@ Sistemi di navigazione
 
 I sistemi di navigazione di un sito o servizio digitale sono le **strutture e gli elementi che guidano gli utenti attraverso i contenuti e le funzionalità** disponibili. Questi sistemi sono fondamentali per garantire un'esperienza utente fluida e intuitiva, permettendo agli utenti di trovare rapidamente le informazioni o le funzionalità che cercano. 
 
-Navigazione principale (o globale)
-----------------------------------------
+**Navigazione principale (o globale)**
 È la barra di navigazione principale che di solito si trova nella parte superiore del sito (`header <https://designers.italia.it/design-system/componenti/header/>`_) o in un menu laterale. Fornisce accesso alle sezioni principali del sito o servizio. Garantisce che l'utente possa accedere rapidamente alle aree chiave del sito da qualsiasi pagina.  
 
-Navigazione secondaria (o locale)
-------------------------------------
+**Navigazione secondaria (o locale)**
 È la navigazione che si trova all'interno di una sezione specifica del sito, fornendo accesso alle sottosezioni o ai contenuti correlati. Aiuta gli utenti a esplorare contenuti correlati senza dover tornare alla navigazione principale. Graficamente è generalmente rappresentata da un `megamenu <https://designers.italia.it/design-system/componenti/megamenu/>`_. 
 
-Navigazione contestuale
---------------------------
+**Navigazione contestuale**
 Avviene direttamente all'interno del contenuto, tramite link o elementi di navigazione che guidano l'utente verso contenuti correlati o approfondimenti: link nel testo, `pulsanti <https://designers.italia.it/design-system/componenti/buttons/>`_ *"Scopri di più" / “Vai a...”*, `card <https://designers.italia.it/design-system/componenti/card/>`_, `carousel <https://designers.italia.it/design-system/componenti/carousel/>`_. 
 
-Breadcrumb
---------------------
+**Breadcrumb**
 Indicatori di un percorso di navigazione gerarchico che aiuta gli utenti a comprendere la loro posizione all'interno di un sito e a tornare facilmente ai livelli precedenti. Le `breadcrumb <https://designers.italia.it/design-system/componenti/breadcrumbs/>`_ sono poste a inizio pagina e rispecchiano l’alberatura del sito. Ad esempio, nella pagina dedicata all’ufficio anagrafe di un sito web di un Comune potremmo trovare le breadcrumb *Home / Amministrazione / Uffici / Ufficio anagrafe*. 
 
-Navigazione a step
----------------------
+**Navigazione a step**
 Tipica di un flusso di servizio, la navigazione a step è usata in applicazioni e siti web per guidare gli utenti attraverso una sequenza di passaggi o fasi, in modo strutturato e lineare. Ogni passaggio rappresenta una fase specifica di un processo complesso, come la registrazione a un servizio, la compilazione di un modulo o il completamento di un pagamento. Viene generalmente resa a livello grafico con degli `stepper <https://designers.italia.it/design-system/componenti/steppers/>`_. 
 
-Footer 
----------
+**Footer**
 La navigazione nel `footer <https://designers.italia.it/design-system/componenti/footer/>`_ della pagina replica o integra la navigazione globale con link aggiuntivi, come le politiche di privacy, termini di servizio, link ai social media, ecc.
 
 Tipologie di contenuto (content type)
