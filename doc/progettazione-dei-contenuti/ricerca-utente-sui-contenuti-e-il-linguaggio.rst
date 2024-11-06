@@ -65,6 +65,12 @@ Puoi annotare queste metriche nel `Modello di analisi dei contenuti <https://des
 
 Approfondisci come ottimizzare l’usabilità di siti e servizi sulla base di dati con il `kit Web Analytics <https://designers.italia.it/risorse-per-progettare/validare/web-analytics/>`_ di Designers Italia.
 
+.. topic:: Risorse disponibili
+   :class: useful-docs
+
+   Approfondisci come ottimizzare l’usabilità di siti e servizi sulla base di dati con il `kit Web Analytics <https://designers.italia.it/risorse-per-progettare/validare/web-analytics/>`_ di Designers Italia.
+
+
 Ricerca sui forum 
 --------------------------
 I forum sono spazi dove gli utenti esprimono liberamente le loro opinioni, preoccupazioni e bisogni. Analizzando le discussioni, puoi ottenere una comprensione dettagliata delle esigenze degli utenti, delle loro sfide e delle soluzioni che cercano. 
@@ -84,16 +90,3 @@ In questo modo, otterrai:
 - una lista di vocaboli da usare per scrivere i contenuti; 
 - una lista dei contenuti più importanti per gli utenti, che inciderà anche sull’organizzazione dei contenuti del sito o servizio e sulla visibilità; 
 - un’indicazione del tono di voce e dello stile da usare.
-
-.. topic:: Documenti utili
-   :class: useful-docs
-
-   - :mimetype:`application/pdf` `Predisposizione e invio del file
-      di pre-subentro [204kb] <https://www.example.com>`_
-
-   - :mimetype:`application/pdf` `Guida rapida per il censimento
-     degli utenti e delle postazioni per i Comuni [82kb]
-     <https://www.example.com>`_
-
-   - :mimetype:`text/html` `Piano dei test di integrazione (Apertura
-     nuova finestra) <https://www.example.com>`_
