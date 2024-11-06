@@ -13,6 +13,12 @@ Uno dei modelli di lettura più comuni sul web è l'**F-Pattern**, così chiamat
 
 Gli utenti dedicano pochi secondi a una pagina per decidere se proseguire la lettura o abbandonarla. I contenuti devono essere chiari e immediatamente comprensibili, con le informazioni principali ben visibili. Le persone cercano informazioni specifiche, ignorando parti del contenuto che non ritengono rilevanti. Questo le porta a saltare interi paragrafi o sezioni se non rispondono immediatamente alle loro domande o esigenze.
 
+Le regole per un linguaggio semplice
+----------------------------------------
+Il linguaggio, il tono di voce e la formattazione dei contenuti sono quindi elementi cruciali dell’esperienza utente di un sito o servizio digitale. Una Pubblica Amministrazione che mette le persone al centro sa parlare in modo semplice, chiaro ed empatico. 
+
+
+
 Scrittura collaborativa 
 ------------------------------
 
