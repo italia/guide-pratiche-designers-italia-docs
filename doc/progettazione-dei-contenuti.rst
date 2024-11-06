@@ -9,7 +9,7 @@ Questa sezione affronta tematiche chiave come la **ricerca per i contenuti**, fo
    :maxdepth: 2
 
    progettazione-dei-contenuti/cos-e-il-content-design.rst
-   progettazione-dei-contenuti/content-discovery-e-ricerca.rst
+   progettazione-dei-contenuti/ricerca-utente-sui-contenuti-e-il-linguaggio.rst
    progettazione-dei-contenuti/dalla-ricerca-ai-bisogni-degli-utenti.rst
    progettazione-dei-contenuti/architettura-dell-informazione.rst
    progettazione-dei-contenuti/scrittura-e-linguaggio.rst
