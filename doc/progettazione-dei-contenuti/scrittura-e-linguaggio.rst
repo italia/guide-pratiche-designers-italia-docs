@@ -186,3 +186,61 @@ Le content critique sono molto utili, perché:
    7. **Follow-up**: Dopo la sessione, rivedi il contenuto alla luce del feedback ricevuto e, se necessario, programma una nuova sessione per verificare i miglioramenti apportati. 
 
 
+Traduzione e localizzazione dei contenuti
+--------------------------------------------
+Localizzare (rendere disponibile in più lingue) un sito o servizio digitale può essere molto importante per renderlo più efficace per tutti gli utenti, anche quelli che non conoscono o non hanno dimestichezza con la lingua e la cultura italiane.  
+
+Questo passaggio può essere particolarmente importante per i servizi pubblici, che si rivolgono spesso anche a cittadini di altre nazionalità, apolidi o a cittadini italiani ma che hanno diversi riferimenti linguistici o culturali.  
+
+Sono state identificate come prioritarie le seguenti lingue straniere: **tedesco**, **sloveno**, **francese** e **inglese**.
+
+Quando si procede alla traduzione di un sito o di un servizio, la prima scelta da fare è se: 
+
+- tradurre l’intero sito (o l’intero servizio/applicazione); 
+- tradurne solo una parte, dove l’utilizzo di altre lingue è particolarmente rilevante (es. la sezione “visti” del sito del Ministero degli esteri, la sezione dedicata alle emergenze del sito di un ospedale, ecc.).
+
+La scelta va fatta in considerazione: 
+
+- di una ricerca sugli utenti del sito o del servizio, che indaghi la lingua e i riferimenti culturali attraverso strumenti quantitativi (`web analytics <https://designers.italia.it/risorse-per-progettare/validare/web-analytics/>`_) e qualitativi (`interviste utente <https://designers.italia.it/risorse-per-progettare/comprendere/interviste-soggetti-coinvolti/>`_, ad esempio); 
+- degli obiettivi che si vogliono perseguire con i propri contenuti (inclusione, efficienza del servizio, accessibilità, ecc.).
+
+Per la creazione e la gestione di una versione multilingua di un sito è necessario organizzare un flusso di lavoro che preveda: 
+
+- la mappatura di tutti i contenuti; 
+- la scelta dei contenuti da tradurre, in base agli utenti e agli obiettivi da raggiungere; 
+- l’organizzazione all’interno del team del lavoro di traduzione e localizzazione dei contenuti; 
+- il test dell’efficacia dei contenuti tradotti (tramite `A/B test <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-experience-aec73bc0fbb>`_, `test di usabilità <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/>`_).
+
+Se la traduzione riguarda solo alcune parti del sito: 
+
+- mostra in modo evidente l’interfaccia per scegliere la lingua alternativa; 
+- assicurati di tradurre anche il contesto, aggiungendo dei chiarimenti quando necessario, per non lasciare le informazioni isolate o dare per scontate altre informazioni che non sono tradotte.
+
+“Tradurre” i contenuti di un sito o di una sezione di un sito non significa limitarsi a cambiare il testo dall’italiano alla lingua di destinazione, ma anche “localizzare” i contenuti, rendendoli comprensibili ed efficaci anche da chi parla un’altra lingua o ha una diversa cultura. Ad esempio: 
+
+- alcuni concetti o nomi possono non essere immediatamente comprensibili per un turista o un cittadino di altra nazionalità e vanno spiegati, oltre che tradotti (ad esempio, “il medico di base”, “gli esami di stato”, “l’Inps”, “l’Agenzia delle entrate”, ecc.); 
+- alcune espressioni possono avere un significato diverso se semplicemente tradotte in un’altra lingua (ad esempio, “timbra il biglietto” si potrebbe tradurre con “validate your ticket by stamping it at the machines” invece che con un semplice “stamp your ticket”); 
+- può essere necessario adattare alcuni contenuti in base alla cultura di chi legge (i concetti di “famiglia” e “congiunti”, ad esempio, potrebbero avere significati diversi e quindi in alcuni casi andare chiariti in base ai riferimenti culturali degli utenti a cui ci si rivolge). 
+
+In generale, si ritiene preferibile assegnare l’attività di traduzione ad **agenzie certificate ed esperte nella traduzione per le comunità di lingua minoritaria**, che assicurino il rispetto delle specificità linguistiche locali. Inoltre, quando possibile, si consiglia la consulenza di un esperto di localizzazione UX, per assicurare non la semplice traduzione testuale dei microtesti, ma il corretto adattamento degli aspetti di interazione delle interfacce alle convenzioni culturali della lingua di destinazione (per esempio, è necessario sapere che i pulsanti - le call to action vogliono il verbo all’infinito in lingua francese: “Scopri” diventa "Découvrir").
+
+.. admonition:: deepening
+   :class: admonition-deepening display-page
+
+   **Materiali da formire a un’agenzia di traduzione**
+
+   Quando si forniscono all’agenzia di traduzione i testi definitivi in lingua italiana, accompagnare il pacchetto di contenuti da tradurre con una serie di risorse tra cui: 
+
+   - gli screenshot delle interfacce in italiano, in cui i testi in lingua straniera dovranno essere inseriti. Si consiglia di fornire, quando possibile in base agli strumenti condivisi a disposizione, non solo le interfacce slegate, ma le interfacce inserite nel flusso del servizio; 
+
+   - l’indicazione per ogni contenuto (con particolare attenzione ai microtesti) del numero massimo di caratteri utilizzabili, per rispettare gli spazi in cui il testo sarà inserito;  
+
+   - indicazioni di formattazione (ad esempio, uso del grassetto);
+
+   - un documento riassuntivo che descriva il contesto d’uso del servizio da tradurre, che comprenda: (1) obiettivi del servizio e scenari d’uso, (2) il target del servizio, (3) indicazioni sul tono di voce che si è seguito nella scrittura dei contenuti in italiano, (4) indicazioni di cui tenere conto per la localizzazione UX nelle diverse lingue di destinazione, (5) eventuali reference di siti in lingua per fare benchmark rispetto alle localizzazioni su temi/linguaggi specifici. 
+
+
+.. important::
+
+   Se hai un sito multilingue, ricordati che quando aggiorni o cambi i contenuti dovrai farlo contemporaneamente su più lingue, mantenendo allineata la versione italiana con le altre lingue. 
+
