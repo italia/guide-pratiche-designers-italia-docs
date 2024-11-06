@@ -25,7 +25,7 @@ Il linguaggio, il tono di voce e la formattazione dei contenuti sono quindi elem
 .. admonition:: deepening
    :class: admonition-deepening display-page
 
-   **Checklist per il linguaggio** 
+   **Checklist per il linguaggio e i contenuti** 
    
    Fai un controllo della qualità del contenuto basandoti sulle seguenti domande:
 
@@ -56,6 +56,84 @@ Il linguaggio, il tono di voce e la formattazione dei contenuti sono quindi elem
    -  Hai inserito i riferimenti normativi nelle note invece che nel testo? (Per approfondire: `Come strutturare il contenuto <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/come-strutturare-il-contenuto.html>`__)
 
    -  Se hai pubblicato dei **documenti allegati**, hai precisato il formato (es. pdf), il peso, il titolo e una breve descrizione del contenuto? (Per approfondire: `Come strutturare il contenuto <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/come-strutturare-il-contenuto.html>`__)
+
+
+Microtesti
+--------------
+
+I microtesti che accompagnano e descrivono gli elementi grafici delle interfacce di un sistema web, sono definiti in gergo tecnico microcopy. L’armonia e la pertinenza fra elementi grafici delle interfacce e microtesti contribuisce a garantire all’utente un usabilità ottimale del sistema. Per questa ragione, è importante verificare periodicamente l’efficacia delle etichette di navigazione attraverso test di usabilità o mediante degli A/B test. Per esempio, un tema da gestire in modo corretto a livello di microtesti è quello dei messaggi di errore. In questo ambito infatti, un buon uso dei testi consente all’utente di capire rapidamente la tipologia di errore, ridurre l’incertezza sull’affidabilità del sistema e in molti casi limitare la necessità di accesso ai canali di assistenza.
+
+.. admonition:: Risorse disponibili
+
+   Approfondisci i vari tipi di microtesti nel capitolo sulla progettazione dell’interfaccia (**LINK A CAPITOLO**) e trova indicazioni pratiche per la loro progettazione nel `fondamento Microtesti <https://designers.italia.it/design-system/fondamenti/microtesti/>`_ del design system .italia.
+
+.. admonition:: deepening
+   :class: admonition-deepening display-page
+
+   **I testi come interfacce**
+
+   Le etichette di navigazione
+   ---------------------------
+   
+   Una *label* (o etichetta) è un breve testo o un’icona che indica un
+   insieme di contenuti con caratteristiche comuni: attraverso le etichette
+   l’utente si orienta nell’ambiente facendosi un’idea
+   dell’organizzazione e del sistema di navigazione. Le etichette dovrebbero
+   guidare gli utenti nei nuovi concetti e aiutarli a
+   identificare quelli già familiari con facilità.
+
+   **Le label sono un sistema** che guadagna solidità dalla coerenza dei
+   suoi elementi: per questo non si progettano singole label, ma sistemi
+   di label. Nel progettare un *labeling system* è importante tenere
+   conto:
+
+   -  delle `buone pratiche su linguaggio e composizione dei
+      contenuti <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura.html>`__;
+
+   -  delle pratiche di organizzazione dei contenuti dal punto di vista
+      dell’architettura dell’informazione (**LINK A CAPITOLO**);
+
+   -  dell’ottimizzazione dei contenuti in ottica SEO (**LINK A CAPITOLO**).
+
+   Lavorare sulla coerenza del sistema richiede grande attenzione:
+   alcuni elementi possono influenzarne la solidità. Di seguito trovi
+   una checklist per verificare l’uniformità di alcuni elementi che – se
+   incoerenti – possono rischiare di rendere ambiguo il *labeling system*.
+
+   -  **Stile e ortografia:** verifica, per esempio, l’uniformità delle
+      varianti “CHI SIAMO”, “Chi siamo”, “Chi Siamo”.
+
+   -  **Formattazione**: dimensioni e colore dei caratteri, spaziature,
+      sfondi possono rinforzare la coerenza di un sistema di etichette.
+
+   -  **Sintassi:** evita di avere nello stesso sistema label a base
+      verbale (“Scarica il documento”), nominale (“Documenti
+      scaricabili”) e domande (“Devi scaricare il documento?”). Scegli
+      un approccio sintattico e mantienilo.
+
+   -  **Livello di granularità:** all’interno del sistema è meglio avere
+      etichette di pari livello di specificità. “Modulo per la richiesta di
+      cambio di residenza” accanto ad “Anagrafe”, esposto nella stessa
+      area del sito e allo stesso livello, genererebbe confusione.
+
+   -  **Completezza:** l’assenza evidente di una voce nel sistema di
+      etichette potrebbe confondere l’utente. Per esempio: la mancanza
+      della voce “Anagrafe” sul sito di un Comune potrebbe far pensare a
+      un errore e di conseguenza l’incertezza per l’utente nel capire
+      come muoversi nell’ambiente.
+
+   -  **Utente di riferimento:** tieni sempre presenti i bisogni emersi
+      dalla ricerca sugli utenti, in modo che il sistema sia il
+      meno ambiguo possibile.
+
+   La **ricerca sugli utenti** può fornire utili risposte per la
+   progettazione del *labeling system*. I metodi diretti sono `il card
+   sorting <https://designers.italia.it/risorse-per-progettare/progettare/architettura-dell-informazione/organizza-i-contenuti/>`__
+   e il *free listing*; quelli indiretti – che forniscono dati
+   quantitativi più grezzi e da rielaborare – sono la ricerca interna ed
+   esterna al sito, con strumenti come `web
+   analytics <https://designers.italia.it/kit/analytics/>`__ e
+   `Google Search Console <./seo.html#webmaster-tools-search-console-di-google>`_.
 
 
 Scrittura collaborativa 
