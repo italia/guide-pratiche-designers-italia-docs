@@ -210,4 +210,6 @@ sito deve essere sempre autorizzata dai soggetti ritratti con una
 l’utilizzo <https://designers.italia.it/risorse-per-progettare/progettare/contenuti-e-linguaggio/rispetta-la-privacy-quando-usi-i-contenuti/>`__)
 in cui puoi specificare la destinazione del contenuto.
 
-Il **kit Privacy di Designers Italia** ti aiuta a trattare correttamente i dati personali riferiti ai principali casi d'uso che dovrai gestire progettando e realizzando un servizio digitale. `Vai al kit Privacy <https://designers.italia.it/risorse-per-progettare/organizzare/privacy/>`_
+.. admonition:: Risorse disponibili
+
+   Il `kit Privacy <https://designers.italia.it/risorse-per-progettare/organizzare/privacy/>` di Designers Italia ti aiuta a trattare correttamente i dati personali riferiti ai principali casi d'uso che dovrai gestire progettando e realizzando un servizio digitale.
