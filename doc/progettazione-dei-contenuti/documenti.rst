@@ -269,8 +269,6 @@ dei Pdf.
    file dei documenti di testo allegati dovrebbero essere creati
    rispettando alcune buone pratiche.
 
-   .. container:: more
-
       **Rendi il documento accessibile**
 
       -  Il documento Pdf deve essere creato digitalmente, non deve essere
