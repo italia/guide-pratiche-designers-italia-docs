@@ -26,6 +26,7 @@ Il linguaggio, il tono di voce e la formattazione dei contenuti sono quindi elem
    :class: admonition-deepening display-page
 
    **Checklist per il linguaggio** 
+   
    Fai un controllo della qualità del contenuto basandoti sulle seguenti domande:
 
    -  Lo scopo della pagina è immediatamente chiaro? (Per approfondire: `Stile di scrittura <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/stile-di-scrittura.html>`__)
@@ -38,23 +39,23 @@ Il linguaggio, il tono di voce e la formattazione dei contenuti sono quindi elem
 
   -  Hai fatto uso di termini burocratici, gergali, tecnici o acronimi? (Per approfondire: `Accessibilità e inclusione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/accessibilita-e-inclusione.html>`__)
 
- -  Hai usato il giusto tono di voce (formale, informale, tecnico, incoraggiante, umano,ecc) per parlare agli utenti? (Per approfondire: `Tono di voce <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/tono-di-voce.html>`__)
+  -  Hai usato il giusto tono di voce (formale, informale, tecnico, incoraggiante, umano,ecc) per parlare agli utenti? (Per approfondire: `Tono di voce <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/tono-di-voce.html>`__)
 
- -  Il contenuto è *responsive*? Tutti i contenuti sono efficaci su *mobile*? (Per approfondire: `Stile di scrittura <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/stile-di-scrittura.html>`__)
+  -  Il contenuto è *responsive*? Tutti i contenuti sono efficaci su *mobile*? (Per approfondire: `Stile di scrittura <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/stile-di-scrittura.html>`__)
 
- -  Il testo, le immagini e le interfacce sono accessibili? (Per approfondire: `Accessibilità e inclusione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/accessibilita-e-inclusione.html>`__)
+  -  Il testo, le immagini e le interfacce sono accessibili? (Per approfondire: `Accessibilità e inclusione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/accessibilita-e-inclusione.html>`__)
 
- -  Hai utilizzato parole o termini discriminatori? (Per approfondire: `Accessibilità e inclusione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/accessibilita-e-inclusione.html>`__)
+  -  Hai utilizzato parole o termini discriminatori? (Per approfondire: `Accessibilità e inclusione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/accessibilita-e-inclusione.html>`__)
 
- -  Hai curato i titoli, il sommario, le parole chiave, i metadati? (Per approfondire: `Scrivere per i motori di ricerca <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/scrivere-per-i-motori-di-ricerca.html>`__)
+  -  Hai curato i titoli, il sommario, le parole chiave, i metadati? (Per approfondire: `Scrivere per i motori di ricerca <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/scrivere-per-i-motori-di-ricerca.html>`__)
 
- -  Tutti i contenuti sono aggiornati? (Per approfondire: `Gestione dei contenuti <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/gestione-dei-contenuti.html>`__)
+  -  Tutti i contenuti sono aggiornati? (Per approfondire: `Gestione dei contenuti <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/gestione-dei-contenuti.html>`__)
 
- -  Sono chiare le azioni che si compiono attraverso le interfacce, le etichette di navigazione, i link? (Per approfondire: `Come strutturare il contenuto <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/come-strutturare-il-contenuto.html>`__)
+  -  Sono chiare le azioni che si compiono attraverso le interfacce, le etichette di navigazione, i link? (Per approfondire: `Come strutturare il contenuto <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/come-strutturare-il-contenuto.html>`__)
 
- -  Hai inserito i riferimenti normativi nelle note invece che nel testo? (Per approfondire: `Come strutturare il contenuto <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/come-strutturare-il-contenuto.html>`__)
+  -  Hai inserito i riferimenti normativi nelle note invece che nel testo? (Per approfondire: `Come strutturare il contenuto <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/come-strutturare-il-contenuto.html>`__)
 
- -  Se hai pubblicato dei **documenti allegati**, hai precisato il formato (es. pdf), il peso, il titolo e una breve descrizione del contenuto? (Per approfondire: `Come strutturare il
+  -  Se hai pubblicato dei **documenti allegati**, hai precisato il formato (es. pdf), il peso, il titolo e una breve descrizione del contenuto? (Per approfondire: `Come strutturare il
    contenuto <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/come-strutturare-il-contenuto.html>`__)
 
 
