@@ -12,7 +12,12 @@ I fattori di ottimizzazione vengono generalmente suddivisi in 2 categorie:
 -  fattori *on-page*, cioè eseguibili all’interno del sito
 -  fattori *off-page*, cioè eseguibili al di fuori del sito
 
-Il **kit SEO** di Designers Italia ti aiuta ad ottimizzare i contenuti del tuo sito per migliorare il posizionamento nei risultati dei motori di ricerca. `Vai al kit SEO <https://designers.italia.it/risorse-per-progettare/progettare/seo/>`_
+
+.. admonition:: Risorse disponibili
+
+   Il `kit SEO <https://designers.italia.it/risorse-per-progettare/progettare/seo/>`_ di Designers Italia ti aiuta ad ottimizzare i contenuti del tuo sito per migliorare il posizionamento nei risultati dei motori di ricerca.
+
+
 
 I fattori *on-page*
 ~~~~~~~~~~~~~~~~~~~
