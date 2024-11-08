@@ -43,7 +43,11 @@ L'alberatura, nota anche come **struttura ad albero** o **sitemap**, è la **rap
 
 L'alberatura segue una struttura gerarchica simile a un albero. La homepage è spesso vista come la radice, con rami che si estendono a sottosezioni e pagine più dettagliate. 
 
-**IMMAGINE SCHEMA DI UN ALBERATURA**
+.. figure:: images/Alberatura.png
+   :alt: Esempio di struttura ad albero di un sito web
+   :align: center
+
+   *Esempio di struttura ad albero di un sito web.*
 
 Una buona alberatura aiuta gli utenti a trovare facilmente le informazioni di cui hanno bisogno, riducendo il numero di clic necessari per raggiungere una pagina specifica.
 
