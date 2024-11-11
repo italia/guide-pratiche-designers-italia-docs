@@ -1,8 +1,6 @@
 Interviste
 ----------
 
-.. include:: /banner.rst
-
 Questa tecnica consente di raccogliere informazioni attraverso conversazioni più o meno strutturate con gli attori e con gli utenti di un determinato ecosistema di servizio basandosi sulla capacità dell’individuo di **riportare resoconti della sua esperienza personale e di raccontare, tramite resoconti verbali, le sue necessità e difficoltà rispetto a un tema specifico**. Consiste nel porre agli attori una serie di domande, in modo da toccare i diversi aspetti relativi all’ambito di investigazione. È importante perciò definire **un protocollo da seguire durante le sessioni e stilare la guida all’intervista, anche per definire chiaramente gli obiettivi e il focus dell’attività**.
 
 Il ricercatore incontra ciascun partecipante e raccoglie una serie di evidenze ponendo domande, dando spunti, facendo esempi, costruendo un dialogo e ascoltando con attenzione ciò che il partecipante racconta (questa tecnica viene applicata anche per svolgere i test di usabilità).
@@ -18,7 +16,8 @@ In base a come viene gestita la conversazione e al tipo di protocollo usato, le 
 
 `Vai al Kit di Designers Italia dedicato a Interviste utenti e stakeholder <https://designers.italia.it/kit/interviste-utenti-stakeholder/>`_
 
-**Pianificare le interviste**
+Pianificare le interviste
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Il primo passo per impostare le interviste è pianificare l’attività nel dettaglio, riflettendo sull’obiettivo della ricerca e su chi ha senso coinvolgere per raggiungere quell’obiettivo. 
 
@@ -32,7 +31,8 @@ Il primo passo per impostare le interviste è pianificare l’attività nel dett
 - specificare **i temi principali da investigare** per farsi un’idea della durata che la sessione dovrà avere, così da iniziare a fissare gli appuntamenti con i partecipanti, considerando anche circa 15 minuti di *debrief* (resoconto) a valle di ciascuna intervista. La buona pratica è di svolgere 2, massimo 3 sessioni nell’arco di una giornata, per avere tempo di metabolizzare le informazioni raccolte di volta in volta, e mantenere il livello di energia necessario per condurre questo tipo di attività;
 -  definire la **strategia di documentazione dell’attività**, riflettendo su come verranno raccolte e gestite le note e quali strumenti verranno utilizzati per la documentazione audio-video e fotografica della sessione. Solitamente, le note vengono raccolte in formato digitale e in modalità collaborativa, e a valle riorganizzate in *spreadsheet* (fogli di calcolo) che serviranno da base dati per la fase di analisi.
 
-**Preparare la guida alla conduzione**
+Preparare la guida alla conduzione
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 La `guida alla conduzione <https://docs.google.com/document/d/1Ev6UG3uRbpTPdYsNrqqgDZjiMpVDvPQk-XfriH2QDac/edit?usp=sharing>`_ è un documento che **raccoglie una serie di spunti relativi alle domande da svolgere durante l’intervista**. La guida viene costruita tenendo bene in considerazione lo scopo e il focus della ricerca, schematizzando in primo luogo i temi chiave da affrontare durante l’intervista, che fungeranno da capitoli principali della conversazione. 
 Ciascun capitolo viene poi approfondito con una serie di domande, che il ricercatore dettaglia in modo da affrontare tutti i punti utili a indagare quel determinato argomento. Le domande vengono **strutturate in modo da trattare prima gli aspetti più generali per poi entrare nel merito delle questioni più specifiche**, per aiutare il partecipante a ragionare e dare fluidità alla conversazione.
@@ -44,7 +44,8 @@ La guida alla conduzione può essere accompagnata da materiali visivi, che posso
 
 Il coinvolgimento degli utenti richiede sempre **estrema attenzione nel modo in cui si gestiscono i dati personali**. Per ogni attività di ricerca è necessario predisporre le  `liberatorie per il consenso al trattamento dei dati <https://docs.google.com/document/d/1JVctSWSJN6tJeno70OjA8Tl_4rs0dIJ5XLoOQbIgo24/edit?usp=sharing>`_ che vengono sottoposte all’attenzione di ciascun partecipante al termine dell’intervista, dando la possibilità di scegliere se acconsentire alla conservazione del materiale audio-video e/o fotografico raccolto durante la sessione oppure no. In caso di consenso del partecipante, il materiale potrà essere condiviso con il team di lavoro e utilizzato per costruire dei report dell’attività. In caso contrario il materiale relativo a quel partecipante **dovrà essere cancellato**, e verranno prese in considerazione per l’analisi solo le informazioni raccolte verbalmente. 
 
-**Condurre le interviste**
+Condurre le interviste
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Le  sessioni di intervista sono da gestire con estrema cautela per assicurarsi di raccogliere tutte le informazioni necessarie, creando una situazione che **metta a proprio agio il partecipante**, documentando attentamente tutte le osservazioni emerse e tenendo traccia degli aspetti toccati e di quelli mancanti. Ecco alcuni aspetti da considerare per condurre al meglio un’intervista: 
 
@@ -55,7 +56,8 @@ Le  sessioni di intervista sono da gestire con estrema cautela per assicurarsi d
 - è sostanziale stabilire una **relazione empatica con il partecipante**, adattando le domande e il protocollo dell’intervista alla tipologia di risposte ricevute; 
 -  durante l’intervista, chiedere *perché* più e più volte è indispensabile per approfondire ciascuna risposta e raggiungere quel livello di profondità che si desidera raggiungere con l’intervista individuale.
 
-**Rielaborare le informazioni raccolte**
+Rielaborare le informazioni raccolte
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Al termine di ciascuna intervista, i ricercatori condividono le loro impressioni, discutono tra di loro i risultati emersi, annotando le evidenze più rilevanti, ad esempio le cose che li hanno sorpresi o che non sapevano, le criticità ed eventuali spunti per la progettazione. Questo primo momento, definito *debriefing*, è fondamentale per **elaborare e riorganizzare le informazioni raccolte e iniziare a definire alcuni temi da approfondire in un secondo momento di analisi più strutturata**. È utile inoltre a capire cosa  ha funzionato e cosa no, ed eventualmente adattare il protocollo.
 
