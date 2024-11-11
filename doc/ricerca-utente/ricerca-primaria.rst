@@ -7,9 +7,9 @@ Cos'è la ricerca primaria
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  ricerca-utente/ricerca-primaria/interviste.rst
-  ricerca-utente/ricerca-primaria/questionari.rst
-  ricerca-utente/ricerca-primaria/test-di-usabilita.rst
-  ricerca-utente/ricerca-primaria/web-analytics.rst
+  ricerca-primaria/interviste.rst
+  ricerca-primaria/questionari.rst
+  ricerca-primaria/test-di-usabilita.rst
+  ricerca-primaria/web-analytics.rst
 
  
