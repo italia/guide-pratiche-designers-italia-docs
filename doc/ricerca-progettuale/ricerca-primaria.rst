@@ -1,7 +1,16 @@
 Ricerca primaria
 ==================
 
-Cos'è la ricerca primaria
+Vengono definite *primarie* tutte le attività di ricerca svolte direttamente con le persone coinvolte nel progetto (stakeholder) e/o le persone che useranno il sito o il servizio digitale (utenti finali).  
+
+Lo scopo è **raccogliere informazioni sulle loro necessità, comportamenti e percezioni**, e **capire come un sito o servizio digitale viene utilizzato**. Queste attività possono essere svolte in maniera diretta, come le interviste, o indiretta, come l’analisi dei dati provenienti dai web analytics. 
+
+A seconda dell’attività svolta, i dati raccolti possono essere: 
+
+- **quantitativi**, ovvero misurabili numericamente (ad esempio, utenti registrati, popolazione residente in una certa area, servizi erogati, ecc.); 
+- **qualitativi**, ovvero che esprimono caratteristiche e dinamiche di un certo fenomeno ( ad esempio, informazioni più cercate online, esigenze rispetto alla fruizione di un servizio, criticità nell’esperienza d’uso, buoni esempi di prodotti o servizi, ecc.).
+
+In entrambi i casi, i dati raccolti vengono poi analizzati e sintetizzati attraverso strumenti di mappatura (personas, scenari d’uso, user journey, etc.) per informare la progettazione di soluzioni su misura.
 
 .. toctree::
   :maxdepth: 3
