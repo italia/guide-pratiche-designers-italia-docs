@@ -1,7 +1,7 @@
 Ricerca primaria
 ==================
 
-Vengono definite *primarie* tutte le attività di raccolta di dati originali direttamente dal campo, tramite le persone coinvolte nel progetto (stakeholder) e/o le persone che useranno il sito o il servizio digitale (utenti finali).  
+Vengono definite *primarie* tutte le attività di **raccolta di dati originali direttamente dal campo**, tramite le persone coinvolte nel progetto (stakeholder) e/o le persone che useranno il sito o il servizio digitale (utenti finali).  
 
 Lo scopo è di **ottenere informazioni specifiche e rilevanti per il progetto in corso**, e quindi **raccogliere informazioni sulle necessità, comportamenti e percezioni degli utenti** e **capire come un sito o servizio digitale viene utilizzato**. Queste attività possono essere svolte in maniera diretta, come le interviste, o indiretta, come l’analisi dei dati provenienti dai web analytics. 
 
