@@ -6,6 +6,10 @@ Questi principi si concretizzano in un certo numero di parametri che rendono pos
 
 Lo scopo dell’attività è di individuare eventuali problemi e opportunità di miglioramento dell’usabilità dell’interfaccia, così da formulare raccomandazioni a supporto di scelte progettuali mirate.  
 
+.. admonition:: Risorse disponibili
+
+   Lo stumento `Valutazione euristica <https://designers.italia.it/risorse-per-progettare/comprendere/stato-dell-arte/effettua-la-valutazione-euristica/>`_, parte del `kit Stato dell'arte <https://designers.italia.it/risorse-per-progettare/comprendere/stato-dell-arte/>`_ di Designers Italia, ti aiuta ad analizzare l’interazione con i touchpoint digitali esistenti e a valutare l’usabilità dell’interfaccia.
+
 Come si fanno
 ^^^^^^^^^^^^^^^
 Così
