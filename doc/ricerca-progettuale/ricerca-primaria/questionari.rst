@@ -1,13 +1,15 @@
 Questionari
 -----------
 
-.. include:: /banner.rst
-
 La tecnica dei questionari consente di **raccogliere informazioni qualitative direttamente dagli utenti** di un servizio o *touchpoint* digitale, indirizzando un campione di utenti sufficientemente vasto, per renderle misurabili, e consentire l’analisi quantitativa.
 La creazione di un questionario si basa sulla definizione di criteri chiari in modo da consentire, in un secondo momento, la comparazione e messa in relazione delle informazioni raccolte. Un questionario può essere facilmente creato in formato digitale usando piattaforme collaborative e condiviso direttamente online con i partecipanti, attraverso piattaforme che automatizzano anche la raccolta dei dati e mettono a disposizione strumenti per la loro elaborazione.
 
-È importante formulare le domande di un questionario in maniera coerente e non ambigua, **scegliendo accuratamente la tipologia di domanda** (es.: a risposta singola o scelta multipla, aperta o con scala di giudizio) e delle opzioni che si propongono come risposta, in modo che siano esaustive e non lascino "aree scoperte" (a questo scopo, è utile ricordarsi di inserire sempre una la possibilità per il partecipante di aggiungere "altro").
+È importante formulare le domande di un questionario in maniera coerente e non ambigua, **scegliendo accuratamente la tipologia di domanda** (a risposta singola o scelta multipla, aperta o con scala di giudizio) e delle opzioni che si propongono come risposta, in modo che siano esaustive e non lascino "aree scoperte" (a questo scopo, è utile ricordarsi di inserire sempre una la possibilità per il partecipante di aggiungere "altro").
 Questi accorgimenti consentono poi di analizzare i risultati a valle, in primis per avere uno spaccato del panel dei rispondenti e poi per elaborare le risposte in maniera trasversale, con diagrammi e visualizzazioni utili a interpretare quanto riscontrato rispetto agli obiettivi della ricerca.
+
+.. admonition:: Risorse disponibili
+
+   Il `kit Questionario online <https://designers.italia.it/risorse-per-progettare/comprendere/questionario-online/>`_ di Designers Italia ti aiuta a pianificare e svolgere un'indagine tramite questionari.
 
 Pianificare l'indagine
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -33,4 +35,3 @@ Analizzare e sintetizzare i dati raccolti
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Si possono analizzare i dati raccolti con tecniche quanti-qualitative e rielaborare le informazioni in maniera da rispondere alle domande di ricerca. Si possono sfruttare gli strumenti di rappresentazione di grafici integrate nella piattaforma che si sta utilizzando, o anche esportare un foglio di lavoro e utilizzare strumenti di visualizzazione dati più avanzati e personalizzabili.
-Vai al kit di Designers Italia dedicato ai `Questionari online <https://designers.italia.it/kit/questionario-online/>`_.
