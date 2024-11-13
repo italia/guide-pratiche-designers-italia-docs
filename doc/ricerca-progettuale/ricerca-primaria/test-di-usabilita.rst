@@ -1,7 +1,12 @@
 Test di usabilità
 -----------------
 
-.. include:: /banner.rst
+I test di usabilità sono esperimenti condotti per osservare come gli utenti interagiscono con un prodotto digitale. L'obiettivo è identificare difficoltà o inefficienze nell'interfaccia, nel flusso di navigazione o nelle funzionalità. Durante i test, gli utenti completano compiti specifici, mentre i progettisti osservano e registrano le loro azioni e reazioni, al fine di migliorare l'esperienza d'uso complessiva del prodotto.
+
+.. admonition:: Risorse disponibili
+
+   Il `kit Test di usabilità <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/>`_ di Designers Italia ti aiuta a verificare l’usabilità e l’efficacia di un servizio digitale e a ipotizzare eventuali modifiche di miglioramento.
+
 
 Definizione
 ~~~~~~~~~~~
