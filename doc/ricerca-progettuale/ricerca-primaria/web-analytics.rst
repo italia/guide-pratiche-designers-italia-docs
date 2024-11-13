@@ -211,7 +211,7 @@ Le ricerche degli utenti sono quasi sempre il più ampio vettore di
 traffico verso i contenuti web. Per questa ragione, non soltanto è
 fondamentale fare in modo che le pagine di un sito siano `“ottimizzate”
 per essere trovate dagli utenti attraverso i motori di
-ricerca <../content-design/seo.html>`__, ma è altrettanto importante
+ricerca <../progettazione-dei-contenuti/ottimizzazione-per-i-motori-di-ricerca-seo.html>`__, ma è altrettanto importante
 analizzare i dati di web analytics provenienti dalle ricerche interne ed
 esterne al sito per conoscere le performance dei singoli
 contenuti.
@@ -224,11 +224,11 @@ Ricerca esterna al sito
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 **Top motori di ricerca referenti**
-   *Definizione:* Principali motori di ricerca (Google, Bing, Yahoo…)
+   *Definizione:* Principali motori di ricerca (Google, Bing, Yahoo, ecc)
    che portano traffico al sito
 
-   *Azione:* Usa i relativi webmaster tools (es. `Google Search
-   Console <../content-design/seo.html>`__) per ottimizzare i contenuti
+   *Azione:* Usa i relativi webmaster tools (ad esempio, Google Search
+   Console) per ottimizzare i contenuti
    e la struttura del sito e renderli così più facilmente scansionabili
    dai *crawler* (software che raccolgono dati dalle pagine web) dei motori e “trovabili” dagli utenti
 
@@ -343,21 +343,22 @@ web analytics.
 
 Per un approfondimento sul tema, si rimanda al `Kit Web Analytics <https://designers.italia.it/kit/analytics/>`__.
 
-Strumenti di web analytics: Web Analytics Italia
+Strumenti di web analytics
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In questa sezione puoi trovare informazioni e alcuni link di approfondimento che ti aiuteranno a comprendere come adottare uno strumento di web analytics per i tuoi siti e servizi digitali.
 
-Esistono numerosi software *open source* per la raccolta e l'analisi dei dati di traffico di siti e servizi digitali, che è possibile utilizzare per ottenere informazioni statistiche relative all'uso di una soluzione digitale e nel rispetto della normativa vigente, quali ad esempio `Matomo analytics <https://developers.italia.it/it/software/italia-software-matomo-32c75d.html>`__ e `Plausible analytics <https://developers.italia.it/it/software/italia-software-plausible-a9b3cb>`__. 
+Esistono numerosi software *open source* per la raccolta e l'analisi dei dati di traffico di siti e servizi digitali, che è possibile utilizzare per ottenere informazioni statistiche relative all'uso di una soluzione digitale e nel rispetto della normativa vigente. 
+
+Web Analytics Italia
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 A partire dalla prima metà del 2020, è disponibile inoltre gratuitamente **una soluzione di web analytics open source dedicata alle pubbliche amministrazioni italiane**, `Web Analytics Italia <https://webanalytics.italia.it/>`__ (WAI).
 
 Il servizio WAI si colloca nel contesto delle `Linee guida di design per i siti internet e i servizi digitali della PA <https://docs.italia.it/italia/design/lg-design-servizi-web/it/versione-corrente/index.html>`__ italiana, oltre che nel Piano Triennale per l'Informatica nella PA. 
 
-Nel paragrafo seguente ti proponiamo inoltre una serie di link di approfondimento per comprendere come installare/configurare le principali piattaforme di web analytics open source sopra menzionate.
 
-
-Strumenti di web analytics: Matomo analytics
+Matomo analytics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  `Scheda software Matomo analytics
@@ -375,7 +376,7 @@ Strumenti di web analytics: Matomo analytics
 -  `Importare dati da GA a Matomo
    <https://matomo.org/blog/2012/08/google-analytics-to-piwik/>`__
 
-Strumenti di web analytics: Plausible analytics
+Plausible analytics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  `Scheda software Plausible analytics
