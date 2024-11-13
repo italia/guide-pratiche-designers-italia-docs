@@ -1,7 +1,11 @@
 Web analytics
 -------------
 
-.. include:: /banner.rst
+Le web analytics permettono di raccogliere dati quantitativi e qualitativi sui visitatori di un sito o un’app, fornendo insight su aree come il traffico, le pagine più visitate e i percorsi di navigazione. Questi dati supportano il processo decisionale nel design, aiutando a identificare opportunità di miglioramento e ottimizzazioni per migliorare l’esperienza utente complessiva.
+
+.. admonition:: Risorse disponibili
+
+   Il `kit Web analytics <https://designers.italia.it/risorse-per-progettare/validare/web-analytics/>`_ di Designers Italia ti aiuta a comprendere i comportamenti degli utenti partendo dai dati di utilizzo del servizio.
 
 Premessa
 ~~~~~~~~
