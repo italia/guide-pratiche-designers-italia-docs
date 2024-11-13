@@ -1,10 +1,10 @@
-Sintetizzare le evidenze
-------------------------------
-Ci sono diverse tecniche che permettono di sintetizzare le evidenze della ricerca primaria per rappresentare la prospettiva dell’utente e della sua esperienza d’uso di un servizio digitale o touchpoint.  
+Strumenti di mappatura dell'esperienza utente
+-----------------------------------------------------
+Ci sono diverse tecniche e strumenti che permettono di sintetizzare le evidenze della ricerca primaria per rappresentare la prospettiva dell’utente e della sua esperienza d’uso di un servizio digitale o touchpoint.  
 
 L'esperienza d’uso di un sito internet o servizio digitale differisce a seconda della tipologia di utente e della situazione in cui si trova. Perciò, bisogna identificare non solo la tipologia di profili che lo useranno, ma anche le circostanze in cui si troveranno ad utilizzarlo, le varie azioni e passaggi che svolgono per raggiungere il loro obiettivo.   
 
-Queste tecniche ti aiutano a empatizzare con l’utente e a capire meglio ciò di cui le persone hanno bisogno per avere un’esperienza d’uso di qualità, per ipotizzare soluzioni concrete che rispondano a esigenze e circostanze reali. 
+Questi strumenti ti aiutano a empatizzare con l’utente e a capire meglio ciò di cui le persone hanno bisogno per avere un’esperienza d’uso di qualità, per ipotizzare soluzioni concrete che rispondano a esigenze e circostanze reali. 
 
 Questi strumenti fanno da ponte tra la fase di ricerca e quella di progettazione. Infatti, sono utili sia a raccontare la situazione corrente che come punto di partenza per descrivere l'esperienza d’uso e l’interazione con il futuro sito o servizio digitale. 
 
