@@ -15,6 +15,6 @@ A seconda dell’attività svolta, i dati raccolti possono essere sia **quantita
   ricerca-primaria/questionari.rst
   ricerca-primaria/test-di-usabilita.rst
   ricerca-primaria/web-analytics.rst
-  ricerca-primaria/sintetizzare-le-evidenze.rst
+  ricerca-primaria/strumenti-di-mappatura-dell-esperienza-utente.rst
 
  
