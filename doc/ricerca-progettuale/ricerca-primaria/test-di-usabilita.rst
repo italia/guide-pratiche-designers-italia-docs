@@ -362,7 +362,7 @@ Controlli preliminari sui partecipanti
 Oltre alle caratteristiche del bacino d’utenza del sito, è bene
 accertarsi che gli utenti invitati abbiano capacità e abitudine ad
 utilizzare il computer e a navigare in internet.
-Nella `Scheda Partecipanti <https://docs.google.com/document/d/1qoZzPVaIDE8sKg1Fa6JKSG-EPsy_YTtgSlDaV7O4X2c/edit>`_
+Nella `Scheda Partecipanti <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/pianifica-i-test-di-usabilita/>`_
 è presente un questionario da somministrare
 in fase di selezione o comunque prima di iniziare il test, utile per
 scegliere i possibili partecipanti. Se dalle risposte si evidenziano
@@ -471,7 +471,7 @@ Il focus del test è capire i problemi: task che richiedono molto tempo o molti 
 per essere superati, segnalano un problema ed è dunque giusto considerarli dei fallimenti.
 
 Si veda come esempio la
-`Guida alla Conduzione del test <https://docs.google.com/document/d/1kM_3umUUiPp51iTsfsoQKhdV2-FD6bjKKFp17xTB124/edit>`_.
+`Guida alla Conduzione del test <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_.
 
 Come preparare i moduli per la raccolta dei dati
 ++++++++++++++++++++++++++++++++++++++++++++++++
@@ -481,21 +481,21 @@ documenti necessari:
 
 - un’introduzione scritta per spiegare gli scopi del test. Lo stesso foglio
   va bene per tutti perché non c’è necessità di firmarlo o annotarlo
-  (`Guida alla Conduzione del test <https://docs.google.com/document/d/1kM_3umUUiPp51iTsfsoQKhdV2-FD6bjKKFp17xTB124/edit>`_);
+  (`Guida alla Conduzione del test <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_);
 - un modulo di consenso alla eventuale registrazione audiovideo per ciascun
   utente (`Liberatoria
-  <https://docs.google.com/document/d/18Ln0d0gBtsIUWr6X5CXKQFvFD0LVdsSbdD9njyj0C50/edit>`_);
+  <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_);
 - per ciascun utente, un foglio con i task, dove annotare se gli obiettivi
   sono raggiunti o meno e i comportamenti anomali
-  (`Guida alla Conduzione del test <https://docs.google.com/document/d/1kM_3umUUiPp51iTsfsoQKhdV2-FD6bjKKFp17xTB124/edit>`_);
+  (`Guida alla Conduzione del test <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_);
 - può risultare utile stampare un task per foglio e consegnare ogni volta
   il foglio corrispondente, poiché è importante che gli utenti, mentre
   eseguono un task, non abbiano conoscenza dei task futuri;
 - i fogli per il questionario di soddisfazione finale, in copie
   sufficienti per tutti gli utenti (a seconda delle scelte,
-  uno o più fra il `Net Promoter Score <https://docs.google.com/document/d/1Hu4jCyXbvE_YeEcXyYufxYJuspQH-artlPIfSzwFWek/edit>`_
-  , il `Questionario SUS <https://docs.google.com/document/d/1SG7o9W7rWfHRuIomwFJYEi7MDJ-WwdNb314uD5bH8vQ/edit>`_
-  e le `Domande UMUX Lite <https://docs.google.com/document/d/1Ee-ztlsSE4SKZXg4hlyIz-iwxTJyr7P_G06MchnNwvA/edit>`_
+  uno o più fra il `Net Promoter Score <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_
+  , il `Questionario SUS <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_
+  e le `Domande UMUX Lite <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_
   ; N.B.: il Questionario SUS e le Domande UMUX Lite sono da considerarsi in alternativa).
 
 Cosa fare prima dell’osservazione: il test pilota
@@ -609,7 +609,7 @@ Essendo i dispositivi molto vari consigliamo di effettuare una ricerca sui relat
 store per cercare le soluzioni migliori negli specifici casi.
 
 Registrando le azioni e gli eventuali commenti del partecipante è necessario che questo
-firmi una liberatoria sulla privacy e sul consenso all’utilizzo dei dati (`Liberatoria <https://docs.google.com/document/d/18Ln0d0gBtsIUWr6X5CXKQFvFD0LVdsSbdD9njyj0C50/edit>`_).
+firmi una liberatoria sulla privacy e sul consenso all’utilizzo dei dati (`Liberatoria <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_).
 In mancanza di sistemi di registrazione, si consiglia al conduttore di effettuare il test
 insieme a un assistente che, in qualità di osservatore, possa impegnarsi nella compilazione
 delle schede e riscontrare l’andamento delle prove. Anche in caso di registrazione,
@@ -622,10 +622,10 @@ Ambiente non strutturato (solo mobile)
 La valutazione in un contesto non strutturato è consigliabile quando il prodotto
 da valutare è in fase avanzata di sviluppo o è già online. Questo tipo di
 valutazione permette di raccogliere velocemente l’opinione degli utenti sul prodotto,
-tramite NPS (`Net Promoter Score <https://docs.google.com/document/d/1Hu4jCyXbvE_YeEcXyYufxYJuspQH-artlPIfSzwFWek/edit>`_
+tramite NPS (`Net Promoter Score <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_
 ), e tramite un questionario breve
 di usabilità UMUX o UMUX-LITE
-(`Domande UMUX Lite <https://docs.google.com/document/d/1Ee-ztlsSE4SKZXg4hlyIz-iwxTJyr7P_G06MchnNwvA/edit>`_
+(`Domande UMUX Lite <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_
 ).
 
 L’obiettivo è osservare le reazioni, le modalità di interazioni con un prodotto,
@@ -669,7 +669,7 @@ Istruzioni
 
 Il conduttore chiarisce al partecipante che la sua opinione è importante per migliorare
 il servizio e che verrà tenuta in grande considerazione; gli spiega cosa fare e come farlo.
-A tal fine il conduttore può utilizzare come traccia il testo presente nella `Scheda Partecipanti <https://docs.google.com/document/d/1qoZzPVaIDE8sKg1Fa6JKSG-EPsy_YTtgSlDaV7O4X2c/edit>`_.
+A tal fine il conduttore può utilizzare come traccia il testo presente nella `Scheda Partecipanti <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/pianifica-i-test-di-usabilita/>`_.
 È fondamentale insistere sul fatto che non è il partecipante ad essere sottoposto a test,
 ma lo è l’interfaccia e che gli errori sono per il conduttore più interessanti dei task portati
 a termine con successo.
@@ -734,7 +734,7 @@ l’aiuto di un assistente) raccolga i seguenti dati:
 
 - prima di iniziare, una scheda personale anagrafica, se la stessa non è stata già compilata
   nella fase di reclutamento. Si veda nel kit Usability Test la `Scheda Partecipanti
-  <https://docs.google.com/document/d/1qoZzPVaIDE8sKg1Fa6JKSG-EPsy_YTtgSlDaV7O4X2c/edit>`_;
+  <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/pianifica-i-test-di-usabilita/>`_;
 - per ogni partecipante e per ogni task, il dato relativo al superamento o meno del task.
   Si suggerisce, per semplicità, di stabilire un criterio dicotomico, sì o no. In caso
   di task parzialmente superati, è necessario definire in maniera univoca il successo
@@ -742,17 +742,15 @@ l’aiuto di un assistente) raccolga i seguenti dati:
 - per ogni partecipante, un questionario generale, fatto compilare al termine di tutti
   i task (ma prima di svolgere un’eventuale intervista di approfondimento con il partecipante):
   si consiglia per la sua rapidità di utilizzare almeno uno fra il System Usability Scale
-  (`Questionario SUS <https://docs.google.com/document/d/1SG7o9W7rWfHRuIomwFJYEi7MDJ-WwdNb314uD5bH8vQ/edit>`_
-  ) e lo Usability Metric for User Experience (`Domande UMUX-LITE <https://docs.google.com/document/d/1Ee-ztlsSE4SKZXg4hlyIz-
-  iwxTJyr7P_G06MchnNwvA/edit>`_). Tali questionari servono per avere
+  (`Questionario SUS <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_
+  ) e lo Usability Metric for User Experience (`Domande UMUX-LITE <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_). Tali questionari servono per avere
   indicazioni sulla percezione di facilità d’uso da parte dei partecipanti, un aspetto che
   va analizzato assieme alla capacità di portare a termine i task;
 - accanto ai predetti questionari di usabilità, vista la facilità di somministrazione,
-  è possibile utilizzare anche il Net Promoter Score (`NPS <https://docs.google.com/document/d/1Hu4jCyXbvE_YeEcXyYufxYJuspQH-
-  artlPIfSzwFWek/edit>`_), che mostra elevata correlazione con il SUS;
+  è possibile utilizzare anche il Net Promoter Score (`NPS <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_), che mostra elevata correlazione con il SUS;
 - durante l’esecuzione dei task, schede per annotare eventuali difficoltà o successi del
   partecipante (nello spazio apposito previsto dopo ogni task, come indicato nel Kit nella `Guida
-  alla Conduzione del test <https://docs.google.com/document/d/1kM_3umUUiPp51iTsfsoQKhdV2-FD6bjKKFp17xTB124/edit>`_);
+  alla Conduzione del test <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_);
 - al termine del test e dopo la compilazione dei questionari, si può richiedere al partecipante
   di raccontare eventuali difficoltà e problemi incontrati (che vanno anche essi annotati)
   ed eventualmente chiedere chiarimenti su alcune difficoltà che l’osservatore potrebbe aver notato.
@@ -836,7 +834,7 @@ Dati di prestazione e questionari di valutazione
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
 I dati di successo nei task, raccolti durante l’osservazione, vanno inseriti nella `Tabella
-dei Risultati <https://docs.google.com/document/d/1aJxYnb6f6lLYMqsYEGgZ9d4qTwQbR62mDiSlWpU-9zY/edit>`_
+dei Risultati <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/rielabora-e-condividi-i-risultati-dei-test-di-usabilita/>`_
 dopo la fine dell’esecuzione della procedura.
 
 Questo kit serve:
@@ -848,11 +846,11 @@ Inoltre, i dati soggettivi di intenzione d’uso (NPS), o di usabilità percepit
 espressi attraverso i questionari post-test, vanno elaborati manualmente utilizzando le formule
 fornite o automaticamente con le tabelle di calcolo presenti nel kit:
 
-- il `Net Promoter Score <https://docs.google.com/document/d/1Hu4jCyXbvE_YeEcXyYufxYJuspQH-artlPIfSzwFWek/edit>`_
+- il `Net Promoter Score <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_
   per il Net Promoter Score (NPS);
-- il `Questionario SUS <https://docs.google.com/document/d/1SG7o9W7rWfHRuIomwFJYEi7MDJ-WwdNb314uD5bH8vQ/edit>`_
+- il `Questionario SUS <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_
   per il System Usability Scale (SUS);
-- le `Domande UMUX Lite <https://docs.google.com/document/d/1Ee-ztlsSE4SKZXg4hlyIz-iwxTJyr7P_G06MchnNwvA/edit>`_
+- le `Domande UMUX Lite <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_
   nel caso si sia usato lo Usability Metric for User Experience (UMUX-LITE).
 
 Prevediamo nei prossimi mesi di pubblicare degli approfondimenti in merito.
@@ -901,7 +899,7 @@ Un ulteriore livello di approfondimento del report può prevedere:
 - dei suggerimenti per la risoluzione dei problemi;
 - una connessione dei problemi riscontrati ai principi euristici violati dall’interfaccia.
 
-Si può fare riferimento all’allegato `Report dei risultati <https://designers.italia.it/kit/usability-test/>`_
+Si può fare riferimento all’allegato `Report dei risultati <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/rielabora-e-condividi-i-risultati-dei-test-di-usabilita/>`_
 presente nel Kit per un semplice
 modello di report da utilizzare.
 
@@ -940,11 +938,9 @@ Fase 2
 13. annotare ogni problema, apparentemente incontrato dal partecipante, che si riesca
     a identificare;
 14. al termine dell’esecuzione dei task somministrare il System Usability Scale (`Questionario SUS
-    <https://docs.google.com/document/d/1SG7o9W7rWfHRuIomwFJYEi7MDJ-WwdNb314uD5bH8vQ/edit>`_)
-    o lo Usability Metric for User Experience (`Domande UMUX-LITE <https://docs.google.com/document/d/1Ee-ztlsSE4SKZXg4hlyIz-
-    iwxTJyr7P_G06MchnNwvA/edit>`_) per ottenere dati sull’usabilità percepita;
-15. somministrare inoltre il Net Promoter Score (`NPS <https://docs.google.com/document/d/1Hu4jCyXbvE_YeEcXyYufxYJuspQH-
-    artlPIfSzwFWek/edit>`_) per ottenere dati sull’intenzione d’uso;
+    <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_)
+    o lo Usability Metric for User Experience (`Domande UMUX-LITE <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_) per ottenere dati sull’usabilità percepita;
+15. somministrare inoltre il Net Promoter Score (`NPS <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_) per ottenere dati sull’intenzione d’uso;
 16. dopo i questionari, chiacchierare con il partecipante, anche ritornando su punti critici
     ed errori incontrati, per valutare se a posteriori offra indicazioni utili;
 17. interrompere la registrazione, salvarla, congedare il partecipante, quindi azzerare la
@@ -955,7 +951,7 @@ Fase 2
 18. per il successivo partecipante, ripartire dal punto 8 e così fino all’ultimo partecipante;
 19. al termine di tutte le attività, raccogliere tutti i dati, per ciascun task e per ciascun
     partecipante nella
-    `Tabella dei risultati <https://docs.google.com/document/d/1aJxYnb6f6lLYMqsYEGgZ9d4qTwQbR62mDiSlWpU-9zY/edit>`_.
+    `Tabella dei risultati <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/rielabora-e-condividi-i-risultati-dei-test-di-usabilita/>`_.
 
 Fase 3
 ++++++
@@ -963,6 +959,6 @@ Fase 3
 20. Riunire tutti i problemi annotati con tutti i partecipanti in un unico elenco, indicando quali
     e quanti partecipanti hanno incontrato ciascuno degli specifici problemi;
 21. produrre il report riepilogativo, usando il
-    `Report dei risultati <https://designers.italia.it/kit/usability-test/>`_;
+    `Report dei risultati <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/rielabora-e-condividi-i-risultati-dei-test-di-usabilita/>`_;
 22. discutere in équipe risultati e singoli problemi incontrati, per valutare possibili azioni
     correttive. Se necessario, approfondire con un esperto.
