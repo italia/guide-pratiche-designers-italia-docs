@@ -12,9 +12,13 @@ Prendere note è parte integrante dell’attività di intervista: è un compito 
 In base a come viene gestita la conversazione e al tipo di protocollo usato, le interviste sono di tipo **strutturato** o **semi-strutturato**.
 
 - Le **interviste strutturate** seguono un protocollo molto dettagliato che comprende indicazioni sullo scopo di ciascuna domanda, e sullo *script* (copione) da seguire nel porla. Sono molto utili per toccare tutti i temi previsti senza andare fuori tema, e specificamente indicate per affrontare le sessioni di intervista con gli utenti. 
-- Le **interviste semi-strutturate** trattano argomenti predefiniti senza la necessità di porre una scaletta di domande dirette, ma piuttosto introducendo le tematiche da affrontare in forma di considerazioni e dando spunti al partecipante per elaborare ed esporre il suo punto di vista a riguardo. Questa è la tipologia di intervista più appropriata per coinvolgere gli *stakeholder*. 
+- Le **interviste semi-strutturate** trattano argomenti predefiniti senza la necessità di porre una scaletta di domande dirette, ma piuttosto introducendo le tematiche da affrontare in forma di considerazioni e dando spunti al partecipante per elaborare ed esporre il suo punto di vista a riguardo. Questa è la tipologia di intervista più appropriata per coinvolgere gli *stakeholder*.
 
-`Vai al Kit di Designers Italia dedicato a Interviste utenti e stakeholder <https://designers.italia.it/kit/interviste-utenti-stakeholder/>`_
+.. admonition:: Risorse disponibili
+
+   Il `kit Interviste soggetti coinvolti <https://designers.italia.it/risorse-per-progettare/comprendere/interviste-soggetti-coinvolti/>`_ di Designers Italia ti guida passo per passo nella preparazione e lo svolgimento colloqui costruttivi con stakeholder e utenti finali.
+
+
 
 Pianificare le interviste
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
