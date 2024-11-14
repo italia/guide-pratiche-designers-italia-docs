@@ -8,14 +8,16 @@ I test di usabilità sono esperimenti condotti per osservare come gli utenti int
    Il `kit Test di usabilità <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/>`_ di Designers Italia ti aiuta a verificare l’usabilità e l’efficacia di un servizio digitale e a ipotizzare eventuali modifiche di miglioramento.
 
 
-Definizione
-~~~~~~~~~~~
+Definizione di usabilità
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Per usabilità si intende "il grado in cui un prodotto può essere usato
 da particolari utenti per raggiungere certi obiettivi con efficacia,
 efficienza, soddisfazione in uno specifico contesto d’uso" (ISO
-9241-210:2010). L’usabilità focalizza la dimensione funzionale
-dell’interazione tra un sistema (ad es. un sito web) e l’utente, in
+9241-210:2010). 
+
+L’usabilità focalizza la dimensione funzionale
+dell’interazione tra un sistema (ad esempio, un sito web) e l’utente, in
 relazione a precisi obiettivi e contesti d’uso. Non è una caratteristica
 del sistema, ma una proprietà risultante (dall’interazione tra sistema e
 persona). In questo senso è fondamentale utilizzare un approccio
@@ -38,11 +40,7 @@ Inoltre l’usabilità consente alle PA di:
 -  aiutare i cittadini a trovare facilmente ciò che cercano sui siti
 -  aumentare la fiducia dei cittadini nei confronti dell’amministrazione
 
-   Data l’importanza che l’usabilità riveste nell’interazione tra utente e
-   applicazione web, è necessario riservare la massima attenzione alla progettazione
-   orientata all’usabilità e alla relativa misurazione, mediante un processo di
-   **inclusione degli utenti sin dalla fase di progettazione dei servizi**,
-   secondo un modello centrato sugli utenti (*user-centered*).
+Data l’importanza che l’usabilità riveste nell’interazione tra utente e applicazione web, è necessario riservare la massima attenzione alla progettazione orientata all’usabilità e alla relativa misurazione, mediante un processo di **inclusione degli utenti sin dalla fase di progettazione dei servizi**, secondo un modello centrato sugli utenti (*user-centered*).
 
 Usabilità come costrutto misurabile
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -120,11 +118,6 @@ amministrazioni sono tenute a rispettare i criteri qui elencati:
    occorre segnalarli chiaramente e indicare le azioni necessarie per
    porvi rimedio.
 
-Per approfondimenti
-^^^^^^^^^^^^^^^^^^^
-
-`Allegato B del Decreto Ministeriale 8 luglio
-1.    <http://www.agid.gov.it/dm-8-luglio-2005-allegato-b>`__
 
 
 Protocollo eGLU LG per la realizzazione di test di usabilità
@@ -228,7 +221,7 @@ online e funzionante (e non, ad esempio, se si intende testare un semplice
 prototipo semifunzionante), e serve a verificare che si visualizzi correttamente
 su tutti i dispositivi, in particolare quelli mobili, che si intendono utilizzare
 per i test. Come previsto da il  “`Piano Triennale per l’Informatica nella Pubblica
-Amministrazione 2017-2019 <https://pianotriennale-ict.italia.it>`_”, tutti i progetti
+Amministrazione <https://pianotriennale-ict.italia.it>`_”, tutti i progetti
 delle PA devono infatti essere realizzati secondo una strategia *mobile-first*.
 
 Analisi tramite strumenti online per il mobile
@@ -903,62 +896,60 @@ Si può fare riferimento all’allegato `Report dei risultati <https://designers
 presente nel Kit per un semplice
 modello di report da utilizzare.
 
-Check-list di riepilogo per l’organizzazione del test
+Checklist di riepilogo per l’organizzazione del test
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. topic:: Fase 1
+   :class: procedure
+   
+   1. Effettua prove preliminari sul sito mobile con alcuni tool per verificarne le funzionalità di base.
 
-Fase 1
-++++++
+   2. Effettua delle verifiche con metodi euristici per verificare lo stato attuale.
 
-1. Effettuare prove preliminari sul sito mobile con alcuni tool per verificarne
-   le funzionalità di base;
-2. effettuare delle verifiche con metodi euristici per verificare lo stato attuale;
-3. utilizzare i dati degli Analytics del sito per ottenere utili indicazioni sulla
-   popolazione di riferimento e sui browser e dispositivi più utilizzati;
-4. identificare la popolazione fra cui scegliere i partecipanti;
-5. identificare un numero minimo di 5 partecipanti e massimo di 8, se presente un’unica
-   tipologia di utenti e di 3 partecipanti per ogni tipologia, se presenti da 2 a 3
-   tipologie distinte;
-6. definire i task (gli stessi per tutti i partecipanti) da far svolgere ai partecipanti;
-7. per ciascun task definire i criteri di successo o di fallimento, nonché un tempo
-   limite oltre il quale considerare il task fallito, anche se il partecipante continua
-   e alla fine riesce a raggiungere il successo;
-8. prendere appuntamento con i partecipanti. Nel caso di un ambiente strutturato organizzare
-   una stanza dedicata dove approntare browser e software di registrazione;
-9. svolgere un test pilota con un collega.
+   3. Utilizza i dati degli Analytics del sito per ottenere utili indicazioni sulla popolazione di riferimento e sui browser e dispositivi più utilizzati.
+
+   4. Identificare la popolazione fra cui scegliere i partecipanti.
+
+   5. Identificare un numero minimo di 5 partecipanti e massimo di 8, se presente un’unica tipologia di utenti e di 3 partecipanti per ogni tipologia, se presenti da 2 a 3 tipologie distinte.
+
+   6. Definisci i task (gli stessi per tutti i partecipanti) da far svolgere ai partecipanti.
+
+   7. Per ciascun task, definisci i criteri di successo o di fallimento, nonché un tempo limite oltre il quale considerare il task fallito, anche se il partecipante continua e alla fine riesce a raggiungere il successo.
+
+   8. Prendi appuntamento con i partecipanti e organizza una stanza dedicata con computer e software di registrazione.
+ 
+   9. Svolgi un test pilota con un collega.
 
 
-Fase 2
-++++++
+.. topic:: Fase 2
+   :class: procedure
+   
+   10. Ricevi uno a uno i partecipanti, somministrando i task, mentre un assistente si occupa della registrazione.
 
-10. Ricevere uno a uno i partecipanti, somministrando i task, mentre un assistente
-    si occupa della registrazione;
-11. interagire con i partecipanti, influenzandoli il meno possibile;
-12. annotare i task riusciti e quelli falliti;
-13. annotare ogni problema, apparentemente incontrato dal partecipante, che si riesca
-    a identificare;
-14. al termine dell’esecuzione dei task somministrare il System Usability Scale (`Questionario SUS
-    <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_)
-    o lo Usability Metric for User Experience (`Domande UMUX-LITE <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_) per ottenere dati sull’usabilità percepita;
-15. somministrare inoltre il Net Promoter Score (`NPS <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_) per ottenere dati sull’intenzione d’uso;
-16. dopo i questionari, chiacchierare con il partecipante, anche ritornando su punti critici
-    ed errori incontrati, per valutare se a posteriori offra indicazioni utili;
-17. interrompere la registrazione, salvarla, congedare il partecipante, quindi azzerare la
-    cache del browser, ripuntare il browser alla pagina iniziale e preparare una nuova registrazione.
-    Si precisa che la registrazione può essere interrotta anche prima della somministrazione
-    dei questionari, per ridurre il peso del file, ma può essere utile includere nella registrazione
-    anche l’intervista;
-18. per il successivo partecipante, ripartire dal punto 8 e così fino all’ultimo partecipante;
-19. al termine di tutte le attività, raccogliere tutti i dati, per ciascun task e per ciascun
-    partecipante nella
-    `Tabella dei risultati <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/rielabora-e-condividi-i-risultati-dei-test-di-usabilita/>`_.
+   11. Interagisci con i partecipanti, influenzandoli il meno possibile.
 
-Fase 3
-++++++
+   12. Prendi nota dei task riusciti e quelli falliti.
 
-20. Riunire tutti i problemi annotati con tutti i partecipanti in un unico elenco, indicando quali
-    e quanti partecipanti hanno incontrato ciascuno degli specifici problemi;
-21. produrre il report riepilogativo, usando il
-    `Report dei risultati <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/rielabora-e-condividi-i-risultati-dei-test-di-usabilita/>`_;
-22. discutere in équipe risultati e singoli problemi incontrati, per valutare possibili azioni
-    correttive. Se necessario, approfondire con un esperto.
+   13. Annota ogni problema apparentemente incontrato dal partecipante.
+
+   14. Al termine dell’esecuzione dei task, somministra il System Usability Scale (`Questionario SUS <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_) o lo Usability Metric for User Experience (`Domande UMUX-LITE <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_) per ottenere dati sull’usabilità percepita.
+
+   15. Somministra il Net Promoter Score (`NPS <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/prepara-le-attivita-e-svolgi-i-test-di-usabilita/>`_) per ottenere dati sull’intenzione d’uso.
+
+   16. Dopo i questionari, chiacchiera con il partecipante, magari ritornando su punti critici ed errori incontrati, per ottenere a posteriori altre indicazioni utili.
+
+   17. Interrompi la registrazione e salvala, congeda il partecipante, azzera la cache del browser, riporta il browser alla pagina iniziale e prepara una nuova registrazione. Puoi interrompere la registraziond prima dei questionari, per ridurre il peso del file, ma può essere utile registrare l’intervista.
+
+   18. Per il partecipante successivo, riparti dal punto 8 e così fino all’ultimo partecipante.
+
+   19. Al termine di tutte le attività, raccogli tutti i dati per ciascun task e per ciascun partecipante nella `Tabella dei risultati <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/rielabora-e-condividi-i-risultati-dei-test-di-usabilita/>`_.
+
+
+.. topic:: Fase 3
+   :class: procedure
+   
+   20. Riunisci tutti i problemi annotati con tutti i partecipanti in un unico elenco, indicando quali e quanti partecipanti hanno incontrato ciascuno degli specifici problemi.
+
+   21. Produci un report riepilogativo, usando il `Report dei risultati <https://designers.italia.it/risorse-per-progettare/validare/test-di-usabilita/rielabora-e-condividi-i-risultati-dei-test-di-usabilita/>`_;
+
+   22. Discuti i risultati e i singoli problemi incontrati con il resto del team, per valutare possibili azioni correttive. Se necessario, approfondisci con un esperto.
