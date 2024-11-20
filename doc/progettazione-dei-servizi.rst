@@ -11,3 +11,4 @@ Riassunto del capitolo
   progettazione-dei-servizi/progettare-servizi-pubblici-digitali.rst
   progettazione-dei-servizi/definire-il-modello-di-servizio.rst
   progettazione-dei-servizi/descrivere-il-funzionamento-del-servizio.rst
+  progettazione-dei-servizi/co-progettare-le-soluzioni.rst
