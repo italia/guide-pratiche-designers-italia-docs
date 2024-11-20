@@ -28,10 +28,18 @@ La mappa dell’ecosistema viene usata per:
 - individuare criticità e debolezze del sistema;  
 - ragionare su possibili opportunità di miglioramento.
 
+.. admonition:: Risorse disponibili
+
+   Lo stumento `Mappa dell'ecosistema <https://designers.italia.it/risorse-per-progettare/comprendere/analisi-del-contesto/schematizza-il-contesto-d-uso/>`_, parte del `kit Analisi del contesto <https://designers.italia.it/risorse-per-progettare/comprendere/analisi-del-contesto/>`_ di Designers Italia, ti aiuta a schematizzare le interazioni e i flussi di scambio che avvengono tra i diversi attori e touchpoint coinvolti.
+
 Rappresentare i flussi di servizio
 -------------------------------------
 
 La Service blueprint è una mappa che dettaglia i flussi e i requisiti che permettono il funzionamento del servizio. Visualizza i processi e i passaggi che avvengono tra il back-office, i touchpoint, gli attori coinvolti e l’utente finale. 
 
-Questo strumento è utile per far comprendere, a tutte le persone coinvolte nel progetto, le complessità e le interdipendenze tra i diversi elementi che concorrono all’erogazione di un servizio. La Service blueprint offre una visione obiettiva del funzionamento, da cui partire per discutere difficoltà ed eventuali miglioramenti.  
+Questo strumento è utile per far comprendere, a tutte le persone coinvolte nel progetto, le complessità e le interdipendenze tra i diversi elementi che concorrono all’erogazione di un servizio. La Service blueprint offre una visione obiettiva del funzionamento, da cui partire per discutere difficoltà ed eventuali miglioramenti.
+
+.. admonition:: Risorse disponibili
+
+   Lo stumento `Service blueprint <https://designers.italia.it/risorse-per-progettare/progettare/processi-e-servizi/rappresenta-i-flussi-di-servizio/>`_, parte del `kit Processi e servizi <https://designers.italia.it/risorse-per-progettare/progettare/processi-e-servizi/>`_ di Designers Italia, ti aiuta a schematizzare le interazioni e i flussi di scambio che avvengono tra i diversi attori e touchpoint coinvolti.
 
