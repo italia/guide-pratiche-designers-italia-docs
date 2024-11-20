@@ -9,4 +9,4 @@ Riassunto del capitolo
 
   progettazione-dei-servizi/cosa-sono-i-servizi-e-il-service-design.rst
   progettazione-dei-servizi/progettare-servizi-pubblici-digitali.rst
- 
+  progettazione-dei-servizi/definire-il-modello-di-servizio.rst
