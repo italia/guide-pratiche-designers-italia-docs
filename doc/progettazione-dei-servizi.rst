@@ -1,7 +1,7 @@
 Progettazione dei servizi
 =================================
 
-Riassunto del capitolo
+La progettazione dei servizi è una disciplina fondamentale per strutturare esperienze integrate ed efficienti, specialmente nel contesto dei servizi pubblici digitali. Questo capitolo affronta le metodologie per analizzare, organizzare e migliorare i servizi, considerando le interazioni tra utenti, organizzazioni, touchpoint fisici e digitali, e processi operativi. L’attenzione è rivolta a creare servizi inclusivi e sostenibili, integrati in ecosistemi più ampi, generando valore per utenti e stakeholder, nel rispetto delle normative e delle risorse pubbliche.
 
 .. toctree::
   :maxdepth: 3
