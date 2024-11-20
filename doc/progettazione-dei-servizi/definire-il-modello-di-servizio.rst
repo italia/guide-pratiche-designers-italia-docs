@@ -32,6 +32,14 @@ Formulare la proposta di valore
 ------------------------------------
 La proposta di valore è l’insieme dei benefici per le persone che usano un servizio della Pubblica Amministrazione e rappresenta il motivo per cui il servizio ha senso di esistere.  
 
-Mette in relazione gli obiettivi dei fruitori, le caratteristiche del servizio e cosa consente di fare, in modo da creare servizi di cui cittadini, organizzazioni e imprese, hanno davvero bisogno e che desiderano usare.   
+Mette in relazione gli obiettivi dei fruitori, le caratteristiche del servizio e cosa consente di fare, in modo da creare servizi di cui cittadini, organizzazioni e imprese hanno davvero bisogno e che desiderano usare.   
 
 La proposta di valore guida molte delle decisioni strategiche e operative su come il servizio viene progettato, erogato, comunicato e migliorato per soddisfare le aspettative degli utenti. 
+
+Inquadrare gli elementi costitutivi del servizio
+---------------------------------------------------
+Inquadrare gli elementi costituivi del servizio garantisce una visione strategica e sintetica del modo in cui un'organizzazione o un servizio genera valore nel tempo, considerando sia il livello economico che quello sociale, ambientale e politico.  
+
+Esplora tutti gli elementi che hanno un impatto in fase di erogazione (risorse, investimenti, attori, quadro normativo e processi necessari alla sua realizzazione) e gli elementi che ne permettono la fruizione, compresi gli aspetti relativi al monitoraggio della sua efficacia. 
+
+È un quadro di alto livello utile per allineare gli stakeholder sul modello di servizio offerto e valutarne la sostenibilità, in termini di bilanciamento tra impiego di risorse e impatto positivo, senza entrare nel dettaglio dei processi operativi o tecnici necessari ad erogarlo. 
