@@ -142,8 +142,8 @@ La normativa completa e aggiornata sull’accessibilità è disponibile sul sito
 dell’`Agenzia per l’Italia digitale
 <https://www.agid.gov.it/it/design-servizi/accessibilita/normativa>`__.
 
-FAQ
------
+Approfondimenti
+---------------------
 
 Sono disponibili ulteriori approfondimenti sull’accessibilità nella sezione FAQ
 del sito dell’`Agenzia per l’Italia digitale
