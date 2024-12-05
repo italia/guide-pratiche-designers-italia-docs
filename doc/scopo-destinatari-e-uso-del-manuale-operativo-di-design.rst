@@ -1,6 +1,6 @@
-Introduzione al Manuale operativo di design
-===============================================
-Questo manuale è uno degli strumenti di `Designers Italia <https://designers.italia.it/>`_ per supportare gli enti pubblici a raggiungere gli obiettivi definiti dalle `Linee guida di design per i siti internet e i servizi digitali della PA < https://docs.italia.it/italia/design/lg-design-servizi-web/it/versione-corrente/index.html>`_.  
+Scopo, destinatari e uso del Manuale operativo di design
+=========================================================
+Questo manuale è uno degli strumenti di `Designers Italia <https://designers.italia.it/>`_ per supportare gli enti pubblici a raggiungere gli obiettivi definiti dalle `Linee guida di design per i siti internet e i servizi digitali della PA <https://docs.italia.it/italia/design/lg-design-servizi-web/it/versione-corrente/index.html>`_.  
 
 I destinatari di questo manuale sono principalmente: 
 
