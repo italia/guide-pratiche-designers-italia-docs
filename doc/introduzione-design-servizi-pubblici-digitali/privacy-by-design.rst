@@ -1,4 +1,4 @@
-Privacy by design
+Privacy
 -----------------
 Il principio della *privacy by design* (protezione dei dati fin dalla progettazione) prevede che la protezione dei dati personali degli utenti sia integrata e 
 presente lungo tutto il ciclo di progettazione del prodotto/servizio digitale. Assieme al principio della *privacy by default* (protezione dei dati per impostazione 
