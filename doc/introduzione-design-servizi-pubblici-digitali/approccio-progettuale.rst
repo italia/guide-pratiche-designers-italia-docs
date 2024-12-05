@@ -42,7 +42,7 @@ Principi
 ^^^^^^^^^^^^
 Un servizio pubblico digitale può essere considerato di qualità se è conforme ad alcuni principi standard, definiti a livello nazionale ed europeo: 
 
-*Centralità dell'utente*
+**Centralità dell'utente**
 - Servizi progettati con il coinvolgimento dei cittadini e sulla base delle loro necessità, per rendere i servizi mobile-friendly e fruibili, anche in termini di assistenza online e possibilità di lasciare feedback.
 
 **Trasparenza**
