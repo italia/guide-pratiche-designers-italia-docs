@@ -37,3 +37,25 @@ L’approccio di Designers Italia si riflette in un insieme di buone pratiche da
 - Tenere un approccio *open source*: riusare soluzioni e condividere risultati con licenze aperte;
 - Testare con gli utenti le soluzioni proposte durante tutto il processo, dai prototipi a diversi livelli di fedeltà fino al prodotto realizzato;
 - Valutare ciclicamente la *performance* e la conformità delle soluzioni secondo criteri chiari. 
+
+Principi
+^^^^^^^^^^^^
+Un servizio pubblico digitale può essere considerato di qualità se è conforme ad alcuni principi standard, definiti a livello nazionale ed europeo: 
+
+**Centralità dell'utente**
+- Servizi progettati con il coinvolgimento dei cittadini e sulla base delle loro necessità, per rendere i servizi mobile-friendly e fruibili, anche in termini di assistenza online e possibilità di lasciare feedback.
+
+**Trasparenza**
+- Informazioni chiare sulle responsabilità delle amministrazioni e sulle modalità di erogazione dei servizi, soprattutto in merito all’uso e al trattamento dei dati personali e alla spiegazione dei processi. 
+
+**Accessibilità** 
+- Servizi facilmente utilizzabili e informazioni facili da trovare e comprendere da tutte le persone, a prescindere da possibili condizioni di disabilità che rendano necessario l’utilizzo di strumenti assistivi o di particolari configurazioni del sistema.
+
+**Once only**
+- I siti e i servizi non dovrebbero chiedere agli utenti informazioni già fornite, ma riutilizzare internamente le informazioni già comunicate dall’utente attraverso l’integrazione con le piattaforme previste. 
+
+**Open source**
+- Mettere le soluzioni progettate e le relative documentazioni a disposizione della community con licenza aperta, così da poter essere riutilizzate da altre pubbliche amministrazioni con esigenze simili.  
+
+**Digital first** 
+- Il servizio deve essere organizzato sfruttando il digitale come canale primario, sfruttando le piattaforme abilitanti disponibili, le infrastrutture IT esistenti e considerando altri punti di contatto con il cittadino in modo da abbracciare un’ottica multicanale.
