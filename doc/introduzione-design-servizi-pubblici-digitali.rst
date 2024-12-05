@@ -17,6 +17,6 @@ Nella lingua inglese questa parola viene comunemente utilizzata nel contesto dei
    introduzione-design-servizi-pubblici-digitali/design-amministrazione-digitale.rst
    introduzione-design-servizi-pubblici-digitali/approccio-progettuale.rst
    introduzione-design-servizi-pubblici-digitali/processo-progettuale.rst
-   introduzione-design-servizi-pubblici-digitali/accessibilita-by-design.rst
-   introduzione-design-servizi-pubblici-digitali/privacy-by-design.rst
-   introduzione-design-servizi-pubblici-digitali/versionamento-e-storico-manuale-operativo-design.rst
+   introduzione-design-servizi-pubblici-digitali/accessibilita.rst
+   introduzione-design-servizi-pubblici-digitali/privacy.rst
+
