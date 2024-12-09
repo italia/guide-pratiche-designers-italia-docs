@@ -6,8 +6,9 @@ L’obiettivo della trasformazione digitale dei servizi pubblici è **creare un 
 
 Questo significa:
 
- - invertire il punto di vista burocratico - quello in cui il focus della progettazione è l’istituzione - prediligendo invece un approccio che parte dai bisogni dell’utente, il cittadino in primis;
- - non dimenticare che l’utente di qualsiasi sistema funzionale all’erogazione di un servizio è tanto quello finale, il cittadino, quanto il tecnico della Pubblica Amministrazione che progetta, implementa o opera nel quotidiano il servizio stesso. 
+- invertire il punto di vista burocratico - quello in cui il focus della progettazione è l’istituzione - prediligendo invece un approccio che parte dai bisogni dell’utente, il cittadino in primis;
+- non dimenticare che l’utente di qualsiasi sistema funzionale all’erogazione di un servizio è tanto quello finale, il cittadino, quanto il tecnico della Pubblica Amministrazione che progetta, implementa o opera nel quotidiano il servizio stesso;
+- considerare, nel corso dell'intero processo di progettazione di un servizio, che gli utenti possiedono caratteristiche fisiche e cognitive diverse, influenzate dal contesto socio-culturale e ambientale in cui operano (OMS-ICF 2001-2018: Classificazione del Funzionamento, della Disabilità e della Salute).
 
 Una cultura della progettazione consapevole, aperta e orientata ai bisogni del cittadino è necessaria per affrontare la sfida della digitalizzazione dei processi nel settore pubblico. Rappresenta, inoltre, la spinta al cambiamento che consente alla Pubblica Amministrazione di erogare servizi digitali in maniera equa e inclusiva per la cittadinanza e la società.  
 
