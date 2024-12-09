@@ -26,7 +26,7 @@ L’approccio di Designers Italia si riflette in un insieme di buone pratiche da
 - Definire il perimetro del progetto bilanciando desiderabilità, fattibilità e opportunità; 
 - Favorire equità e pari opportunità come requisiti imprescindibili; 
 - Documentare i progetti e i processi in modo chiaro e aperto; 
-- Definire sin dal principio i KPI, ovvero gli indicatori di risultato, e le strategie per il futuro monitoraggio della performance di una soluzione digitale; 
+- Definire sin dal principio i *Key Performance Indicators (KPI)*, ovvero gli indicatori di risultato, e le strategie per il futuro monitoraggio della performance di una soluzione digitale; 
 - Immedesimarsi e ascoltare gli utenti per comprendere comportamenti ed esigenze;
 - Considerare tutte le tipologie di utenti per minimizzare gli elementi limitanti; 
 - Coinvolgere nel processo tutti gli *stakeholder* interessati dal progetto; 
