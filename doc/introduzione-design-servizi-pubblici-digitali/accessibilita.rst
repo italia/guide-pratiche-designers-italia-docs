@@ -8,11 +8,7 @@ Accessibilità
    tra cui le Pubbliche amministrazioni, hanno l’obbligo di garantire l’accesso
    universale ai propri servizi informatici e telematici.
 
-I soggetti erogatori di soluzioni ICT devono rendere i propri strumenti
-informatici **accessibili e usabili**, compresi i siti web e le applicazioni
-mobili così come previsto dalle `“Linee guida sull’accessibilità degli strumenti
-informatici”
-<https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html?highlight=accessibilit%C3%A0%20strumenti%20informat>`__.
+I soggetti erogatori di soluzioni ICT devono rendere i propri strumenti informatici **accessibili e usabili**, compresi i siti web, le applicazioni mobili e la documentazione digitali (ad esempio i documenti PDF scaricabili), così come previsto dalle `“Linee guida sull’accessibilità degli strumenti informatici” <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html?highlight=accessibilit%C3%A0%20strumenti%20informat>`__.
 
 Sono disponibili ulteriori approfondimenti sull’accessibilità nella `sezione dedicata
 del sito dell’Agenzia per l’Italia digitale
@@ -24,7 +20,11 @@ Definizione
 Per accessibilità si intende la capacità dei sistemi informatici, di erogare
 servizi e fornire informazioni fruibili, senza discriminazioni, dal maggior numero possibile di persone, anche da parte
 di coloro che a causa di disabilità necessitano di tecnologie assistive o
-configurazioni particolari.
+configurazioni particolari (Legge 9 gennaio 2004, n. 4, art. 2).
+
+Per "tecnologie assistive" si intendono gli strumenti e le soluzioni tecniche, hardware e software, che permettono alla persona con disabilità, superando o riducendo le condizioni di svantaggio, di accedere alle informazioni e ai servizi erogati dai sistemi informatici (Legge 9 gennaio 2004, n. 4, art. 2).
+
+Quando si parla di accessibilità digitale, spesso si tende a considerarla come un requisito esclusivo per le persone con disabilità. Tuttavia, questa concezione è errata. L'accessibilità digitale riguarda tutti i cittadini, comprese, in particolare, le persone con disabilità.
 
 Nessun utente deve essere discriminato e deve quindi poter accedere alle
 informazioni e ai servizi digitali erogati dalla Pubblica Amministrazione.
@@ -37,6 +37,19 @@ I servizi digitali devono essere progettati in modo da **includere già dalle ba
 **Progettare accessibile** è necessario per sostanziare i principi generali legati all'inclusione e al *design for all*, che spesso, pur essendo teoricamente presenti, non trovano una reale applicazione esecutiva. 
 
 Le fasi di progettazione antecedenti allo sviluppo **possono e devono quindi includere le considerazioni e le strategie relative all'accessibilità**, che i designer devono poter applicare ai progetti in base agli specifici ruoli professionali. 
+
+In particolare, i designers devono:
+
+1. prevedere paradigmi di interazione che includono differenti modalità di presentazione e di fruizione delle funzionalità e dei contenuti conformemente alle linee guida WCAG 2.1;
+
+2. individuare, insieme agli sviluppatori, i framework che mettono a disposizione in fase di implementazione tutte le caratteristiche di accessibilità previste dalle linee guida WCAG 2.1 (Livello AA);
+
+3. pianificare test di accessibilità automatici e, dove possibile, test condotti da utenti di diverse tecnologie assistive, sia sui prototipi in sviluppo che sul servizio digitale prima del rilascio;
+
+4. definire flussi di lavoro che mantengano l’accessibilità nel tempo, coinvolgendo le figure professionali che aggiornano il servizio digitale con testi, immagini e contenuti multimediali, prevedendo per loro momenti di formazione specifica;
+
+5. progettare meccanismi di documentazione del servizio che siano conformi alle linee guida WCAG 2.1 (Livello AA).
+
 
 Il principio di accessibilità *by design* - cioè fin dalle basi della progettazione - è quindi la scelta fondamentale per creare servizi digitali accessibili e deve essere inoltre associata al principio di accessibilità *by default*, cioè il principio secondo cui ogni tipo di documentazione e risorsa a supporto (manuali, schemi *wireframe* e *mockup* a diversa definizione, *framework* di sviluppo, *template* HTML per modelli standard, linee guida...) dovrebbe contenere i requisiti di accessibilità necessari per fare in modo che ogni istanza applicativa abbia basi strutturali efficaci.
 
