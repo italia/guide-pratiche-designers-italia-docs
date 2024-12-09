@@ -2,14 +2,15 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = 'Manuale di abilitazione al cloud'
-settings_copyright_copyleft = "CC-BY 3.0 - Agenzia per l'Italia Digitale"
-settings_editor_name = "AgID - Agenzia per l'Italia Digitale"
-settings_file_name = 'cloud-enablement-handbook'
+settings_project_name = 'Manuale operativo di design - Designers Italia'
+settings_copyright_copyleft = "CC-BY 4.0 - Dipartimento per la trasformazione digitale e AgID - Agenzia per l'Italia Digitale"
+settings_editor_name = "Dipartimento per la trasformazione digitale e AgID - Agenzia per l'Italia Digitale"
+settings_file_name = 'Manuale-operativo-design'
 
 import sys
 import os
-docs_italia_theme = __import__("docs-italia-theme")
+
+import docs_italia_theme
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -21,7 +22,7 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.ifconfig',
-    'docs-italia-theme'
+    'docs_italia_theme'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -82,28 +83,11 @@ if on_rtd:  # only import and set the theme if we're building docs locally
     }
 
 # -- Options for HTML output ----------------------------------------------
-html_theme = 'docs-italia-theme'
-
+master_doc = 'index'
+html_theme = 'docs_italia_theme'
 html_theme_path = [docs_italia_theme.get_html_theme_path()]
+numfig = True
 
-# Theme options are theme-specific and customize the look and feel of a theme
-# further.  For a list of options available for each theme, see the
-# documentation.
-html_theme_options = {
-    # This option can be used with docs-italia-theme to customise how the versions "badge" is shown:
-    # 'False': default (alabaster) badge | 'True': custom (italia) badge
-    'custom_versions_badge': 'True',
-}
-
-if not on_rtd:
-    html_theme = 'docs_italia_theme'
-    #html_theme_path = ["themes", ]
-
-    # local builds with singlehtml don't need sidebar
-    # nor docs_italia_theme
-    if 'singlehtml' in sys.argv:
-        html_theme = 'basic'
-        html_theme_options.update({'no_sidebar': True})
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
 html_title = settings_project_name
@@ -128,8 +112,7 @@ html_title = settings_project_name
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
 # directly to the root of the documentation.
-# Add _extra for assets attachments
-html_extra_path = ['_extra']
+#html_extra_path = []
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
