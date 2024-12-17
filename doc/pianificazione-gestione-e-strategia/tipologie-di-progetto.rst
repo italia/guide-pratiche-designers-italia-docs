@@ -7,7 +7,7 @@ Gli ecosistemi di servizi digitali si compongono di una molteplicità di element
 
 Per identificare la tipologia di progetto si possono prendere in considerazione diversi parametri: gli attori coinvolti nell'erogazione del servizio, il focus del progetto e l’ambito di intervento. 
 
-Tipologie di progetto in base agli attori coinvolti nell'erogazione del servizio
+Tipologie di progetto in base agli attori coinvolti nel servizio
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Servizi Government-to-Citizen (G2C)**
