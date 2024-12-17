@@ -15,7 +15,7 @@ La versione stabile del Manuale operativo di design corrisponde alla **2022.1**.
 
     doc/scopo-destinatari-e-uso-del-manuale-operativo-di-design.rst
     doc/introduzione-design-servizi-pubblici-digitali.rst
-    doc/gestione-del-progetto.rst
+    doc/pianificazione-gestione-e-strategia.rst
     doc/ricerca-progettuale.rst
     doc/progettazione-dei-servizi.rst
     doc/progettazione-dei-contenuti.rst
