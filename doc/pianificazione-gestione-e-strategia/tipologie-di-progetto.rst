@@ -1,12 +1,51 @@
 Tipologie di progetti
----------------------
+-----------------------
 
-.. include:: /banner.rst
+Per stabilire obiettivi chiari e individuare le figure da coinvolgere, è importante saper riconoscere anche le diverse tipologie di progetto o prodotto. 
 
-Le tipologie di progetto che le pubbliche amministrazioni si trovano ad attivare nella progettazione di servizi possono essere classificate in tre gruppi. 
+Gli ecosistemi di servizi digitali si compongono di una molteplicità di elementi da tenere in considerazione in termini di erogazione e di fruizione, in termini di infrastrutture e processi di back-office e in termini di punti di contatto con l’utente finale. 
 
-Miglioramento di siti e servizi digitali esistenti
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Per identificare la tipologia di progetto si possono prendere in considerazione diversi parametri: gli attori coinvolti, il focus del progetto e l’ambito di intervento. 
+
+Tipologie di progetto in base agli attori coinvolti
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Servizi Government-to-Citizen (G2C)**
+
+Quei progetti che riguardano l’erogazione di servizi digitali da parte del Governo direttamente alla Cittadinanza (G2C), ovvero da enti centrali. Questi progetti spesso si focalizzano sul migliorare l’esperienza delle persone nella fruizione dei servizi pubblici e nell’esercizio dei propri diritti e doveri. Possono riguardare ambiti diversi della vita civica, come la salute, l'istruzione, il trasporto, la sicurezza.
+
+**Servizi Government-To-Government (G2G)**
+
+Quei progetti che riguardano l’erogazione di servizi digitali da parte di un’organizzazione governativa verso un’altra organizzazione governativa (G2G) ovvero da un ente pubblico verso un altro ente pubblico, sia esso centrale o locale. Questi progetti possono riguardare la progettazione di infrastrutture tecnologiche e servizi IT, che ottimizzino i flussi di scambio tra enti diversi, sia a livello di granularità che di ambito, pensati per massimizzare l’efficienza della macchina pubblica, come ad esempio progettare il sistema nazionale di interoperabilità (PDND). 
+
+**Servizi Government-To-Government-To-Citizen (G2G2C)**
+
+In alcuni casi il progetto può riguardare soluzioni, prodotti digitali o servizi erogato da un ente governativo, per altri enti che lo sfrutteranno per erogare servizi direttamente alla cittadinanza (G2G2C). In questi casi è necessario adottare un’ottica che abbracci la progettazione di una soluzione utile e semplice da implementare, capace di veicolare un impatto positivo sull’esperienza del cittadino nei servizi pubblici. In questo tipo di progetti e prodotti è importante considerare il punto di vista, e raccogliere le esigenze, dei diversi stakeholder che hanno un ruolo nel veicolare l’esperienza d’uso immaginata. Ad esempio, i modelli di sito di Designers Italia, forniti dal Dipartimento per la trasformazione digitale, alle pubbliche amministrazioni locali che, a loro volta, li utilizzeranno per offrire servizi informativi alla cittadinanza, sono comodi per gli enti, utili per i fornitori, semplici da usare per i cittadini. 
+
+**Servizi che coinvolgono aziende private**
+
+Ci sono anche progetti riguardanti ecosistemi di servizio in cui aziende private giocano un ruolo nell’erogazione del servizio, come ad esempio fornitori IT che forniscono soluzioni, strumenti e piattaforme digitali agli enti, o direttamente alla cittadinanza, come ad esempio il sistema nazionale d’identità digitale (SPID, CIE, eIDAS), che coinvolge gli Identity Provider privati. In questi progetti è importare perseguire un approccio sistemico, capace di indirizzare equamente i benefici verso i diversi attori e creare scambi virtuosi di valore. 
+
+
+Tipologie di progetto in base al focus
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Un progetto può focalizzarsi su alcuni elementi piuttosto che altri del servizio e dell’ecosistema, ad esempio: 
+
+- i touchpoint, ovvero i punti di contatto, tra gli utenti finali e il servizio, come i siti internet che consentono l'esperienza di fruizione, o anche le interfacce delle piattaforme di back-office che consentono agli operatori pubblici lo svolgimento delle loro mansioni;
+
+- l’organizzazione e il miglioramento dei contenuti di un sito informativo per la cittadinanza e le imprese (ad esempio: sito del Comune) o per altri enti (ad esempio: sito della Piattaforma Digitale Nazionale Dati);
+
+- la progettazione dei flussi di interazione e dell’esperienza d’uso di un servizio digitale attraverso i diversi step del processo e l’interazione con i vari touchpoint dell’ecosistema (ad esempio: servizio prenotazioni online CUP);
+
+- i processi sottostanti l’erogazione di un servizio, e le infrastrutture necessarie alla sua implementazione (ad esempio: le anagrafi centrali nazionali ANPR, ANIS, ecc). 
+
+
+Tipologie di progetto in base all'ambito di intervento
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Miglioramento di siti e servizi digitali esistenti**
+
 Rientrano in questa categoria quei progetti che insistono su strutture esistenti per aggiornare la tecnologia e/o inserire nuove funzionalità, senza rivoluzionare il servizio stesso. Sono esempi di questa tipologia **la riprogettazione dell’esperienza utente di un servizio digitale sul sito di un Comune**, oppure **la modifica di un sistema di prenotazione** in un applicativo di *back office*. 
 
 In questi casi è opportuno:
@@ -17,8 +56,7 @@ Sulla base di questi elementi sarà possibile:
  - mappare l’attuale `esperienza utente <https://designers.italia.it/kit/esperienza-utente/>`__ dei diversi profili coinvolti (*user journey*);
  - evidenziare le criticità e immaginare quali percorsi è necessario migliorare. 
 
-Riprogettazione di servizi esistenti in chiave digitale
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Riprogettazione di servizi esistenti in chiave digitale**
 
 Rientrano in questa categoria quei progetti che mirano a portare dei servizi erogati analogicamente anche su canali digitali. Sebbene possano sembrare meno 
 complessi nella progettazione, non è mai né sufficiente, né opportuno per il cittadino, ricalcare puramente gli step dello *user journey* analogico per 
@@ -37,8 +75,7 @@ In questi casi, è opportuno:
  - identificare le funzionalità chiave del servizio digitale e iniziare la progettazione partendo dalla costruzione di scenari e flussi di interazione che faranno da riferimenti per tutte le attività di progettazione e realizzazione, da svolgere in parallelo; 
  - durante la prototipazione è bene verificare con gli utenti gli avanzamenti, in modo da validare la direzione progettuale e l’usabilità del servizio (test di usabilità).
 
-Creazione di nuovi servizi
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Creazione di nuovi servizi**
 
 Rientrano in questa categoria quei progetti che mirano a erogare servizi che non hanno al momento dell’avvio dei lavori un corrispettivo né nello spazio fisico, né in digitale. Sono esempi di questa tipologia la realizzazione di uno sportello digitale dedicato alle segnalazioni dei disservizi pubblici geo-localizzati, o i servizi di telemedicina.
 
