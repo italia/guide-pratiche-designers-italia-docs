@@ -3,7 +3,7 @@ Obiettivi del progetto
 
 Il punto di partenza per impostare un processo di trasformazione digitale è definire gli obiettivi che si intende raggiungere.  
 
-Gli obiettivi del progetto devono derivare dalle necessità degli attori coinvolti (sia utenti finali che stakeholder), come definito dal requisito 4.3 delle Linee guida di design. È possibile fare ciò tramite sessioni di co-definizione degli obiettivi con gli attori. 
+Gli obiettivi del progetto devono derivare dalle necessità degli attori coinvolti (sia utenti finali che stakeholder), come definito dal `requisito 4.3 delle Linee guida di design <https://designers.italia.it/norme-e-riferimenti/linee-guida-di-design/requisito-4-3/>`_. È possibile fare ciò tramite sessioni di co-definizione degli obiettivi con gli attori. 
 
 Una volta raccolti gli obiettivi specifici essi devono essere organizzati, raggruppati, sintetizzati ed eventualmente dettagliati in modo tale che: 
 
