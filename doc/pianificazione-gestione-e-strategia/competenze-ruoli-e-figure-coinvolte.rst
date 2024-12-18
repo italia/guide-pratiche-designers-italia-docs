@@ -1,13 +1,12 @@
-Le competenze per progettare servizi pubblici
+Competenze, ruoli e figure coinvolte
 ---------------------------------------------
+Un aspetto fondamentale da indirizzare all’inizio del progetto è quello che riguarda il coinvolgimento delle varie figure necessarie allo svolgimento del progetto.  
 
-Il design necessita di un insieme di competenze funzionali e organizzative.
-Le competenze funzionali vanno dalla conduzione di attività di ricerca con gli utenti alla prototipazione, fino alla capacità di progettazione e  realizzazione di interfacce e contenuti. Queste competenze generano dei ruoli che possono variare in funzione delle caratteristiche del progetto e dell’assetto di un team, possono richiedere specializzazioni verticali su temi specifici (es. *visual design*) o trasversali in grado di coprire diversi aspetti all’interno del processo progettuale (dalla ricerca alla prototipazione).
+La progettazione di servizi digitali in ambito pubblico richiede una serie di **competenze funzionali e organizzative** in tutte le fasi del processo progettuale: dalla ricerca con gli utenti e prototipazione, alla progettazione e realizzazione di servizi, interfacce e contenuti. È possibile reperirle sia internamente agli enti stessi, che attraverso l’affidamento di determinate attività a fornitori esterni o in-house.  
 
-Le competenze manageriali includono la capacità di lavorare in team in modo collaborativo, gestire le relazioni con tutti gli attori coinvolti nel percorso di innovazione, avere un forte orientamento al raggiungimento degli obiettivi e misurare costantemente l’andamento dei progetti.
-Designers Italia incoraggia e indirizza verso l’acquisizione di competenze di design offrendo modelli, kit, storie (*case histories*) oltre che il presente manuale operativo di design, e partecipando direttamente ad alcuni progetti pilota della Pubblica Amministrazione.
+I ruoli a cui fanno capo queste competenze possono variare in base alle caratteristiche del progetto e all’assetto del gruppo di lavoro, e possono richiedere specializzazioni verticali su temi specifici (ad esempio: visual design) o trasversali, in grado di coprire diversi aspetti all’interno del processo progettuale (ad esempio: project management).
 
-
+La seguente tabella fornisce una panoramica delle competenze da applicare nel processo di progettazione di servizi pubblici digitali e relative figure professionali a cui possono afferire. 
 
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |                                                                                                                                                                                             |
@@ -22,7 +21,7 @@ Designers Italia incoraggia e indirizza verso l’acquisizione di competenze di 
 |                                    | tecnologica delle soluzioni proposte e le         | il team internamente e nel                           |                                             |
 |                                    | esigenze degli utenti finali.                     | rapporto con l’amministrazione.                      |                                             |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
-| **Ricerca con gli utenti**         | Conoscere metodi e tecniche di ricerca            | Organizzare la ricerca in base al focus              | - User Researcher                           |
+| **Ricerca primaria**               | Conoscere metodi e tecniche di ricerca            | Organizzare la ricerca in base al focus              | - User Researcher                           |
 |                                    | primari e saper raccogliere e restituire          | del progetto, eseguire interviste e                  | - Antropologo                               |
 |                                    | risultati rilevanti a comprendere il contesto     | osservazioni, con utenti e/o stakeholder,            | - Etnografo                                 |
 |                                    | e l’esperienza d’uso del servizio per             | strutturare e non. Somministrare                     | - UX Researcher                             |
@@ -30,7 +29,7 @@ Designers Italia incoraggia e indirizza verso l’acquisizione di competenze di 
 |                                    |                                                   | analizzare, rielaborare e sintetizzare               |                                             |
 |                                    |                                                   | le evidenze raccolte.                                |                                             |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
-| **Ricerca documentale**            | Conoscere le metodologie e tecniche di            | Pianificare, impostare e svolgere                    | - Design Researcher                         |
+| **Ricerca secondaria**             | Conoscere le metodologie e tecniche di            | Pianificare, impostare e svolgere                    | - Design Researcher                         |
 |                                    | analisi secondaria, mappare i risultati           | ricerca indiretta collezionando casi-studio,         | - UX researcher                             |
 |                                    | ottenuti in modo rilevante per l’obiettivo        | esplorando trend e tecnologie emergenti.             | - Service Designer                          |
 |                                    | del progetto estrapolando osservazioni            | Organizzare e elaborare dati                         | - Trend Analyst                             |
@@ -52,18 +51,18 @@ Designers Italia incoraggia e indirizza verso l’acquisizione di competenze di 
 |                                    | l’ecosistema di servizio in termini di            | modellare i processi e definire i                    |                                             |
 |                                    | erogazione e fruizione.                           | touchpoint(punti di contatto) del servizio digitale. |                                             |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
-| **Progettazione dell'interazione** | Sapere definire le caratteristiche della          | Progettare l’esperienza dell’utente e definire       | - Interaction Designer                      |
-|                                    | interazione tra l’utente e il servizio attraverso | l’interfaccia utente in termini di contenuti         | - UX designer                               |
-|                                    | i touchpoint fisici e digitali, schematizzando    | e funzionalità, prototipando layout statici          | - Solution Architect                        |
-|                                    | i flussi e la struttura di base dell’interfaccia  | (wireframe) o mockup interattivi a                   | - Information Architect                     |
-|                                    | utente.                                           | bassa/media fedeltà.                                 | - UX Writer                                 |
-|                                    |                                                   |                                                      | - Web Accessibility Expert                  |
-+------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 | **Progettazione dei contenuti**    | Saper mediare le esigenze di comunicazione,       | Progettare e realizzare i contenuti visivi e         | - Content designer                          |
 |                                    | di impatto visivo, di leggibilità e di            | testuali nei diversi touchpoint relativi alla        | - Web content editor                        |
 |                                    | accessibilità, adattando i messaggi al            | fruizione del servizio, ottimizzare i contenuti      | - Seo Specialist                            |
 |                                    | contesto specifico e all’utente.                  | e la loro struttura in base alle regole di           | - Information Architect                     |
 |                                    |                                                   | ottimizzazione per i motori di ricerca (SEO).        | - Visual designer                           |
+|                                    |                                                   |                                                      | - Web Accessibility Expert                  |
++------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
+| **Progettazione dell'interazione** | Sapere definire le caratteristiche della          | Progettare l’esperienza dell’utente e definire       | - Interaction Designer                      |
+|                                    | interazione tra l’utente e il servizio attraverso | l’interfaccia utente in termini di contenuti         | - UX designer                               |
+|                                    | i touchpoint fisici e digitali, schematizzando    | e funzionalità, prototipando layout statici          | - Solution Architect                        |
+|                                    | i flussi e la struttura di base dell’interfaccia  | (wireframe) o mockup interattivi a                   | - Information Architect                     |
+|                                    | utente.                                           | bassa/media fedeltà.                                 | - UX Writer                                 |
 |                                    |                                                   |                                                      | - Web Accessibility Expert                  |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 | **Progettazione dell'interfaccia** | Saper tradurre quanto progettato in un artefatto  | Realizzazione della visualizzazione prototipale      | - User Interface Designer                   |
@@ -81,8 +80,7 @@ Designers Italia incoraggia e indirizza verso l’acquisizione di competenze di 
 |                                    | raggiungibilità, accessibilità e usabilità.       |                                                      | - Web Accessibility Expert                  |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 
-Esistono poi competenze essenziali e trasversali alle figure professionali e al processo di progettazione, che riguardano aspetti come l’empatia e la comunicazione,
-la capacità di inquadrare i problemi e gestire l’incertezza, quella di passare rapidamente dalla teoria alla pratica e saper risolvere i problemi.
+Esistono poi **competenze trasversali** alle figure professionali e al processo di progettazione. Queste riguardano aspetti come l’empatia e la comunicazione, la capacità di inquadrare i problemi e gestire l’incertezza, quella di passare rapidamente dalla teoria alla pratica e saper risolvere i problemi. 
 
 +--------------------------------------------------------------------------------------------------+
 | **Competenze trasversali**                                                                       |
@@ -98,3 +96,31 @@ la capacità di inquadrare i problemi e gestire l’incertezza, quella di passar
 +------------------------------------+-------------------------------------------------------------+
 | *Problem solving*                  | Inquadrare i problemi e proporre soluzioni, con concretezza |
 +------------------------------------+-------------------------------------------------------------+
+
+Coordinatore di progetto
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+In un progetto di trasformazione digitale è fondamentale individuare un **coordinatore di progetto** che: 
+
+- formi e coordini un gruppo di lavoro interdisciplinare (interno o tramite forniture) con l’ampiezza e le competenze adatto alle caratteristiche del progetto; 
+
+- rappresenti gli obiettivi dell’amministrazione; 
+
+- abbia ben presente l’obiettivo del progetto, come raggiungerlo e misuri costantemente l’andamento del progetto. 
+
+- favorisca la collaborazione e gestisca le relazioni con tutti gli attori coinvolti; 
+
+- metta gli utenti al centro del processo di progettazione; 
+
+- abbia dimestichezza con l’ambito di servizio in cui si svolge il progetto o si avvalga di referenti tecnici; 
+
+- definisca gli strumenti (quali, come e quando usarli), i tempi e costi (project management), privilegiando strumenti di lavoro open source, aperti e collaborativi, ispirati da una metodologia agile; 
+
+- imposti le ritualità della gestione del progetto (le riunioni cicliche legate ai contenuti di progetto, gli incontri di stato avanzamento lavori, le retrospettive a valle della conclusione di un ciclo di progettazione). 
+
+ 
+Questo coordinatore può essere il Responsabile della transizione al digitale (RTD). Nel caso di progetti svolti tramite forniture esterne, può essere il Responsabile unico del procedimento (RUP) o con il Direttore all’esecuzione del contratto (DEC).  
+
+In ogni caso, anche quando non fosse possibile individuare questa competenza di dominio tra le figure preposte, è bene che chi possiede la responsabilità formale del progetto **si avvalga di referenti tecnici** all’interno del gruppo di lavoro, lasciando loro lo spazio per contribuire rispetto alla loro competenza.  
+
+Ad esempio, in un progetto di definizione del servizio di fatturazione elettronica, è bene individuare una persona che conosca bene i processi di fatturazione e sia in grado di guidare gli esecutori del progetto fornendo consigli e indicazioni su come inviare e processare tali fatture, i dati che queste devono contenere, e così via. 
+
