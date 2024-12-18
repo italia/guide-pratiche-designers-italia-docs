@@ -1,5 +1,5 @@
 Competenze, ruoli e figure coinvolte
----------------------------------------------
+==========================================
 Un aspetto fondamentale da indirizzare all’inizio del progetto è quello che riguarda il coinvolgimento delle varie figure necessarie allo svolgimento del progetto.  
 
 La progettazione di servizi digitali in ambito pubblico richiede una serie di **competenze funzionali e organizzative** in tutte le fasi del processo progettuale: dalla ricerca con gli utenti e prototipazione, alla progettazione e realizzazione di servizi, interfacce e contenuti. È possibile reperirle sia internamente agli enti stessi, che attraverso l’affidamento di determinate attività a fornitori esterni o in-house.  
@@ -98,7 +98,7 @@ Esistono poi **competenze trasversali** alle figure professionali e al processo 
 +------------------------------------+-------------------------------------------------------------+
 
 Coordinatore di progetto
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------
 In un progetto di trasformazione digitale è fondamentale individuare un **coordinatore di progetto** che: 
 
 - formi e coordini un gruppo di lavoro interdisciplinare (interno o tramite forniture) con l’ampiezza e le competenze adatto alle caratteristiche del progetto; 
@@ -123,4 +123,27 @@ Questo coordinatore può essere il Responsabile della transizione al digitale (R
 In ogni caso, anche quando non fosse possibile individuare questa competenza di dominio tra le figure preposte, è bene che chi possiede la responsabilità formale del progetto **si avvalga di referenti tecnici** all’interno del gruppo di lavoro, lasciando loro lo spazio per contribuire rispetto alla loro competenza.  
 
 Ad esempio, in un progetto di definizione del servizio di fatturazione elettronica, è bene individuare una persona che conosca bene i processi di fatturazione e sia in grado di guidare gli esecutori del progetto fornendo consigli e indicazioni su come inviare e processare tali fatture, i dati che queste devono contenere, e così via. 
+
+Definire ruoli e responsabilità
+------------------------------------
+La **mappa degli stakeholder** e la **matrice RACI** sono strumenti utili a riassumere e condividere le responsabilità dei principali attori coinvolti nella progettazione.  
+
+Questi strumenti possono aiutare a rispondere ad alcune domande chiave, tra cui: 
+
+- Chi definisce gli obiettivi strategici e monitora l’andamento del progetto? 
+
+- Chi è responsabile della progettazione dell’esperienza utente? 
+
+- Chi si occupa dello sviluppo, dei test e delle integrazioni? 
+
+- Chi valuta i rilasci e ne misura l’impatto? 
+
+La matrice degli stakeholder 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La matrice degli stakeholder è un diagramma a due assi che permette di descrivere i diversi attori coinvolti, interrogandosi sulla loro partecipazione al progetto in questione.  Aiuta ad assumere il punto di vista di ciascun soggetto, analizzare gli interessi in gioco e agire di conseguenza. 
+
+La matrice si costruisce partendo da due assi cartesiani, relativi rispettivamente al livello di interesse per il progetto e al tipo di influenza su di esso.  
+
+Dall’incrocio di queste due dati si ottengono quattro quadranti, che suggeriscono diverse tipologie di comportamento: per esempio se un attore è molto interessato ma poco influente basterà tenerlo informato sugli avanzamenti del progetto, mentre se un attore è molto influente ma poco interessato sarà necessario prestare attenzione alle sue esigenze e cercare di anticiparle.  
 
