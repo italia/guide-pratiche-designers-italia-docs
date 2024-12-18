@@ -118,7 +118,7 @@ In un progetto di trasformazione digitale è fondamentale individuare un **coord
 - imposti le ritualità della gestione del progetto (le riunioni cicliche legate ai contenuti di progetto, gli incontri di stato avanzamento lavori, le retrospettive a valle della conclusione di un ciclo di progettazione). 
 
  
-Questo coordinatore può essere il Responsabile della transizione al digitale (RTD). Nel caso di progetti svolti tramite forniture esterne, può essere il Responsabile unico del procedimento (RUP) o con il Direttore all’esecuzione del contratto (DEC).  
+Questo coordinatore può essere il Responsabile della transizione al digitale (RTD). Nel caso di progetti svolti tramite forniture esterne, può essere il Responsabile unico del procedimento (RUP) o il Direttore all’esecuzione del contratto (DEC).  
 
 In ogni caso, anche quando non fosse possibile individuare questa competenza di dominio tra le figure preposte, è bene che chi possiede la responsabilità formale del progetto **si avvalga di referenti tecnici** all’interno del gruppo di lavoro, lasciando loro lo spazio per contribuire rispetto alla loro competenza.  
 
