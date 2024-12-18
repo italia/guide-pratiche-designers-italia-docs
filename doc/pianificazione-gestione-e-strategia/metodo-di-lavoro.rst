@@ -76,15 +76,15 @@ Un tavolo tecnico è una sessione di co-progettazione in cui vari attori (tra cu
       Una volta compreso il contesto, è essenziale stabilire gli obiettivi principali del tavolo tecnico. Definire obiettivi chiari e misurabili, insieme ai Key Performance Indicators (KPI), 
       permette di monitorare i progressi e valutare i risultati raggiunti nel tempo. Questo approccio garantisce che il tavolo rimanga focalizzato e orientato verso il raggiungimento delle sue finalità.  
 
-   3. Programmare i lavori 
+   3. **Programmare i lavori** 
 
       Successivamente, è necessario delineare un programma di lavoro dettagliato per la gestione degli incontri e delle attività. Programmare incontri con il gruppo di gestione e coinvolgere gli stakeholder è cruciale per mantenere un approccio coeso. È opportuno prevedere un incontro di kick-off per presentare il progetto e gli obiettivi, seguiti da riunioni operative settimanali o bisettimanali, oltre a meeting di aggiornamento mensili per monitorare l'avanzamento. 
 
-   4. Documentare gli incontri 
+   4. **Documentare gli incontri** 
 
       Per garantire trasparenza e continuità, è fondamentale documentare le attività svolte durante le riunioni. Redigere un documento di note o minute e condividerlo via e-mail non solo permette di mantenere traccia delle discussioni, ma anche di fornire a tutti i membri del gruppo un riferimento chiaro su ciò che è stato deciso e sui passi successivi da intraprendere. 
 
-   5. Monitorare la qualità dei isultati 
+   5. **Monitorare la qualità dei risultati** 
 
       Infine, è essenziale monitorare continuamente la qualità dei risultati emersi dai tavoli tecnici. Utilizzare i KPI definiti per misurare l’avanzamento e l’efficacia delle soluzioni proposte consente di apportare aggiustamenti lungo il percorso progettuale, assicurando che gli obiettivi vengano raggiunti in modo efficace. 
 
