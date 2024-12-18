@@ -35,3 +35,22 @@ Gli **strumenti** possono essere suddivisi in tre categorie principali:
 
 Gli strumenti scelti devono essere **conformi alle normative GDPR e CAD** e **accessibili a tutte le persone** coinvolte. Per ogni strumento scelto, è importante condividere linee guida di utilizzo, regole di netiquette e buone pratiche. 
 
+
+Curare la documentazione di progetto
+------------------------------------------
+
+Curare la documentazione del progetto è una pratica continua che rafforza il lavoro di squadra e l'efficacia operativa nel lungo termine.  
+
+La creazione di un **documento di onboarding** efficace è fondamentale non solo per i nuovi membri del gruppo, ma anche per garantire una continuità e stabilità nel progetto. Questo documento deve fornire una visione chiara e dettagliata del progetto e delle informazioni utili che contribuiranno a facilitare l'integrazione e l'efficienza operativa dei membri, vecchi e nuovi.  
+
+Un documento di onboarding efficace fornisce informazioni utili ai membri del gruppo di lavoro, quali: 
+
+**presentazione del progetto ** - obiettivi, contesto e la missione che si vuole raggiungere; 
+
+** metodo di lavoro** - ruoli, strumenti e rituali adottati; 
+
+** riferimenti utili ** - link a materiali, repository e altre risorse rilevanti. 
+
+Investire tempo nella preparazione di questi documenti riduce il tempo necessario ai nuovi arrivati per essere operativi e favorisce una collaborazione più efficace. Ma il valore di un documento di onboarding non si limita ai nuovi membri, esso funge anche da strumento fondamentale durante i passaggi di consegna tra membri del gruppo.  
+
+In questo modo, il documento non solo migliora l’integrazione dei nuovi arrivati, ma diventa anche un elemento chiave per il mantenimento della coerenza e della continuità all'interno del progetto, contribuendo al suo successo complessivo.  
