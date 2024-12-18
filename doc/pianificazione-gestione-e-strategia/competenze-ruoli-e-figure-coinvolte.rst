@@ -126,6 +126,8 @@ Ad esempio, in un progetto di definizione del servizio di fatturazione elettroni
 
 Definire ruoli e responsabilità
 ------------------------------------
+Una gestione efficace e ben strutturata del progetto dipende in gran parte da una definizione chiara e univoca dei ruoli e delle responsabilità di tutti gli attori coinvolti. Per garantire che ogni attività venga completata con efficienza e che le risorse siano allocate correttamente, è fondamentale identificare e assegnare i responsabili in modo esplicito e condiviso. Questo processo aiuta a evitare sovrapposizioni nei compiti e a chiarire le aspettative tra i membri del team. 
+
 La **mappa degli stakeholder** e la **matrice RACI** sono strumenti utili a riassumere e condividere le responsabilità dei principali attori coinvolti nella progettazione.  
 
 Questi strumenti possono aiutare a rispondere ad alcune domande chiave, tra cui: 
@@ -145,5 +147,27 @@ La matrice degli stakeholder è un diagramma a due assi che permette di descrive
 
 La matrice si costruisce partendo da due assi cartesiani, relativi rispettivamente al livello di interesse per il progetto e al tipo di influenza su di esso.  
 
-Dall’incrocio di queste due dati si ottengono quattro quadranti, che suggeriscono diverse tipologie di comportamento: per esempio se un attore è molto interessato ma poco influente basterà tenerlo informato sugli avanzamenti del progetto, mentre se un attore è molto influente ma poco interessato sarà necessario prestare attenzione alle sue esigenze e cercare di anticiparle.  
+Dall’incrocio di queste due dati si ottengono quattro quadranti, che suggeriscono diverse tipologie di comportamento: per esempio se un attore è molto interessato ma poco influente basterà tenerlo informato sugli avanzamenti del progetto, mentre se un attore è molto influente ma poco interessato sarà necessario prestare attenzione alle sue esigenze e cercare di anticiparle.
+
+
+La matrice RACI
+^^^^^^^^^^^^^^^^^^^
+
+Per facilitare l’assegnazione delle responsabilità, uno degli strumenti più utilizzati è la matrice RACI, che mette in relazione le risorse coinvolte con le attività del progetto, fornendo una visione chiara di "chi fa che cosa". 
+
+La matrice RACI definisce quattro ruoli chiave, i cui acronimi derivano dai termini inglesi e descrivono le diverse interazioni tra risorse e attività: 
+
+- **Responsible (R)**: la persona incaricata di completare l’attività; 
+
+- **Accountable (A)**: la persona con la responsabilità finale di supervisionare e approvare l’attività; 
+
+- **Consulted (C)**: chi fornisce supporto o consulenza durante l’esecuzione dell’attività; 
+
+- **Informed (I)**: chi deve essere aggiornato sull’avanzamento e sul completamento dell’attività, senza esserne direttamente coinvolto. 
+
+La matrice è generalmente rappresentata come una tabella in cui le attività sono indicate nelle righe e gli attori nelle colonne. Le lettere R, A, C e I vengono inserite nelle celle per indicare il ruolo di ciascun membro rispetto a ogni attività. Un principio fondamentale nella costruzione della matrice è che i ruoli Responsible e Accountable debbano essere assegnati a una sola persona per evitare ambiguità nei processi decisionali e garantire chiarezza nella gestione delle responsabilità. 
+
+L’utilizzo della matrice RACI riduce le sovrapposizioni e i rischi di attività duplicate, facilitando una divisione bilanciata dei compiti. Inoltre, permette di monitorare facilmente l’assegnazione delle responsabilità, migliorare la collaborazione tra i membri del team e aumentare la responsabilizzazione di ciascuna risorsa. Grazie alla sua capacità di chiarire il coinvolgimento di ogni attore in ogni fase del progetto, ottimizza la comunicazione e il flusso di lavoro, rendendo il progetto più efficiente. 
+
+ 
 
