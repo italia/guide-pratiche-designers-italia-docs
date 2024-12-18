@@ -66,11 +66,13 @@ Un tavolo tecnico è una sessione di co-progettazione in cui vari attori (tra cu
    :class: procedure
    
    1. **Identificare gli attori**
+
       Il primo passo nella creazione di un tavolo tecnico consiste nell’identificare i principali attori coinvolti. È utile realizzare una mappa degli attori per distinguere tra figure operative e 
       decisori. Questa mappatura permette di definire il ruolo di ciascun partecipante per il successo del tavolo, assicurando che tutte le voci rilevanti siano rappresentate e che le competenze 
       necessarie siano disponibili nel gruppo. 
 
    2. **Definire gli obiettivi**
+
       Una volta compreso il contesto, è essenziale stabilire gli obiettivi principali del tavolo tecnico. Definire obiettivi chiari e misurabili, insieme ai key performance indicators (KPI), 
       permette di monitorare i progressi e valutare i risultati raggiunti nel tempo. Questo approccio garantisce che il tavolo rimanga focalizzato e orientato verso il raggiungimento delle sue finalità.  
 
