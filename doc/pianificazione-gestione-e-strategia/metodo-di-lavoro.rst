@@ -53,4 +53,26 @@ Un documento di onboarding efficace fornisce informazioni utili ai membri del gr
 
 Investire tempo nella preparazione di questi documenti riduce il tempo necessario ai nuovi arrivati per essere operativi e favorisce una collaborazione più efficace. Ma il valore di un documento di onboarding non si limita ai nuovi membri, esso funge anche da strumento fondamentale durante i passaggi di consegna tra membri del gruppo.  
 
-In questo modo, il documento non solo migliora l’integrazione dei nuovi arrivati, ma diventa anche un elemento chiave per il mantenimento della coerenza e della continuità all'interno del progetto, contribuendo al suo successo complessivo.  
+In questo modo, il documento non solo migliora l’integrazione dei nuovi arrivati, ma diventa anche un elemento chiave per il mantenimento della coerenza e della continuità all'interno del progetto, contribuendo al suo successo complessivo.
+
+Organizzare tavoli tecnici collaborativi 
+-------------------------------------------
+
+La creazione di tavoli tecnici collaborativi è un passo fondamentale per garantire progetti di trasformazione digitale efficaci e sinergici, in grado di raccordare le attività del governo centrale con le esigenze specifiche del territorio. I tavoli tecnici sono infatti un’opportunità per riunire diversi attori, facilitare la cooperazione e raccogliere diversi punti di vista.  
+
+Un tavolo tecnico è una sessione di co-progettazione in cui vari attori (tra cui progettisti, utenti, stakeholder della Pubblica Amministrazione e rappresentanti del settore privato) si riuniscono per discutere criticità e proporre soluzioni. La presenza di un facilitatore è consigliata per guidare la discussione, garantendo che tutti i partecipanti possano esprimere le proprie opinioni e contribuire attivamente al processo. 
+
+.. topic:: Come organizzare un tavolo tecnico
+   :class: procedure
+   
+   1. **Identificare gli attori**
+      Il primo passo nella creazione di un tavolo tecnico consiste nell’identificare i principali attori coinvolti. È utile realizzare una mappa degli attori per distinguere tra figure operative e 
+      decisori. Questa mappatura permette di definire il ruolo di ciascun partecipante per il successo del tavolo, assicurando che tutte le voci rilevanti siano rappresentate e che le competenze 
+      necessarie siano disponibili nel gruppo. 
+
+   2. **Definire gli obiettivi**
+      Una volta compreso il contesto, è essenziale stabilire gli obiettivi principali del tavolo tecnico. Definire obiettivi chiari e misurabili, insieme ai key performance indicators (KPI), 
+      permette di monitorare i progressi e valutare i risultati raggiunti nel tempo. Questo approccio garantisce che il tavolo rimanga focalizzato e orientato verso il raggiungimento delle sue finalità.  
+
+
+
