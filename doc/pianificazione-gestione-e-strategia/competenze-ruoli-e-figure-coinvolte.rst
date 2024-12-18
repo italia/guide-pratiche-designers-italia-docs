@@ -2,7 +2,7 @@ Competenze, ruoli e figure coinvolte
 ==========================================
 Un aspetto fondamentale da indirizzare all’inizio del progetto è il coinvolgimento delle varie figure necessarie allo svolgimento delle attività.  
 
-La progettazione di servizi digitali in ambito pubblico richiede una serie di **competenze funzionali e organizzative** in tutte le fasi del processo progettuale: dalla ricerca con gli utenti e prototipazione, alla progettazione e realizzazione di servizi, interfacce e contenuti. È possibile reperirle sia internamente agli enti stessi, che attraverso l’affidamento di determinate attività a fornitori esterni o in-house.  
+La progettazione di servizi digitali in ambito pubblico richiede una serie di **competenze funzionali e organizzative** in tutte le fasi del processo progettuale: dalla ricerca con gli utenti e prototipazione, alla progettazione e realizzazione di servizi, interfacce e contenuti. È possibile reperirle sia internamente agli enti stessi (*in-house*), che attraverso l’affidamento di determinate attività a fornitori esterni.  
 
 I ruoli a cui fanno capo queste competenze possono variare in base alle caratteristiche del progetto e all’assetto del gruppo di lavoro, e possono richiedere specializzazioni verticali su temi specifici (ad esempio: visual design) o trasversali, in grado di coprire diversi aspetti all’interno del processo progettuale (ad esempio: project management).
 
