@@ -45,11 +45,11 @@ La creazione di un **documento di onboarding** efficace è fondamentale non solo
 
 Un documento di onboarding efficace fornisce informazioni utili ai membri del gruppo di lavoro, quali: 
 
-**presentazione del progetto ** - obiettivi, contesto e la missione che si vuole raggiungere; 
+- **presentazione del progetto ** - obiettivi, contesto e la missione che si vuole raggiungere; 
 
-** metodo di lavoro** - ruoli, strumenti e rituali adottati; 
+- ** metodo di lavoro** - ruoli, strumenti e rituali adottati; 
 
-** riferimenti utili ** - link a materiali, repository e altre risorse rilevanti. 
+- ** riferimenti utili ** - link a materiali, repository e altre risorse rilevanti. 
 
 Investire tempo nella preparazione di questi documenti riduce il tempo necessario ai nuovi arrivati per essere operativi e favorisce una collaborazione più efficace. Ma il valore di un documento di onboarding non si limita ai nuovi membri, esso funge anche da strumento fondamentale durante i passaggi di consegna tra membri del gruppo.  
 
