@@ -169,5 +169,28 @@ La matrice è generalmente rappresentata come una tabella in cui le attività so
 
 L’utilizzo della matrice RACI riduce le sovrapposizioni e i rischi di attività duplicate, facilitando una divisione bilanciata dei compiti. Inoltre, permette di monitorare facilmente l’assegnazione delle responsabilità, migliorare la collaborazione tra i membri del team e aumentare la responsabilizzazione di ciascuna risorsa. Grazie alla sua capacità di chiarire il coinvolgimento di ogni attore in ogni fase del progetto, ottimizza la comunicazione e il flusso di lavoro, rendendo il progetto più efficiente. 
 
+
+Prendere decisioni
+-----------------------
+
+La capacità di prendere decisioni in modo efficace è un elemento chiave per il successo di qualsiasi progetto. Le decisioni devono essere basate su un'analisi accurata delle opzioni disponibili e su un allineamento agli obiettivi strategici delineati nel brief iniziale del progetto. 
+
+Uno degli strumenti più utili per prendere decisioni informate e strategiche è la **matrice delle priorità**. Questo strumento permette di valutare diverse opzioni sulla base di due criteri fondamentali, rappresentandoli su un diagramma a due assi: 
+
+- **impatto**, ovvero quanto un'opzione contribuisce al raggiungimento degli obiettivi del progetto. Varia da "basso" a "alto" e viene rappresentato sull'asse orizzontale; 
+
+- **sforzo**, ovvero il livello di risorse necessarie per implementare quell'opzione (in termini di tempo, costi e competenze). Varia da "basso" a "alto" e viene rappresentato sull'asse verticale.
+
+Dall'incrocio di questi assi si ottengono quattro quadranti, ciascuno con una diversa implicazione decisionale: 
+
+- **Alto impatto - Basso sforzo **: opzioni prioritarie e immediate, di norma chiamati Quick win. Queste attività offrono un grande valore con uno sforzo minimo e dovrebbero essere eseguite per prime.  
+
+- ** Alto impatto - Alto sforzo**: sono gli investimenti strategici. Queste opzioni richiedono una valutazione approfondita e pianificazione, in quanto rappresentano interventi significativi che, sebbene impegnativi, portano grandi benefici. 
+
+- ** Basso impatto - Basso sforzo **: rappresentano le azioni tattiche. Possono essere eseguite se rimangono risorse disponibili, ma non dovrebbero essere prioritarie. 
+
+- ** Basso impatto - Alto sforzo **: le azioni da evitare. Queste opzioni non giustificano le risorse necessarie per la loro realizzazione.
+
+
  
 
