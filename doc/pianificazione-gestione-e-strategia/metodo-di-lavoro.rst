@@ -92,4 +92,55 @@ Un tavolo tecnico è una sessione di co-progettazione in cui vari attori (tra cu
 La corretta organizzazione di un tavolo tecnico collaborativo può fare la differenza nella qualità del servizio pubblico erogato. Promuovendo un ambiente di collaborazione e apertura, queste iniziative possono affrontare le criticità esistenti e costruire soluzioni più inclusive e sostenibili. In tal modo, si contribuisce a una governance più efficace e a un intervento mirato nella pubblica amministrazione, realizzando così una trasformazione digitale che risponde realmente alle esigenze del territorio. 
 
 
+Prendere decisioni
+-----------------------
+
+La capacità di prendere decisioni in modo efficace è un elemento chiave per il successo di qualsiasi progetto. Le decisioni devono essere basate su un'analisi accurata delle opzioni disponibili e su un allineamento agli obiettivi strategici delineati nel brief iniziale del progetto. 
+
+Uno degli strumenti più utili per prendere decisioni informate e strategiche è la **matrice delle priorità**. Questo strumento permette di valutare diverse opzioni sulla base di due criteri fondamentali, rappresentandoli su un diagramma a due assi: 
+
+- **impatto**, ovvero quanto un'opzione contribuisce al raggiungimento degli obiettivi del progetto. Varia da "basso" a "alto" e viene rappresentato sull'asse orizzontale; 
+
+- **sforzo**, ovvero il livello di risorse necessarie per implementare quell'opzione (in termini di tempo, costi e competenze). Varia da "basso" a "alto" e viene rappresentato sull'asse verticale.
+
+Dall'incrocio di questi assi si ottengono quattro quadranti, ciascuno con una diversa implicazione decisionale: 
+
+- **Alto impatto - Basso sforzo**: opzioni prioritarie e immediate, di norma chiamati Quick win. Queste attività offrono un grande valore con uno sforzo minimo e dovrebbero essere eseguite per prime.  
+
+- **Alto impatto - Alto sforzo**: sono gli investimenti strategici. Queste opzioni richiedono una valutazione approfondita e pianificazione, in quanto rappresentano interventi significativi che, sebbene impegnativi, portano grandi benefici. 
+
+- **Basso impatto - Basso sforzo**: rappresentano le azioni tattiche. Possono essere eseguite se rimangono risorse disponibili, ma non dovrebbero essere prioritarie. 
+
+- **Basso impatto - Alto sforzo**: le azioni da evitare. Queste opzioni non giustificano le risorse necessarie per la loro realizzazione.
+
+L'utilizzo della matrice delle priorità deve essere guidato dagli obiettivi descritti nel brief iniziale del progetto.
+
+ 
+.. topic:: Come guidare il processo decisionale con la matrice delle priorità
+   :class: procedure
+   
+   1. **Raccogliere e analizzare le opzioni**
+
+      Le opzioni devono essere definite in base agli obiettivi di alto livello precedentemente stabiliti. Ad esempio, un obiettivo potrebbe essere migliorare l'accessibilità di un servizio digitale. 
+
+   2. **Valutare impatto e sforzo**
+
+      Per ogni opzione, stimare l'impatto sull'utente finale, la coerenza con gli obiettivi strategici e lo sforzo richiesto in termini di risorse umane, finanziarie e tecnologiche.
+
+   3. **Posizionare le opzioni nella matrice**
+
+      Inserire ciascuna opzione nel quadrante appropriato, utilizzando dati quantitativi (es. costi stimati, tempo previsto) e qualitativi (es. feedback degli stakeholder).
+
+   4. **Definire le priorità** 
+ 
+      Scegliere quali azioni intraprendere immediatamente, quali pianificare per una fase successiva e quali scartare. 
+
+
+
+Rimane comunque importante coinvolgere gli stakeholder nel processo decisionale per garantire un consenso ampio e allineato agli obiettivi strategici. Strumenti come i tavoli tecnici collaborativi e le retrospettive periodiche possono essere utilizzati per discutere le priorità, verificare le ipotesi di impatto e sforzo e monitorare le decisioni prese nel tempo. 
+
+La matrice delle priorità, integrata con un approccio collaborativo, aiuta a creare un processo decisionale trasparente e orientato ai risultati, massimizzando l'efficacia delle risorse disponibili e il raggiungimento degli obiettivi del progetto. 
+
+
+
 
