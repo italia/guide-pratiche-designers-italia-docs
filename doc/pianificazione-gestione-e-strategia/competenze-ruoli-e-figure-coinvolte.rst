@@ -183,13 +183,13 @@ Uno degli strumenti più utili per prendere decisioni informate e strategiche è
 
 Dall'incrocio di questi assi si ottengono quattro quadranti, ciascuno con una diversa implicazione decisionale: 
 
-- **Alto impatto - Basso sforzo **: opzioni prioritarie e immediate, di norma chiamati Quick win. Queste attività offrono un grande valore con uno sforzo minimo e dovrebbero essere eseguite per prime.  
+- **Alto impatto - Basso sforzo**: opzioni prioritarie e immediate, di norma chiamati Quick win. Queste attività offrono un grande valore con uno sforzo minimo e dovrebbero essere eseguite per prime.  
 
-- ** Alto impatto - Alto sforzo**: sono gli investimenti strategici. Queste opzioni richiedono una valutazione approfondita e pianificazione, in quanto rappresentano interventi significativi che, sebbene impegnativi, portano grandi benefici. 
+- **Alto impatto - Alto sforzo**: sono gli investimenti strategici. Queste opzioni richiedono una valutazione approfondita e pianificazione, in quanto rappresentano interventi significativi che, sebbene impegnativi, portano grandi benefici. 
 
-- ** Basso impatto - Basso sforzo **: rappresentano le azioni tattiche. Possono essere eseguite se rimangono risorse disponibili, ma non dovrebbero essere prioritarie. 
+- **Basso impatto - Basso sforzo**: rappresentano le azioni tattiche. Possono essere eseguite se rimangono risorse disponibili, ma non dovrebbero essere prioritarie. 
 
-- ** Basso impatto - Alto sforzo **: le azioni da evitare. Queste opzioni non giustificano le risorse necessarie per la loro realizzazione.
+- **Basso impatto - Alto sforzo**: le azioni da evitare. Queste opzioni non giustificano le risorse necessarie per la loro realizzazione.
 
 
  
