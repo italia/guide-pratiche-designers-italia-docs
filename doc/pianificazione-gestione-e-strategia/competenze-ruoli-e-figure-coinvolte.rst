@@ -191,6 +191,30 @@ Dall'incrocio di questi assi si ottengono quattro quadranti, ciascuno con una di
 
 - **Basso impatto - Alto sforzo**: le azioni da evitare. Queste opzioni non giustificano le risorse necessarie per la loro realizzazione.
 
+L'utilizzo della matrice delle priorità deve essere guidato dagli obiettivi descritti nel brief iniziale del progetto.
 
  
+.. topic:: Come guidare il processo decisionale con la matrice delle priorità
+   :class: procedure
+   
+   1. **Raccogliere e analizzare le opzioni**
 
+      Le opzioni devono essere definite in base agli obiettivi di alto livello precedentemente stabiliti. Ad esempio, un obiettivo potrebbe essere migliorare l'accessibilità di un servizio digitale. 
+
+   2. **Valutare impatto e sforzo**
+
+      Per ogni opzione, stimare l'impatto sull'utente finale, la coerenza con gli obiettivi strategici e lo sforzo richiesto in termini di risorse umane, finanziarie e tecnologiche.
+
+   3. **Posizionare le opzioni nella matrice**
+
+      Inserire ciascuna opzione nel quadrante appropriato, utilizzando dati quantitativi (es. costi stimati, tempo previsto) e qualitativi (es. feedback degli stakeholder).
+
+   4. **Definire le priorità** 
+ 
+      Scegliere quali azioni intraprendere immediatamente, quali pianificare per una fase successiva e quali scartare. 
+
+
+
+Rimane comunque importante coinvolgere gli stakeholder nel processo decisionale per garantire un consenso ampio e allineato agli obiettivi strategici. Strumenti come i tavoli tecnici collaborativi e le retrospettive periodiche possono essere utilizzati per discutere le priorità, verificare le ipotesi di impatto e sforzo e monitorare le decisioni prese nel tempo. 
+
+La matrice delle priorità, integrata con un approccio collaborativo, aiuta a creare un processo decisionale trasparente e orientato ai risultati, massimizzando l'efficacia delle risorse disponibili e il raggiungimento degli obiettivi del progetto. 
