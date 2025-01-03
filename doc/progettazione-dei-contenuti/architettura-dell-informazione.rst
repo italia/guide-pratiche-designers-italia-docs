@@ -49,8 +49,7 @@ L'alberatura segue una struttura gerarchica simile a un albero. La homepage è s
 
    *Esempio di struttura ad albero di un sito web.*
 
-Una buona alberatura aiuta gli utenti a trovare facilmente le informazioni di cui hanno bisogno, riducendo il numero di clic necessari per raggiungere una pagina specifica.
-
+Una buona alberatura aiuta gli utenti, anche di tecnologie assistive, a trovare facilmente le informazioni di cui hanno bisogno, riducendo il numero di clic necessari e il carico cognitivo per raggiungere una pagina specifica.
 
 La posizione di una pagina in alberatura influenzerà alcuni elementi chiave, come le breadcrumbs e le URL. Ad esempio, se nel sito di un Comune, la pagina dell’Ufficio Anagrafe è posizionata nella sezione “Amministrazione”, sotto la voce “Uffici””:
 
