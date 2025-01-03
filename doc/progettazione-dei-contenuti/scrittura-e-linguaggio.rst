@@ -19,6 +19,9 @@ Uno dei modelli di lettura più comuni sul web è l'**F-Pattern**, così chiamat
 
 Gli utenti dedicano pochi secondi a una pagina per decidere se proseguire la lettura o abbandonarla. I contenuti devono essere chiari e immediatamente comprensibili, con le informazioni principali ben visibili. Le persone cercano informazioni specifiche, ignorando parti del contenuto che non ritengono rilevanti. Questo le porta a saltare interi paragrafi o sezioni se non rispondono immediatamente alle loro domande o esigenze.
 
+Inoltre, le persone che utilizzano tecnologie assistive non visive, come lettori di schermo vocali o display Braille, leggono una pagina web principalmente in due modi: esplorando la struttura gerarchica basata sulla semantica degli elementi (ad esempio, intestazioni, articoli, sezioni) oppure effettuando una lettura sequenziale rapida per individuare le parti di interesse. Se la pagina non è organizzata in modo chiaro e i titoli delle sezioni non sono esplicativi, questi utenti rischiano di saltare o ignorare sezioni importanti, compromettendo l’efficacia della pagina rispetto agli obiettivi per cui è stata progettata.
+
+
 Le regole per un linguaggio semplice
 ----------------------------------------
 Il linguaggio, il tono di voce e la formattazione dei contenuti sono quindi elementi cruciali dell’esperienza utente di un sito o servizio digitale. Una Pubblica Amministrazione che mette le persone al centro sa parlare in modo semplice, chiaro ed empatico. 
