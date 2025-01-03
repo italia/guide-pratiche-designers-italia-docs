@@ -13,5 +13,5 @@ Il linguaggio e i contenuti, tuttavia, sono centrali nell’esperienza utente, p
 
 Indirizzare da subito la progettazione dei contenuti in un’ottica utente centrica significa progettare siti e servizi digitali che rispondono alle esigenze delle persone. Ogni contenuto dovrebbe, infatti, **rispondere a un bisogno utente ben preciso** ed **essere comprensibile** a prescindere dall’età, le competenze e le abilità degli utenti.
 
-È importante **iniziare da subito con la progettazione dei contenuti** poichè la loro natura influenzerà anche la progettazione dell'interazione **(LINK A CAPITOLO)** e la progettazione dell'interfaccia **(LINK A CAPITOLO)**.
+È importante **iniziare da subito con la progettazione dei contenuti** poichè la loro natura influenzerà anche la `progettazione dell'interazione <../../doc/progettazione-dell-interazione.html>`_ e la `progettazione dell'interfaccia <../../doc/progettazione-dell-interfaccia.html>`_.
 
