@@ -39,7 +39,7 @@ In questa fase il focus è su attività di costruzione e sviluppo del *touchpoin
 
 Designers Italia mette a disposizione `kit di progettazione utili a realizzare e svilupparel'interfaccia utente <https://designers.italia.it/risorse-per-progettare/realizzare/>`_. 
 
-Nel `design system .italia <https://designers.italia.it/design-system/> ci sono, inoltre, a disposizione librerie, template e modelli per costruire interfacce digitali con uno stile visivo definito e coerente, oltre che componenti e codice open source di sviluppo.
+Nel `design system .italia <https://designers.italia.it/design-system/>`_ ci sono, inoltre, a disposizione librerie, template e modelli per costruire interfacce digitali con uno stile visivo definito e coerente, oltre che componenti e codice open source di sviluppo.
 
 Gli elementi del design system includono tutte le caratteristiche necessarie per poter sviluppare interfacce utente conformi ai requisiti di accessibilità digitale. Inoltre, la documentazione per ogni elemento include una sezione relativa all’accessibilità. Si segnala, tuttavia, che per garantire l’accessibilità delle interfacce utente non è sufficiente combinare i componenti disponibili: è indispensabile utilizzarli in conformità con le Linee guida per l'accessibilità (WCAG).
 
