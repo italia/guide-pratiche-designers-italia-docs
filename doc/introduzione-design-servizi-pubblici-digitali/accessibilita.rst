@@ -40,15 +40,15 @@ Le fasi di progettazione antecedenti allo sviluppo **possono e devono quindi inc
 
 In particolare, i designers devono:
 
-1. prevedere paradigmi di interazione che includono differenti modalità di presentazione e di fruizione delle funzionalità e dei contenuti conformemente alle linee guida WCAG 2.1;
+1. prevedere paradigmi di interazione che includono differenti modalità di presentazione e di fruizione delle funzionalità e dei contenuti conformemente al livello AA delle WCAG nella versione referenziate dalle Linee guida di accessibilità e dalla norma tecnica UNI CEI EN 310549 oggi in vigore;
 
-2. individuare, insieme agli sviluppatori, i framework che mettono a disposizione in fase di implementazione tutte le caratteristiche di accessibilità previste dalle linee guida WCAG 2.1 (Livello AA);
+2. individuare, insieme agli sviluppatori, i framework che mettono a disposizione in fase di implementazione tutte le caratteristiche di accessibilità previste dal livello AA delle WCAG nella versione referenziate dalle Linee guida di accessibilità e dalla norma tecnica UNI CEI EN 310549 oggi in vigore;
 
 3. pianificare test di accessibilità automatici e, dove possibile, test condotti da utenti di diverse tecnologie assistive, sia sui prototipi in sviluppo che sul servizio digitale prima del rilascio;
 
 4. definire flussi di lavoro che mantengano l’accessibilità nel tempo, coinvolgendo le figure professionali che aggiornano il servizio digitale con testi, immagini e contenuti multimediali, prevedendo per loro momenti di formazione specifica;
 
-5. progettare meccanismi di documentazione del servizio che siano conformi alle linee guida WCAG 2.1 (Livello AA).
+5. progettare meccanismi di documentazione del servizio che siano conformi al livello AA delle WCAG nella versione referenziate dalle Linee guida di accessibilità e dalla norma tecnica UNI CEI EN 310549 oggi in vigore.
 
 
 Il principio di accessibilità *by design* - cioè fin dalle basi della progettazione - è quindi la scelta fondamentale per creare servizi digitali accessibili e deve essere inoltre associata al principio di accessibilità *by default*, cioè il principio secondo cui ogni tipo di documentazione e risorsa a supporto (manuali, schemi *wireframe* e *mockup* a diversa definizione, *framework* di sviluppo, *template* HTML per modelli standard, linee guida...) dovrebbe contenere i requisiti di accessibilità necessari per fare in modo che ogni istanza applicativa abbia basi strutturali efficaci.
