@@ -41,6 +41,8 @@ Anche JavaScript ti permette di analizzare qualsiasi funzionalità presente tra 
  
 Esistono anche librerie ed esempi di codice che hanno l’obiettivo di arginare le differenze tra i vari Browser fornendo il supporto di alcune funzionalità altrimenti mancanti, le cosiddette pratiche di *polyfill* e *shim*. 
 
+Si osservi che sebbene sia fondamentale rilevare alcune caratteristiche del metodo di accesso al sito da parte dell’utente per garantire un’esperienza ottimale e accessibile, non è opportuno tentare di identificare l’uso di specifiche tecnologie assistive per adattare di conseguenza l'esperienza di fruizione del servizio. La conformità alle linee guida WCAG non richiede la creazione di versioni specifiche per gli utenti che utilizzano tecnologie assistive, ma piuttosto l’applicazione dei principi del design for all, che promuovono una progettazione inclusiva per tutti gli utenti.
+
 Verificare le feature disponibili con Can I use
 ------------------------------------------------
 
