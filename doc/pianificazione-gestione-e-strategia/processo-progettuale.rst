@@ -29,7 +29,13 @@ I kit da utilizzare in questa fase servono a ideare con utenti e *stakeholder* s
 Realizzare l’interfaccia utente del servizio
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 In questa fase il focus è su attività di costruzione e sviluppo del *touchpoint* digitale attraverso il quale l’utente interagirà con il servizio pubblico. Serve a comporre letteralmente i componenti dell’interfaccia utente tenendo presenti temi grafici e di interazione, per testare e sviluppare il cosiddetto *front-end* del servizio.
-Le risorse di questi kit forniscono gli strumenti operativi per disegnare e sviluppare l'interfaccia di un *touchpoint* digitale. Ci sono a disposizione librerie, template e modelli per costruire interfacce digitali con uno stile visivo definito e coerente, oltre che componenti e codice open source di sviluppo, le fondamenta di un vero e proprio *design system* nazionale in divenire.
+Le risorse di questi kit forniscono gli strumenti operativi per disegnare e sviluppare l'interfaccia di un *touchpoint* digitale. 
+Ci sono a disposizione librerie, template e modelli per costruire interfacce digitali con uno stile visivo definito e coerente, oltre che componenti e codice open source di sviluppo, le fondamenta di un vero e proprio *design system* nazionale in divenire.
+
+Gli elementi del design system includono tutte le caratteristiche necessarie per poter sviluppare interfacce utente conformi ai requisiti di accessibilità digitale. Inoltre, la documentazione per ogni elemento include una sezione relativa all’accessibilità.
+ 
+Si segnala, tuttavia, che per garantire l’accessibilità delle interfacce utente non è sufficiente combinare i componenti disponibili: è indispensabile utilizzarli in conformità con le Linee guida per l'accessibilità (WCAG).
+
 
 Validare la soluzione ottenuta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
