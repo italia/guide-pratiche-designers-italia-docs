@@ -13,7 +13,7 @@ Una buona architettura dell’informazione aiuta le persone a comprendere ciò c
 
 L’architettura dell’informazione può comprendere:
   
-- l'**alberatura**, ovvero la posizione delle pagine nella struttura di un sito, o il flusso di navigazione, ovvero la sequenza in cui vengono presentati i contenuti in un flusso di interazione lineare (come la compilazione di una richiesta online); 
+- l'**alberatura**, ovvero la posizione delle pagine nella struttura di un sito, o il flusso di interazione, ovvero la sequenza lineare in cui vengono presentati i contenuti in un servizio (come la compilazione di una richiesta online); 
 - i **sistemi di navigazione**, ovvero quegli elementi che aiutano le persone a capire dove si trovano e dove devono andare; 
 - le **tipologie di contenuto**, in inglese **content type**, ovvero delle scalette di contenuti standardizzati per assicurare l'uniformità informativa; 
 - le **ontologie**, ovvero le rappresentazioni formali di un dominio di conoscenza attraverso cui si può garantire l’interoperabilità e interscambio dei dati tra diversi ambienti digitali; 
@@ -78,25 +78,25 @@ Una volta completato il card sorting, i dati vengono raccolti e analizzati per i
 
 
 
-Flussi di servizio
-====================
-Un altro caso di architettura dell’informazione sono i tipici flussi di fruizione dei servizi digitale. Al contrario di un sito web, i flussi di servizio non hanno una struttura ad albero, ma sono formati da una **serie di passaggi sequenziali**.
+Flussi di interazione
+======================
+Un altro caso di architettura dell’informazione sono i tipici flussi di interazione i servizi digitali. Al contrario di un sito web, i flussi di interazione non hanno una struttura ad albero, ma sono formati da una **serie di passaggi sequenziali**.
 
 .. figure:: images/image2.png
-   :alt: flusso di fruizione di un servizio digitale
+   :alt: flusso di interazione con un servizio digitale
    :align: center
 
-   *Rappresentazione del flusso di fruizione di un servizio digitale: percorso di navigazione e relazioni tra contenuti.*
+   *Rappresentazione del flusso di interazione con un servizio digitale: percorso di navigazione e relazioni tra contenuti.*
 
-Ogni passaggio presenterà i contenuti e le informazioni necessarie per poter andare avanti nel flusso. Un buon flusso di servizio non sovraccarica l’utente, ma scandisce le informazioni necessarie su più schermate, mostrandole solo quando sono necessarie all’utente. 
+Ogni passaggio presenterà i contenuti e le informazioni necessarie per poter andare avanti nel flusso. Un buon flusso di interazione non sovraccarica l’utente, ma scandisce le informazioni necessarie su più schermate, mostrandole solo quando sono necessarie all’utente. 
 
-Per progettare i contenuti di un flusso di servizio in modo efficace, è fondamentale condurre una ricerca utente specifica che aiuti a comprendere i bisogni, i comportamenti e le aspettative degli utenti durante l'interazione con il servizio. Alcune attività di ricerca utili sono le interviste, sondaggi e questionari, mappatura dell’user journey e i test di usabilità. 
+Per progettare i contenuti di un flusso di interazione in modo efficace, è fondamentale condurre una ricerca utente specifica che aiuti a comprendere i bisogni, i comportamenti e le aspettative degli utenti durante l'interazione con il servizio. Alcune attività di ricerca utili sono le interviste, sondaggi e questionari, mappatura dell’user journey e i test di usabilità. 
 
 Una volta raccolte le necessità informative degli utenti, è utile schematizzare i risultati usando i content wireframe. I content wireframe sono rappresentazioni schematiche, semplificate e visive di una pagina web o di un'interfaccia digitale, focalizzate sull'organizzazione e disposizione dei contenuti piuttosto che sul design grafico o sull'estetica.
 
 .. admonition:: Risorse disponibili
 
-   Il `kit Processi e servizi <https://designers.italia.it/risorse-per-progettare/progettare/processi-e-servizi/>`_ di Designers Italia ti aiuta a progettare e rappresentare i flussi di servizio di processi sequenziali. Se stai progettando servizi digitali per un Comune, sono già disponibili all'uso i flussi di servizio e le interfacce per i `principali servizi comunali <https://designers.italia.it/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/>`_ nel modello Comuni di Designers Italia.
+   Lo strumento `Flussi di interazione <https://designers.italia.it/risorse-per-progettare/progettare/prototipazione/definisci-i-flussi-di-interazione/>`_, parte del `kit Prototipazione <https://designers.italia.it/risorse-per-progettare/progettare/prototipazione/>`_ di Designers Italia, ti aiuta a progettare e rappresentare i flussi di interazione di processi sequenziali. Se stai progettando servizi digitali per un Comune, sono già disponibili all'uso i flussi di interazione e le interfacce per i `principali servizi comunali <https://designers.italia.it/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/>`_ nel modello Comuni di Designers Italia.
 
 Sistemi di navigazione
 =============================
