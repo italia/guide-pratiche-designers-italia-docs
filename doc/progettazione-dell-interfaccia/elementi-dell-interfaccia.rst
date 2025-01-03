@@ -27,7 +27,7 @@ I pulsanti, per esempio, sono elementi cliccabili o attivabili che permettono di
 
 **Moduli (form)**
 
-I **moduli (form) rappresentano un altro elemento chiave: campi di input, checkbox e select a tendina consentono agli utenti di inserire o selezionare dati. Questi devono essere accompagnati da etichette e istruzioni chiare per prevenire confusione, ed essere accompagnati da sistemi di validazione degli errori che ne guidino la risoluzione.
+I moduli (form) rappresentano un altro elemento chiave: campi di input, checkbox e select a tendina consentono agli utenti di inserire o selezionare dati. Questi devono essere accompagnati da etichette e istruzioni chiare per prevenire confusione, ed essere accompagnati da sistemi di validazione degli errori che ne guidino la risoluzione.
 
 Quando si definiscono le etichette, è importante considerare che vengono utilizzate anche da persone che si avvalgono di tecnologie assistive, sia per la lettura vocale sia per il controllo tramite comandi vocali. Ad esempio, le persone che navigano utilizzando la voce, possono aver necessità di pronunciare il nome di un'etichetta per raggiungere uno specifico campo in un modulo. Pertanto, le etichette devono essere non solo facilmente leggibili visivamente, ma anche chiare e semplici da ascoltare e pronunciare. Ad esempio, un’etichetta composta esclusivamente da consonanti può risultare difficile da comprendere attraverso un lettore vocale e poco riconoscibile per un software di riconoscimento vocale quando pronunciata. Nel caso in cui sia necessario utilizzare etichette di questo tipo (ad esempio, per vincoli legali), è consigliabile integrarle con un nome esteso più facile da ascoltare e pronunciare.
 
