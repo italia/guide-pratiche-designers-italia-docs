@@ -96,7 +96,7 @@ Una volta raccolte le necessità informative degli utenti, è utile schematizzar
 
 .. admonition:: Risorse disponibili
 
-   Lo strumento `Flussi di interazione <https://designers.italia.it/risorse-per-progettare/progettare/prototipazione/definisci-i-flussi-di-interazione/>`_, parte del `kit Prototipazione <https://designers.italia.it/risorse-per-progettare/progettare/prototipazione/>`_ di Designers Italia, ti aiuta a progettare e rappresentare i flussi di interazione di processi sequenziali. Se stai progettando servizi digitali per un Comune, sono già disponibili all'uso i flussi di interazione e le interfacce per i `principali servizi comunali <https://designers.italia.it/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/>`_ nel modello Comuni di Designers Italia.
+   Lo `strumento Flussi di interazione <https://designers.italia.it/risorse-per-progettare/progettare/prototipazione/definisci-i-flussi-di-interazione/>`_, parte del `kit Prototipazione <https://designers.italia.it/risorse-per-progettare/progettare/prototipazione/>`_ di Designers Italia, ti aiuta a progettare e rappresentare i flussi di interazione di processi sequenziali. Se stai progettando servizi digitali per un Comune, sono già disponibili all'uso i flussi di interazione e le interfacce per i `principali servizi comunali <https://designers.italia.it/modelli/comuni/adotta-il-modello-di-servizi-digitali-comunali/>`_ nel modello Comuni di Designers Italia.
 
 Sistemi di navigazione
 =============================
