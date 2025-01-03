@@ -5,6 +5,10 @@ presente lungo tutto il ciclo di progettazione del prodotto/servizio digitale. A
 predefinita) - che prevede che prodotti e servizi rispettino i principi generali di protezione dei dati personali come ad esempio il principio di minimizzazione dei 
 dati o quello di limitazione delle finalità - è parte dell’articolo 25 del Regolamento Europeo generale sulla protezione dei dati (GDPR - UE/2016/679). 
 
+.. admonition:: Risorse disponibili
+
+   Il `kit Privacy <https://designers.italia.it/risorse-per-progettare/organizzare/privacy/>`_ di Designers Italia ti guida passo per passo a comprendere e mettere in pratica gli adempimenti connessi alla privacy per la tua soluzione digitale.
+
 Come rispettare la privacy sin dalla progettazione di un sito o servizio digitale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Progettare i servizi digitali comporta in primo luogo il rispetto di due principi fondamentali richiamati dall’articolo 25 del GDPR:
