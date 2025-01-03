@@ -205,4 +205,4 @@ per una buona indicizzazione dei contenuti sui motori di ricerca.
       rispettare la corretta gestione delle etichette di navigazione,
       del *microcopy*, dei metadati, dei tag e delle categorie.
 
-
+   -  **Strumenti per l'inserimento di informazioni finalizzate a migliorare l'accessibilità dei contenuti**: possibilità di aggiungere testi alternativi alle immagini o etichette non visibili, concepite per agevolare la fruizione dei contenuti tramite lettori di schermo. Si raccomanda pertanto di non inserire informazioni ridondanti o eccessivamente prolisse, evitando la sovrapposizione con contenuti testuali visibili già presenti nella pagina.
