@@ -11,6 +11,8 @@ Tramite varie attività di ricerca, si possono raccogliere dati:
 
 I dati raccolti vanno poi rielaborati in modo da avere un quadro quanto più dettagliato della situazione corrente, identificare aree da approfondire attraverso ulteriori attività di ricerca e informare le scelte progettuali.
 
+In questo capitolo esploreremo i principali metodi di ricerca primaria e secondaria.
+
 
 .. toctree::
   :maxdepth: 3
