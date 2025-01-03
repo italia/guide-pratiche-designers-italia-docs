@@ -8,7 +8,7 @@ Alcune regole generali sono:
 - usa contenuti di **alta qualità con buona risoluzione**. Ad esempio, evita di usare immagini sgranate in cui è difficile capire i dettagli e il contenuto; 
 - **evita di utilizzare immagini con testo** in sovrimpressione, poiché non è leggibile dalle tecnologie assistive e potrebbe venir troncato a seconda del dispositivo su cui viene visualizzata l’immagine; 
 - **usa i testi alternativi** per descrivere il contenuto e lo scopo delle immagini; 
-- **aggiungi sottotitoli** (closed captions) **e trascrizioni** per i video.
+- **aggiungi sottotitoli** (closed captions) **e trascrizioni** per i video e i contenuti solo audio.
 
 Per approfondire, vai alle `Linee guida per l'accessibilità dei contenuti web (WCAG 2.2) <https://www.w3.org/Translations/WCAG22-it/>`_.
 
