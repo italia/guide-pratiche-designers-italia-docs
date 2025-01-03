@@ -58,6 +58,9 @@ Sulla base di questi elementi sarà possibile:
  - mappare l’attuale `esperienza utente <https://designers.italia.it/kit/esperienza-utente/>`__ dei diversi profili coinvolti (*user journey*);
  - evidenziare le criticità e immaginare quali percorsi è necessario migliorare. 
 
+La fase di riprogettazione può presentare numerose criticità per quanto riguarda l'accessibilità. Infatti, se non si presta particolare attenzione ai requisiti di accessibilità, è possibile che a seguito di aggiornamenti di elementi del design system o di migrazioni incomplete di dati e metadati, alcune funzionalità diventino non accessibili. Ad esempio, se sono state istanziate etichette nascoste che non vengono mantenute nella riprogettazione, alcune funzionalità potrebbero risultare non accessibili a chi usa un lettore di schermo.
+
+
 **Riprogettazione di servizi esistenti in chiave digitale**
 
 Rientrano in questa categoria quei progetti che mirano a portare dei servizi erogati analogicamente anche su canali digitali. Sebbene possano sembrare meno 
@@ -78,6 +81,9 @@ In questi casi, è opportuno:
  - comprendere l’intero sistema che supporta l’erogazione del servizio (system map), verificare quali aspetti possono essere digitalizzati e quali no e capire come le due dimensioni si integrano; 
  - identificare le funzionalità chiave del servizio digitale e iniziare la progettazione partendo dalla costruzione di scenari e flussi di interazione che faranno da riferimenti per tutte le attività di progettazione e realizzazione, da svolgere in parallelo; 
  - durante la prototipazione è bene verificare con gli utenti gli avanzamenti, in modo da validare la direzione progettuale e l’usabilità del servizio (test di usabilità).
+
+In relazione all'accessibilità, la trasposizione digitale dello user-journey analogico tipicamente non è conforme ai requisiti normativi. Si pensi, ad esempio, alla trasposizione dei moduli cartacei in documenti PDF da stampare e compilare con la penna e caricare firmati. Questi documenti difficilmente possono essere conformi ai requisiti di accessibilità. La progettazione del servizio in modo indipendente dallo user-journey analogico potrebbe prevedere la compilazione di un modulo online pienamente accessibile.
+
 
 **Creazione di nuovi servizi**
 
