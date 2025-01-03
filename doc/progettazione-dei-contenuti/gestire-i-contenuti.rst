@@ -126,7 +126,7 @@ Il redesign di un sito, infatti, è un’ottima opportunità per riorganizzare, 
    
    5. Riscrivi i contenuti, seguendo le indicazioni del design system su `Linguaggio <https://designers.italia.it/design-system/fondamenti/linguaggio/>`_, `Tono di voce <https://designers.italia.it/design-system/fondamenti/tono-di-voce/>`_, `Microtesti <https://designers.italia.it/design-system/fondamenti/microtesti/>`_ e la `Guida al linguaggio della Pubblica Amministrazione <https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/index.html>`_. 
    
-   6. Scegli i contenuti multimediali (immagini e video) da migrare o individuane di nuovi. Prediligi i contenuti di buona qualità e con una risoluzione ottimizzata per il web. Ricorda che se i contenuti ritraggono delle persone, **devi per legge ottenere il loro consenso (LINK CAPITOLO)**.
+   6. Scegli i contenuti multimediali (immagini e video) da migrare o individuane di nuovi. Prediligi i contenuti di buona qualità e con una risoluzione ottimizzata per il web. Ricorda che se i contenuti ritraggono delle persone, `devi per legge ottenere il loro consenso <../../doc/progettazione-dei-contenuti/proprieta-intellettuale-e-privacy.html#consenso-dei-soggetti-ritratti>`_.
    
    7. Stabiliti i titoli delle pagine, prendi nota delle nuove URL (per approfondire: Vai a URL nel capitolo SEO) e affiancale a quelle vecchie su un file CSV. Questo documento ti servirà per impostare i reindirizzamenti (redirects) una volta che il nuovo sito è online. Sul documento, specifica se si tratta di reindirizzamenti 301 (definitivi) o 302 (temporanei). Se un pagina del sito precedente non ha una corrispondenza con una del nuovo, è consigliato scegliere una pagina che tratti un argomento affine.
 
