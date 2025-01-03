@@ -15,28 +15,25 @@ Questo manuale operativo si propone di supportare:
 - la **corretta allocazione delle risorse**, basata sull’identificazione delle priorità e l’adozione di standard che evitino sprechi e duplicazioni di attività; 
 - la **pratica amministrativa di amministratori e i tecnici della PA negli adempimenti normativi** descritti dalle Linee guida.
 
+Il Manuale operativo di design si colloca all’interno di un sistema in continua evoluzione e si basa su una logica di miglioramento continuo. Poiché i contenuti presenti all’interno del manuale operativo di design evolvono continuamente, diventa fondamentale introdurre il versionamento che consente di tenere traccia dei diversi rilasci nel tempo.
+
 Versionamento e storico 
 -------------------------
 
-Il Manuale operativo di design beneficia del *version control system* (sistema di controllo versione) di GitHub, per cui esiste una traccia pubblica di tutte le modifiche effettuate e dei relativi autori. Il Manuale operativo adotta un sistema di tilascio basato sui tag di GitHub. Ogni release è etichettata secondo un sistema basato su anno e versione. Le versioni sono espresse attraverso un numero progressivo. Il sistema delle release è in vigore dal 2022, quindi la prima release delle linee guida è 2022.1 (prima release del 2022). 
+Il Manuale operativo di design beneficia del *version control system* (sistema di controllo versione) di GitHub, per cui esiste una traccia pubblica di tutte le modifiche effettuate e dei relativi autori. Grazie al versionamento, chi realizza siti e servizi aderenti alle Linee guida a norma CAD di riferimento, può citare una precisa versione del manuale operativo di design che utilizza (da citare, ad esempio, quando si partecipa a un bando di gara).
 
-Il manuale contiene le indicazioni operative a supporto delle Linee guida di design dei siti internet e servizi digitali della PA, emanate a norma CAD e disponibili in un documento sulla pagina Docs Italia creato ad hoc. 
-Di interesse che sia le Linee guida a norma CAD, che il presente manuale, sono la diretta evoluzione delle precedenti Linee guida di design per i siti web della PA, ancora disponibili a solo scopo di consultazione storica sulla relativa pagina di Docs Italia. La versione più aggiornata del manuale è etichettata come "Versione corrente".
+Ogni rilascio è etichettato secondo un sistema basato su anno e versione. Le versioni sono espresse attraverso un numero progressivo. Il sistema delle release è in vigore dal 2022, quindi la prima release delle linee guida è 2022.1 (prima release del 2022). 
 
-I nuovi contenuti e le modifiche a contenuti esistenti -  dopo essere approvati - vengono pubblicati nella versione "bozza" del manuale operativo, disponibile per una discussione pubblica e revisione da parte della *community*. Solo successivamente, in occasione di una nuova *release* del manuale, il team di Designers Italia valuta eventualmente di consolidare e farle confluire, dopo eventuali modifiche, nella versione ufficiale "versione corrente".
+È possibile consultare la **versione più aggiornata** del manuale selezionando "**Versione corrente**" dal menu a tendina nell'header.
 
-Stile della documentazione
------------------------------
-Il Manuale operativo di design è stato redatto seguendo la *style-guide* (guida di stile) di redazione dei testi pubblici. 
-In particolare:
- - linguaggio semplice e comprensibile a un pubblico ampio; 
- - brevità e uso di elenchi; 
- - ricorso ad esempi, meglio se supportati da immagini e collegamenti. 
+
 
 Consultazione della documentazione
 -------------------------------------
-`La documentazione è disponibile su Docs Italia <../../../stable/index.html>`_, la piattaforma di gestione della documentazione pubblica gestita dal Dipartimento per la trasformazione digitale.
-Tutti i documenti di Docs Italia possono essere fruiti anche in formato .epub e .pdf.
+I capitoli del manuale sono strutturati attorno a specifiche aree di competenza o domini di conoscenza e abilità necessarie per svolgere attività di design dei servizi e dei prodotti digitali nella Pubblica Amministrazione italiana. Questo approccio mira a fornire risorse pratiche e conoscenze mirate per affrontare compiti specifici in base alle capacità richieste.
+
+Ogni capitolo è concepito per essere direttamente applicabile alle sfide quotidiane dei progettisti, aiutandoli a svolgere il proprio lavoro in modo efficiente e seguendo le migliori pratiche.
+
 
 Sviluppo collaborativo
 -----------------------------
@@ -51,4 +48,4 @@ Altre risorse per l’editing in formato .rst:
 | `Editor per le tabelle <http://truben.no/table/>`_
 | `Altro <http://docutils.sourceforge.net/docs/user/links.html#editors>`_
 
-Il Manuale operativo di design si colloca all’interno di un sistema in continua evoluzione e si basa su una logica di miglioramento continuo. Poiché i contenuti presenti all’interno del manuale operativo di design evolvono continuamente, diventa fondamentale introdurre il versionamento che consente di tenere traccia dei diversi rilasci nel tempo. Grazie al versionamento, chi realizza siti e servizi aderenti alle Linee guida a norma CAD di riferimento, può citare una precisa versione del manuale operativo di design che utilizza (da citare, ad esempio, quando si partecipa a un bando di gara).
+I nuovi contenuti e le modifiche a contenuti esistenti -  dopo essere approvati - vengono pubblicati nella versione "bozza" del manuale operativo, disponibile per una discussione pubblica e revisione da parte della *community*. Solo successivamente, in occasione di una nuova *release* del manuale, il team di Designers Italia valuta eventualmente di consolidare e farle confluire, dopo eventuali modifiche, nella versione ufficiale "versione corrente".
