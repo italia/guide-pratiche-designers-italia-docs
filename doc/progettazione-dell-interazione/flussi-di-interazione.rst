@@ -11,6 +11,9 @@ Dopo aver completato la costruzione di ciascun flusso di interazione, puoi evide
 
 Una volta raggiunto questo livello di dettaglio, puoi poi iniziare a progettare lo schema dell’interfaccia (wireframe) e i primi prototipi. 
 
-`Vai allo strumento per definire i flussi di interazione <https://designers.italia.it/risorse-per-progettare/progettare/prototipazione/definisci-i-flussi-di-interazione/>`_
+
+.. admonition:: Risorse disponibili
+
+   Lo strumento `Flussi di interazione <https://designers.italia.it/risorse-per-progettare/progettare/prototipazione/definisci-i-flussi-di-interazione/>`_, parte del `kit Prototipazione <https://designers.italia.it/risorse-per-progettare/progettare/prototipazione/>`_ di Designers Italia, ti aiuta a identificare le azioni che un utente compie per interagire con con un servizio digitale.
 
  
