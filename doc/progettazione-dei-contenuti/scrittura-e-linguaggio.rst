@@ -74,7 +74,7 @@ I microtesti che accompagnano e descrivono gli elementi grafici delle interfacce
 
 .. admonition:: Risorse disponibili
 
-   Approfondisci i vari tipi di microtesti nel capitolo sulla progettazione dell’interfaccia (**LINK A CAPITOLO**) e trova indicazioni pratiche per la loro progettazione nel `fondamento Microtesti <https://designers.italia.it/design-system/fondamenti/microtesti/>`_ del design system .italia.
+   Approfondisci i `vari tipi di microtesti <../../doc/progettazione-dell-interfaccia/elementi-dell-interfaccia.html#elementi-testuali-microtesti>`_ nel capitolo sulla progettazione dell’interfaccia e trova indicazioni pratiche per la loro progettazione nel `fondamento Microtesti <https://designers.italia.it/design-system/fondamenti/microtesti/>`_ del design system .italia.
 
 .. admonition:: deepening
    :class: admonition-deepening display-page
