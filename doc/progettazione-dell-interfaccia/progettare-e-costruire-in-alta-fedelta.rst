@@ -13,9 +13,11 @@ Questo tipo di visualizzazione include:
 
 L'obiettivo è fornire una visualizzazione il più possibile vicina al prodotto finale, permettendo una valutazione accurata delle caratteristiche, dell’aspetto e delle funzionalità prima dello sviluppo. Questo approccio facilita la comunicazione con gli stakeholder e guida efficacemente il team di sviluppo. 
 
-ll **kit di Costruzione interfaccia** è lo strumento che puoi utilizzare in questa fase, perché offre tutte le risorse già pronte per assemblare e realizzare ogni tipologia di prodotto digitale. Le risorse di questo kit sono parte integrante del design system .italia e ti aiutano ad assemblare velocemente l’interfaccia in alta fedeltà, tramite fondamenti (accessibilità, tipografia, colori) e componenti (icone, navigazione, pulsanti) già validati e con uno stile riconoscibile e coerente.
 
-`Vai al kit di Costruzione interfaccia <https://designers.italia.it/risorse-per-progettare/realizzare/costruzione-interfaccia/>`_
+.. admonition:: Risorse disponibili
+
+   ll `kit Costruzione interfaccia <https://designers.italia.it/risorse-per-progettare/realizzare/costruzione-interfaccia/>`_ di Designers Italia è lo strumento che puoi utilizzare in questa fase, perché offre tutte le risorse già pronte per assemblare e realizzare ogni tipologia di prodotto digitale. Le risorse di questo kit sono parte integrante del design system .italia e ti aiutano ad assemblare velocemente l’interfaccia in alta fedeltà, tramite fondamenti (accessibilità, tipografia, colori) e componenti (icone, navigazione, pulsanti) già validati e con uno stile riconoscibile e coerente.
+
 
 
 Layout di pagina
