@@ -212,4 +212,4 @@ in cui puoi specificare la destinazione del contenuto.
 
 .. admonition:: Risorse disponibili
 
-   Il `kit Privacy <https://designers.italia.it/risorse-per-progettare/organizzare/privacy/>` di Designers Italia ti aiuta a trattare correttamente i dati personali riferiti ai principali casi d'uso che dovrai gestire progettando e realizzando un servizio digitale.
+   Il `kit Privacy <https://designers.italia.it/risorse-per-progettare/organizzare/privacy/>`_ di Designers Italia ti aiuta a trattare correttamente i dati personali riferiti ai principali casi d'uso che dovrai gestire progettando e realizzando un servizio digitale.
