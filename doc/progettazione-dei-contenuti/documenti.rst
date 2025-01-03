@@ -157,6 +157,8 @@ descrizione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it
 del documento Pdf che si intende pubblicare per favorire
 l’indicizzazione dei contenuti sul web.
 
+Per i documenti non web specificare sempre con quale applicazione è possibile leggerli e fornire il collegamento per scaricare l'applicazione.
+
 .. admonition:: Importante
 
    La soluzione più adatta è mostrare il contenuto in formato Html. Se
