@@ -329,6 +329,8 @@ piccolo campione di partecipanti, queste diverse categorie. Così, il nostro gru
 potrebbe essere composto, ad esempio, da tre partecipanti che rappresentino il
 pubblico più ampio e tre che rappresentino i consulenti del lavoro.
 
+Si suggerisce di includere nelle tipologie di partecipanti anche persone che utilizzano differenti tecnologie assistive.
+
 Più è differenziato il nostro bacino di utenza, più difficile sarà rappresentare
 in un piccolo campione tutte le tipologie di utenti. In tal caso possiamo condurre
 l’osservazione con la consapevolezza che i risultati non possono coprire tutti
