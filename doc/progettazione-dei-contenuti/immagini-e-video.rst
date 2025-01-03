@@ -10,7 +10,7 @@ Alcune regole generali sono:
 - **usa i testi alternativi** per descrivere il contenuto e lo scopo delle immagini; 
 - **aggiungi sottotitoli** (closed captions) **e trascrizioni** per i video e i contenuti solo audio.
 
-Per approfondire, vai alle `Linee guida per l'accessibilità dei contenuti web (WCAG 2.2) <https://www.w3.org/Translations/WCAG22-it/>`_.
+Per approfondire, vai alle `Linee guida per l'accessibilità dei contenuti web (WCAG) <https://www.w3.org/Translations/WCAG22-it/>`_.
 
 Testo alternativo (alt text) per le immagini
 ------------------------------------------------------
