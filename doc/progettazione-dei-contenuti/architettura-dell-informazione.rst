@@ -125,7 +125,7 @@ Tipica di un flusso di servizio, la navigazione a step è usata in applicazioni 
 
 **Footer**
 
-La navigazione nel `footer <https://designers.italia.it/design-system/componenti/footer/>`_ della pagina replica o integra la navigazione globale con link aggiuntivi, come le politiche di privacy, termini di servizio, link ai social media, ecc.
+La navigazione nel `footer <https://designers.italia.it/design-system/componenti/footer/>`_ della pagina replica o integra la navigazione globale con link aggiuntivi, come le politiche di privacy, termini di servizio, la dichiarazione di accessibilità link ai social media, ecc.
 
 
 Tipologie di contenuto (content type)
