@@ -41,3 +41,7 @@ Validare la soluzione ottenuta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Questa fase riguarda **attività di valutazione e monitoraggio**; l’obiettivo non è soltanto quello di valutare l’adesione a quanto previsto dalle normative dedicate rispetto a usabilità e accessibilità, ma soprattutto quello di misurare l’effettivo utilizzo del servizio digitale da parte del cittadino, in modo da individuare aree da far evolvere e ottimizzare.
 I kit proposti servono a pianificare e svolgere i test di usabilità, verificare l’accessibilità e monitorare le performance dei servizi tramite attività di web analytics.
+
+Al fine di realizzare servizi accessibili è importante prevedere test di accessibilità agili già nelle fasi di validazione dei prototipi coinvolgendo esperti di accessibilità digitale e, dove possibile, utenti di tecnologie assistive. 
+I risultati di tali test consentono di informare e orientare le fasi successive della progettazione, evitando di dover  riprogettare intere sezioni dei servizi digitali qualora i test di accessibilità condotti sul prodotto finale evidenzino criticità da risolvere.
+
