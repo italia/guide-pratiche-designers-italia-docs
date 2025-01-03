@@ -16,3 +16,7 @@ Date queste priorità, i wireframe non comprendono stili, colore o grafica ma 
 Una volta identificata l’impostazione ottimale, questa costituisce il riferimento generale dal quale puoi procedere alla progettazione di dettaglio dell’interfaccia. 
 
 `Vai allo strumento per realizzare prototipi in bassa fedeltà <https://designers.italia.it/risorse-per-progettare/progettare/prototipazione/realizza-un-prototipo-in-bassa-fedelta/>`_
+
+.. admonition:: Risorse disponibili
+
+   Lo `strumento Wireframe <https://designers.italia.it/risorse-per-progettare/progettare/prototipazione/realizza-un-prototipo-in-bassa-fedelta/>`_, parte del `kit Prototipazione <https://designers.italia.it/risorse-per-progettare/progettare/prototipazione/>`_ di Designers Italia, ti aiuta a realizzare prototipi in bassa fedeltà.
