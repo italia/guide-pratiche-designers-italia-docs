@@ -30,7 +30,7 @@ Ogni rilascio è etichettato secondo un sistema basato su anno e versione. Le ve
 
 Consultazione della documentazione
 -------------------------------------
-I capitoli del manuale sono strutturati attorno a specifiche aree di competenza o domini di conoscenza e abilità necessarie per svolgere attività di design dei servizi e dei prodotti digitali nella Pubblica Amministrazione italiana. Questo approccio mira a fornire risorse pratiche e conoscenze mirate per affrontare compiti specifici in base alle capacità richieste.
+I capitoli del manuale sono strutturati attorno a specifiche `aree di competenza <../../doc/pianificazione-gestione-e-strategia/competenze-ruoli-e-figure-coinvolte.html>`_ o domini di conoscenza e abilità necessarie per svolgere attività di design dei servizi e dei prodotti digitali nella Pubblica Amministrazione italiana. Questo approccio mira a fornire risorse pratiche e conoscenze mirate per affrontare compiti specifici in base alle capacità richieste.
 
 Ogni capitolo è concepito per essere direttamente applicabile alle sfide quotidiane dei progettisti, aiutandoli a svolgere il proprio lavoro in modo efficiente e seguendo le migliori pratiche.
 
@@ -40,6 +40,8 @@ Sviluppo collaborativo
 
 Il presente manuale è un documento pubblico, e chiunque può partecipare al processo di revisione e aggiornamento attraverso gli strumenti messi a disposizione attraverso GitHub, in particolare le `issues <https://guides.github.com/features/issues/>`_ (per le discussioni) e le `pull request <https://help.github.com/articles/about-pull-requests/>`_ (per le proposte di modifica).
 
+I nuovi contenuti e le modifiche a contenuti esistenti -  dopo essere approvati - vengono pubblicati nella versione "bozza" del manuale operativo, disponibile per una discussione pubblica e revisione da parte della *community*. Solo successivamente, in occasione di una nuova *release* del manuale, il team di Designers Italia valuta eventualmente di consolidare e farle confluire, dopo eventuali modifiche, nella versione ufficiale "versione corrente".
+
 I contenuti del manuale sono redatti in file .rst e possono essere aggiornati via GitHub. Qui è disponibile una `guida alla sintassi RST <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_.
 
 Altre risorse per l’editing in formato .rst:
@@ -47,5 +49,3 @@ Altre risorse per l’editing in formato .rst:
 | `Editor per il testo <http://rst.ninjs.org/>`_
 | `Editor per le tabelle <http://truben.no/table/>`_
 | `Altro <http://docutils.sourceforge.net/docs/user/links.html#editors>`_
-
-I nuovi contenuti e le modifiche a contenuti esistenti -  dopo essere approvati - vengono pubblicati nella versione "bozza" del manuale operativo, disponibile per una discussione pubblica e revisione da parte della *community*. Solo successivamente, in occasione di una nuova *release* del manuale, il team di Designers Italia valuta eventualmente di consolidare e farle confluire, dopo eventuali modifiche, nella versione ufficiale "versione corrente".
