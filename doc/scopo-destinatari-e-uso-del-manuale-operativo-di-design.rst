@@ -18,12 +18,12 @@ Questo manuale operativo si propone di supportare:
 Versionamento e storico 
 -------------------------
 
-Il Manuale operativo di design beneficia del *version control system* (sistema di controllo versione) di GitHub, per cui esiste una traccia pubblica di tutte le modifiche effettuate e dei relativi autori. Il Manuale operativo adotta un sistema di release (rilascio) basato sui tag di GitHub. Ogni release è etichettata secondo un sistema basato su anno e versione. Le versioni sono espresse attraverso un numero progressivo. Il sistema delle release è in vigore dal 2022, quindi la prima release delle linee guida è 2022.1 (prima release del 2022). 
+Il Manuale operativo di design beneficia del *version control system* (sistema di controllo versione) di GitHub, per cui esiste una traccia pubblica di tutte le modifiche effettuate e dei relativi autori. Il Manuale operativo adotta un sistema di tilascio basato sui tag di GitHub. Ogni release è etichettata secondo un sistema basato su anno e versione. Le versioni sono espresse attraverso un numero progressivo. Il sistema delle release è in vigore dal 2022, quindi la prima release delle linee guida è 2022.1 (prima release del 2022). 
 
 Il manuale contiene le indicazioni operative a supporto delle Linee guida di design dei siti internet e servizi digitali della PA, emanate a norma CAD e disponibili in un documento sulla pagina Docs Italia creato ad hoc. 
-Di interesse che sia le Linee guida a norma CAD, che il presente manuale, sono la diretta evoluzione delle precedenti Linee guida di design per i siti web della PA, ancora disponibili a solo scopo di consultazione storica sulla relativa pagina di Docs Italia.  
+Di interesse che sia le Linee guida a norma CAD, che il presente manuale, sono la diretta evoluzione delle precedenti Linee guida di design per i siti web della PA, ancora disponibili a solo scopo di consultazione storica sulla relativa pagina di Docs Italia. La versione più aggiornata del manuale è etichettata come "Versione corrente".
 
-I nuovi contenuti e le modifiche a contenuti esistenti -  dopo essere approvati - vengono pubblicati nella versione "bozza" del manuale operativo, disponibile per una discussione pubblica e revisione da parte della *community*. Solo successivamente, in occasione di una nuova *release* del manuale, il team di Designers Italia valuta eventualmente di consolidare e farle confluire, dopo eventuali modifiche, nella versione ufficiale "stabile".
+I nuovi contenuti e le modifiche a contenuti esistenti -  dopo essere approvati - vengono pubblicati nella versione "bozza" del manuale operativo, disponibile per una discussione pubblica e revisione da parte della *community*. Solo successivamente, in occasione di una nuova *release* del manuale, il team di Designers Italia valuta eventualmente di consolidare e farle confluire, dopo eventuali modifiche, nella versione ufficiale "versione corrente".
 
 Stile della documentazione
 -----------------------------
