@@ -63,8 +63,8 @@ Sono importanti perché:
 
    Per la user story *“Come utente nuovo, voglio trovare rapidamente informazioni di contatto, in modo da poter chiedere assistenza"* usata prima come esempio, i criteri di accettazione potrebbero essere:
    
-   - L'utente può trovare un link o un pulsante "Contatti" facilmente visibile nella barra di navigazione principale o nel footer della pagina. 
-   - Nella pagina dei contatti devono essere disponibili almeno tre modalità di contatto, come email, numero di telefono e modulo di contatto diretto. 
+   - L'utente può trovare un link o un pulsante "Contatti" facilmente visibile e identificabile con le tecnologie assistive nella barra di navigazione principale o nel footer della pagina. 
+   - Nella pagina dei contatti devono essere disponibili almeno tre modalità di contatto, fruibili attraverso canali sensoriali diversi, come email, numero di telefono e modulo di contatto diretto. 
    - Nella sezione dei contatti, viene indicato chiaramente il tempo di risposta previsto per ogni modalità di assistenza (ad esempio "Risposta via email entro 24 ore"). 
    - La sezione "Contatti" deve essere facilmente accessibile e fruibile anche da dispositivi mobili, con layout adattato e interazioni facili per chiamare o inviare email direttamente dal telefono. 
 
@@ -72,6 +72,7 @@ Sono importanti perché:
 
    - L’utente può cercare una guida specifica tramite una barra di ricerca.
    - Le guide devono essere facilmente navigabili e comprensibili.
+   - La guida deve rispettare i criteri di accessibilità per le pagine web o per i documenti scaricabili.
    - Deve essere presente un pulsante per contattare l’assistenza se la guida non risolve il problema.
    - La guida deve essere visualizzabile sia da desktop che da mobile. 
 
