@@ -7,8 +7,6 @@ Abbiamo messo a disposizione un processo a 5 fasi, versatile e scalabile, per ri
 
 Le fasi sono ulteriormente dettagliate in termini di attività suggerite e per ciascuna di esse vengono messi a disposizione gli strumenti adatti per svolgerla, così da facilitare pubbliche amministrazioni e fornitori nell’adottare un approccio virtuoso alla trasformazione digitale dei servizi pubblici.
 
-Questa struttura di riferimento permette agli utenti di **orientarsi all’interno del sito e trovare tutte le risorse e gli strumenti utili a impostare il progetto e svolgere il processo**.
-
 Questo processo si deve intendere come:
  - **flessibile**, poiché per ciascuna fase si possono impostare e svolgere attività diverse a seconda del progetto;
  - **modulare**, poiché può essere intrapreso da una qualsiasi delle cinque fasi e svolto in maniera sequenziale;
