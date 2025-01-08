@@ -5,7 +5,7 @@ Vengono definite *secondarie* tutte le attività di **raccolta e analisi di dati
 
 Lo scopo è **definire scelte di progettazione che tengano conto della situazione corrente e di eventuali buone pratiche già in uso**, così da non reinventare la ruota. 
 
-Queste attività, quindi, **non** raccolgono informazioni sulle persone coinvolte nel progetto (stakeholder e/o utenti finali), ma si basano sull'analisi di statistiche, reportistica e prodotti simili già esistenti.
+Queste attività, quindi, **non** raccolgono informazioni dalle persone coinvolte nel progetto (stakeholder e/o utenti finali), ma si basano sull'analisi di statistiche, studi e prodotti simili già esistenti.
 
 A seconda dell’attività svolta, i dati raccolti possono essere sia **quantitativi** che **qualitativi**. In entrambi i casi, i dati raccolti vengono poi analizzati e sintetizzati in report che aiutano a indirizzare le scelte progettuali.
 
