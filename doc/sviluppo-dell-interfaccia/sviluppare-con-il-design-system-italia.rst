@@ -28,18 +28,9 @@ Il kit React contiene componenti programmati in linguaggio JavaScript, costruiti
 
 `Vai alla documentazione del kit React <https://italia.github.io/design-react-kit/>`_
 
-Per facilitare gli sviluppatori è stato realizzato anche uno starter kit basato su Next.js e uno basato su Gatsby, applicazioni già pronte all’uso. 
-
-`Vai allo starter kit React per Gatsby  
-
-Vai allo starter kit React per Next.js  
 
 Il kit di sviluppo Angular
 -----------------------------
 Il kit Angular contiene componenti programmati in linguaggio JavaScript, costruiti sulle basi di Angular (dalla versione 17 in poi), una libreria open source per sviluppo di applicazioni web e mobile ad alta interattività e scambio di dati.
 
-Vai alla documentazione del kit Angular
-
-Per facilitare gli sviluppatori è stato realizzato anche uno starter kit con un’applicazione Angular già pronta all’uso.
-
-Vai allo starter kit Angular
+`Vai alla documentazione del kit Angular <https://italia.github.io/design-angular-kit/design-angular-kit>`_
